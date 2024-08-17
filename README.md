@@ -5,42 +5,39 @@
 
 ## Contents
 
-- [Awesome Stars ](#awesome-stars-)
-  - [Contents](#contents)
-  - [Astro](#astro)
-  - [AutoIt](#autoit)
-  - [C](#c)
-  - [C#](#c-1)
-  - [C++](#c-2)
-  - [CSS](#css)
-  - [Cuda](#cuda)
-  - [Dart](#dart)
-  - [Elixir](#elixir)
-  - [Git Attributes](#git-attributes)
-  - [Go](#go)
-  - [HTML](#html)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [Jupyter Notebook](#jupyter-notebook)
-  - [Kotlin](#kotlin)
-  - [MDX](#mdx)
-  - [Markdown](#markdown)
-  - [Mojo](#mojo)
-  - [Others](#others)
-  - [PHP](#php)
-  - [Pawn](#pawn)
-  - [Python](#python)
-  - [Ruby](#ruby)
-  - [Rust](#rust)
-  - [Shell](#shell)
-  - [Solidity](#solidity)
-  - [Svelte](#svelte)
-  - [TeX](#tex)
-  - [TypeScript](#typescript)
-  - [Vim Script](#vim-script)
-  - [Vue](#vue)
-  - [Zig](#zig)
-  - [License](#license)
+- [Astro](#astro)
+- [AutoIt](#autoit)
+- [C](#c)
+- [C#](#c#)
+- [C++](#c++)
+- [CSS](#css)
+- [Cuda](#cuda)
+- [Dart](#dart)
+- [Elixir](#elixir)
+- [Git Attributes](#git-attributes)
+- [Go](#go)
+- [HTML](#html)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
+- [MDX](#mdx)
+- [Markdown](#markdown)
+- [Mojo](#mojo)
+- [Others](#others)
+- [PHP](#php)
+- [Pawn](#pawn)
+- [Python](#python)
+- [Ruby](#ruby)
+- [Rust](#rust)
+- [Shell](#shell)
+- [Solidity](#solidity)
+- [Svelte](#svelte)
+- [TeX](#tex)
+- [TypeScript](#typescript)
+- [Vim Script](#vim-script)
+- [Vue](#vue)
+- [Zig](#zig)
 
 ## Astro 
 
@@ -495,6 +492,7 @@
 
 ## Others 
 
+- [blefnk/awesome](https://github.com/blefnk/awesome) - ⭐ A large collection of GitHub repos that @blefnk considers awesome, has starred, and recommends to the Reliverse community.
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -628,7 +626,6 @@
 - [webstudio-is/webstudio-community](https://github.com/webstudio-is/webstudio-community) - 🤗 Start Here! Discussions, issues, docs and roadmap
 - [reliverse/wp-to-nextjs](https://github.com/reliverse/wp-to-nextjs) - 👄 CLI which allows you to significantly speed up the process of converting WordPress theme and the builder's page to Next.js 13 app router. Bootstrap, Tailwind CSS, Panda CSS, shadcn/ui.
 - [Correia-jpv/fucking-awesome-nextjs](https://github.com/Correia-jpv/fucking-awesome-nextjs) - 📔 📚 A curated list of awesome resources : books, videos, articles about using Next.js  With repository stars⭐ and forks🍴
-- [blefnk/awesome](https://github.com/blefnk/awesome) - ⭐ A collection of my favorite things related to Next.js, React, JS/TS, web/game development, AI, music, crypto, programming languages, and more.
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [reliverse/relisper](https://github.com/reliverse/relisper) - ❤️‍🔥 A highly experimental and opinionated library for Next.js 13. The only package to replace most of them. Yeah, you can call it a framework for NextJS, by all means.
 - [vercel/community](https://github.com/vercel/community) - Welcome to the Vercel Community. Discuss feature requests, ask questions, and connect with others in the community.
