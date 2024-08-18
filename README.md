@@ -492,7 +492,7 @@
 
 ## Others 
 
-- [blefnk/awesome](https://github.com/blefnk/awesome) - ⭐ A large collection of GitHub repos that @blefnk considers awesome, has starred, and recommends to the Reliverse community.
+- [blefnk/awesome](https://github.com/blefnk/awesome) - ⭐ A large number of GitHub repositories about all kinds of interesting topics that @blefnk considers awesome have been starred and recommended to everyone, especially the Reliverse community. The curr
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -686,6 +686,7 @@
 
 ## Python 
 
+- [reliverse/acme](https://github.com/reliverse/acme) - 📄 @reliverse/acme is a @reliverse/addons template that provides a starting point for developing new packages within the Reliverse ecosystem, offering pre-configured setup and guidelines to streamline 
 - [kazhala/InquirerPy](https://github.com/kazhala/InquirerPy) - :snake: Python port of Inquirer.js (A collection of common interactive command-line user interfaces)
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
@@ -786,6 +787,8 @@
 
 ## TypeScript 
 
+- [reliverse/fs](https://github.com/reliverse/fs) - 📂 @reliverse/fs is a utility library that wraps the Node.js native fs module and fs-extra package, providing enhanced file system functionalities. This package is part of the broader @reliverse/addons
+- [blefnk/blefnk](https://github.com/blefnk/blefnk) - 🧑 This is the repository for my personal website, where, over time, I will share stories about my life, especially in the field of web development. This site will also serve as a repository for some o
 - [reliverse/git-utils](https://github.com/reliverse/git-utils) - 
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 - [mattpocock/pkg-demo](https://github.com/mattpocock/pkg-demo) - 
