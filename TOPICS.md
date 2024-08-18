@@ -257,6 +257,7 @@
 
 ## awesome 
 
+- [blefnk/awesome](https://github.com/blefnk/awesome) - ⭐ A large number of GitHub repositories about all kinds of interesting topics that @blefnk considers awesome have been starred and recommended to everyone, especially the Reliverse community. The curr
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -1577,6 +1578,7 @@
 
 ## npm 
 
+- [reliverse/acme](https://github.com/reliverse/acme) - 📄 @reliverse/acme is a @reliverse/addons template that provides a starting point for developing new packages within the Reliverse ecosystem, offering pre-configured setup and guidelines to streamline 
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [unjs/defu](https://github.com/unjs/defu) - 🌊 Assign default properties recursively
 - [coderaiser/redrun](https://github.com/coderaiser/redrun) - ✨🐌 🐎✨  fastest npm scripts runner
@@ -1622,7 +1624,8 @@
 
 ## others 
 
-- [blefnk/awesome](https://github.com/blefnk/awesome) - ⭐ A large collection of GitHub repos that @blefnk considers awesome, has starred, and recommends to the Reliverse community.
+- [reliverse/fs](https://github.com/reliverse/fs) - 📂 @reliverse/fs is a utility library that wraps the Node.js native fs module and fs-extra package, providing enhanced file system functionalities. This package is part of the broader @reliverse/addons
+- [blefnk/blefnk](https://github.com/blefnk/blefnk) - 🧑 This is the repository for my personal website, where, over time, I will share stories about my life, especially in the field of web development. This site will also serve as a repository for some o
 - [reliverse/git-utils](https://github.com/reliverse/git-utils) - 
 - [reliverse/ts-lib-starter](https://github.com/reliverse/ts-lib-starter) - Reliverse TypeScript Library/Package Template
 - [mattpocock/pkg-demo](https://github.com/mattpocock/pkg-demo) - 
