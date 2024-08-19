@@ -498,7 +498,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [reliverse/docs](https://github.com/reliverse/docs) - 👉 https://github.com/blefnk/reliverse
-- [blefnk/reliverse](https://github.com/blefnk/reliverse) - 📖 Relivator Next.js Template & Reliverse CLI Docs 👉 https://reliverse.org
+- [blefnk/reliverse](https://github.com/blefnk/reliverse) - 📖 Relivator Next.js Template & Reliverse CLI Docs 👉 https://reliverse.org 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js,
 - [blefnk/relidocs](https://github.com/blefnk/relidocs) - relidocs: Next.js 15, React 19, shadcn template for documentation sites
 - [blefnk/hooks](https://github.com/blefnk/hooks) - React Hooks x @reliverse/hooks Docs
 - [blefnk/youtube](https://github.com/blefnk/youtube) - YouTube
@@ -787,7 +787,7 @@
 
 ## TypeScript 
 
-- [reliverse/fs](https://github.com/reliverse/fs) - 📂 @reliverse/fs is a utility library that wraps the Node.js native fs module and fs-extra package, providing enhanced file system functionalities. This package is part of the broader @reliverse/addons
+- [reliverse/fs](https://github.com/reliverse/fs) - 📂 @reliverse/fs is a utility library that wraps the Node.js native fs module and fs-extra package, providing enhanced file system functionalities. This package is part of the @reliverse/addons ecosyst
 - [blefnk/blefnk](https://github.com/blefnk/blefnk) - 🧑 This is the repository for my personal website, where, over time, I will share stories about my life, especially in the field of web development. This site will also serve as a repository for some o
 - [reliverse/git-utils](https://github.com/reliverse/git-utils) - 
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
@@ -881,7 +881,7 @@
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.
 - [gajus/eslint-plugin-canonical](https://github.com/gajus/eslint-plugin-canonical) - ESLint rules for Canonical ruleset.
 - [mskelton/eslint-plugin-sort](https://github.com/mskelton/eslint-plugin-sort) - Auto-fixable sort rules for ESLint.
-- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of composable ESLint rules for libraries and frameworks that use React as a UI runtime.
+- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of composable ESLint plugins for building robust and reliable React applications across all platforms.
 - [Blazity/enterprise-commerce](https://github.com/Blazity/enterprise-commerce) - ⚡ Next.js storefront for high-performance eCommerce with AI features and one-click deployment
 - [mdx-js/eslint-mdx](https://github.com/mdx-js/eslint-mdx) - ESLint Parser/Plugin for MDX
 - [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x) - `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin.
@@ -979,7 +979,7 @@
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
 - [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 - [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
-- [VitNode/vitnode](https://github.com/VitNode/vitnode) - VitNode is a CMS built with NextJS and NestJS.
+- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management Framework (CMF) powered by NextJS (React) & NestJS (Express)
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [blefnk/quivr](https://github.com/blefnk/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [blefnk/nsaction](https://github.com/blefnk/nsaction) - Type safe and validated Server Actions in your Next.js (App Router) project.
