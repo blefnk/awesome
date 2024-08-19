@@ -155,6 +155,7 @@
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [swift](#swift)
+- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -626,7 +627,7 @@
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [gajus/eslint-config-canonical](https://github.com/gajus/eslint-config-canonical) - The most comprehensive ES code style guide.
 - [mskelton/eslint-plugin-sort](https://github.com/mskelton/eslint-plugin-sort) - Auto-fixable sort rules for ESLint.
-- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of composable ESLint rules for libraries and frameworks that use React as a UI runtime.
+- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of composable ESLint plugins for building robust and reliable React applications across all platforms.
 - [Frozies/next-no-use-client-page](https://github.com/Frozies/next-no-use-client-page) - This is an ESLint custom rule that disallows the use of "use client" directive at the top of page files in a Next.js application directory. The rule enforces that Server Components should be the defau
 - [mdx-js/eslint-mdx](https://github.com/mdx-js/eslint-mdx) - ESLint Parser/Plugin for MDX
 - [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x) - `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin.
@@ -1358,7 +1359,7 @@
 ## nestjs 
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [VitNode/vitnode](https://github.com/VitNode/vitnode) - VitNode is a CMS built with NextJS and NestJS.
+- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management Framework (CMF) powered by NextJS (React) & NestJS (Express)
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 
@@ -1386,7 +1387,7 @@
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
-- [VitNode/vitnode](https://github.com/VitNode/vitnode) - VitNode is a CMS built with NextJS and NestJS.
+- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management Framework (CMF) powered by NextJS (React) & NestJS (Express)
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [StellateHQ/fuse](https://github.com/StellateHQ/fuse) - Fuse: The fastest way to build and query great APIs with TypeScript
@@ -1624,14 +1625,14 @@
 
 ## others 
 
-- [reliverse/fs](https://github.com/reliverse/fs) - 📂 @reliverse/fs is a utility library that wraps the Node.js native fs module and fs-extra package, providing enhanced file system functionalities. This package is part of the broader @reliverse/addons
+- [reliverse/fs](https://github.com/reliverse/fs) - 📂 @reliverse/fs is a utility library that wraps the Node.js native fs module and fs-extra package, providing enhanced file system functionalities. This package is part of the @reliverse/addons ecosyst
 - [blefnk/blefnk](https://github.com/blefnk/blefnk) - 🧑 This is the repository for my personal website, where, over time, I will share stories about my life, especially in the field of web development. This site will also serve as a repository for some o
 - [reliverse/git-utils](https://github.com/reliverse/git-utils) - 
 - [reliverse/ts-lib-starter](https://github.com/reliverse/ts-lib-starter) - Reliverse TypeScript Library/Package Template
 - [mattpocock/pkg-demo](https://github.com/mattpocock/pkg-demo) - 
 - [reliverse/eslint-plugin](https://github.com/reliverse/eslint-plugin) - Reliverse EsLint Plugin
 - [reliverse/docs](https://github.com/reliverse/docs) - 👉 https://github.com/blefnk/reliverse
-- [blefnk/reliverse](https://github.com/blefnk/reliverse) - 📖 Relivator Next.js Template & Reliverse CLI Docs 👉 https://reliverse.org
+- [blefnk/reliverse](https://github.com/blefnk/reliverse) - 📖 Relivator Next.js Template & Reliverse CLI Docs 👉 https://reliverse.org 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js,
 - [Deskbot/No-Playlist-Autoplay-For-YouTube](https://github.com/Deskbot/No-Playlist-Autoplay-For-YouTube) - A Browser Extension that stops YouTube playlists from automatically playing the next video when one finishes. Works in Firefox and Chrome.
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [blefnk/relidocs](https://github.com/blefnk/relidocs) - relidocs: Next.js 15, React 19, shadcn template for documentation sites
@@ -1760,8 +1761,6 @@
 - [blefnk/reliset](https://github.com/blefnk/reliset) - All-in-one extension for VSCode 🏗️ Coming soon :)
 - [putoutjs/vscode-putout](https://github.com/putoutjs/vscode-putout) - 
 - [bfanger/eslint-plugin-only-warn](https://github.com/bfanger/eslint-plugin-only-warn) - Downgrade errors to warnings
-- [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
-- [schoero/eslint-plugin-readable-tailwind](https://github.com/schoero/eslint-plugin-readable-tailwind) - ESLint plugin to automatically break up long tailwind class strings into multiple lines for better readability.
 - [MelvinVermeer/eslint-plugin-no-relative-import-paths](https://github.com/MelvinVermeer/eslint-plugin-no-relative-import-paths) - 
 - [juliusmarminge/trellix-trpc](https://github.com/juliusmarminge/trellix-trpc) - 
 - [gajus/eslint-plugin-canonical](https://github.com/gajus/eslint-plugin-canonical) - ESLint rules for Canonical ruleset.
@@ -1981,7 +1980,6 @@
 - [blefnk/create-t3-app](https://github.com/blefnk/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [blefnk/bun](https://github.com/blefnk/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [blefnk/payload](https://github.com/blefnk/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
-- [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - Next.js billing app with Lemon Squeezy
 - [blefnk/webstudio](https://github.com/blefnk/webstudio) - 🖌 Webstudio Visual Builder
 - [blefnk/paysubs](https://github.com/blefnk/paysubs) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
 - [blefnk/multilingual](https://github.com/blefnk/multilingual) - An opinionated end-to-end solution for Next.js applications that requires multiple languages.
@@ -2318,7 +2316,7 @@
 - [artalar/reatom](https://github.com/artalar/reatom) - Reatom - the ultimate state manager
 - [davidjbradshaw/eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on project dependencies
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.
-- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of composable ESLint rules for libraries and frameworks that use React as a UI runtime.
+- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of composable ESLint plugins for building robust and reliable React applications across all platforms.
 - [Blazity/enterprise-commerce](https://github.com/Blazity/enterprise-commerce) - ⚡ Next.js storefront for high-performance eCommerce with AI features and one-click deployment
 - [bricesuazo/eboto](https://github.com/bricesuazo/eboto) - Your One-Stop Online Voting Solution
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
@@ -2622,6 +2620,63 @@
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 
+## tailwindcss 
+
+- [iandinwoodie/github-markdown-tailwindcss](https://github.com/iandinwoodie/github-markdown-tailwindcss) - ⛵ Replicate GitHub Flavored Markdown with Tailwind CSS components
+- [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
+- [schoero/eslint-plugin-readable-tailwind](https://github.com/schoero/eslint-plugin-readable-tailwind) - ESLint plugin to automatically break up long tailwind class strings into multiple lines for better readability.
+- [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [saleor/storefront](https://github.com/saleor/storefront) - Saleor Storefront built with React 18, Next.js 14, App Router, TypeScript, GraphQL, and Tailwind CSS.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [suyalcinkaya/onur.dev](https://github.com/suyalcinkaya/onur.dev) - ✦ My personal website built using Next.js, Tailwind CSS, shadcn/ui, Contentful, Raindrop, Supabase and deployed on Vercel.
+- [ZeroxyDev/Random-Chat-App](https://github.com/ZeroxyDev/Random-Chat-App) - Sesh is a real-time chat application built with NextJS and Socket.io
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful framework for building documentation sites in Next.js.
+- [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.
+- [stevebauman/curlwind](https://github.com/stevebauman/curlwind) - Generate Tailwind utility stylesheets on demand.
+- [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
+- [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
+- [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - A production-grade boilerplate for modern Next.js apps.
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
+- [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
+- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
+- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
+- [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
+- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management Framework (CMF) powered by NextJS (React) & NestJS (Express)
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
+- [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
+- [imbhargav5/nextbase-nextjs-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs-supabase-starter) - 🚀⚡️ Free Boilerplate and Starter kit for Next.js 14+, Supabase, Tailwind CSS 3.2 and TypeScript. 🚀 Next.js 🔥 Supabase 💻 TypeScript 💚 ESLint 🎨 Prettier 🐶 Husky 🧹 Lint-Staged 🧪 Jest 🧪 Testing Library 🕹️
+- [badass-courses/course-builder](https://github.com/badass-courses/course-builder) - 🍄 experimental platform for building Badass Courses
+- [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
+- [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
+- [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
+- [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - Next.js billing app with Lemon Squeezy
+- [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
+- [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [PostHog/posthog.com](https://github.com/PostHog/posthog.com) - Official docs, website, and handbook for PostHog.
+- [Kriebel-LLC/taxonomy-edge](https://github.com/Kriebel-LLC/taxonomy-edge) - taxonomy starter app at the edge
+- [panaverse/learn-nextjs](https://github.com/panaverse/learn-nextjs) - Learn Modern Full Stack Web 2 and Web 3 Development using Typescript, Next.js 13 Apps, Tailwind CSS, Shadcn UI, Neon, Drizzle ORM, and Sanity
+- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
+- [syhner/next-kickstart](https://github.com/syhner/next-kickstart) - Next.js 14 kickstarter. Zero setup & edge ready. Take what you need: ESLint, Prettier, Tailwind, tRPC, WebSockets, Drizzle, Lucia Auth, Vitest, Testing Library, Playwright, PWA, Docker, CI, Bun
+- [Sukrittt/Otaku-Sphere](https://github.com/Sukrittt/Otaku-Sphere) - Discover the ultimate Anime Platform, built on Next.js 13. Explore anime, join communities, manage watchlist, view leaderboards, and engage in polls. An open-source all-in-one hub for anime enthusiast
+- [mateonunez/website](https://github.com/mateonunez/website) - Personal website made with Next.js and Tailwind. The website uses the new Next.js router and includes a Spotify and GitHub integration, a blog made with MDX, and is fully SEO friendly.
+- [aulianza/aulianza.id](https://github.com/aulianza/aulianza.id) - 🔥 Personal website & portfolio, built from scratch using Next.js, TypeScript, Tailwind CSS, SWR, MDX, Firebase and Prisma.
+- [mehrabmp/kara-shop](https://github.com/mehrabmp/kara-shop) - KARA - Ecommerce built with T3 Stack : NextJS, TypeScript, tRPC, Prisma, NextAuth and styled with Tailwind CSS
+- [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
+- [fellipeutaka/useful-tools](https://github.com/fellipeutaka/useful-tools) - 🛠 A collection of the best tools
+- [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
+- [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
+- [reliverse/cli](https://github.com/reliverse/cli) - Coming soon 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your proj
+- [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
+- [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
+- [blefnk/bleverse-com-oss](https://github.com/blefnk/bleverse-com-oss) - 🌐 Bleverse Community. A unique combination of a freelance marketplace and social networking app. Built with Next.js 13, Tailwind, Prisma, TypeScript, and more. Public version available for exploration
+- [kachkaev/website](https://github.com/kachkaev/website) - Personal mini-website built with Next.js, React, TypeScript, Tailwind and Playwright
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
+
 ## telegram 
 
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
@@ -2697,7 +2752,7 @@
 - [eslint-functional/eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 - [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
 - [pdovhomilja/nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM is a CRM build on top of the latest Next.JS 14. using TypeScript,  great UI library shadcn, Prisma and MongoDB as a database.  Uploadthings as a S3 blob for document storage.
-- [VitNode/vitnode](https://github.com/VitNode/vitnode) - VitNode is a CMS built with NextJS and NestJS.
+- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management Framework (CMF) powered by NextJS (React) & NestJS (Express)
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [OleksandrKucherenko/chatgpt-translate-md](https://github.com/OleksandrKucherenko/chatgpt-translate-md) - Command line tool for translating Markdown files to any supported by ChatGPT language
