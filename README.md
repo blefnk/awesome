@@ -474,6 +474,7 @@
 - [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 - [flsilva/nexar.dev](https://github.com/flsilva/nexar.dev) - Nexar is an application architecture for Next.js App Router apps.
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
+- [openmultiplayer/web](https://github.com/openmultiplayer/web) - The open.mp web services monorepo. Homepage, documentation, server index, and more! All in one place.
 - [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - Serverless Postgres for modern SaaS
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [CatchTheTornado/opensourcetipsbook](https://github.com/CatchTheTornado/opensourcetipsbook) - Open Source book on Open Source. How to create a successful OSS product - tips and tricks that simply works.
@@ -498,7 +499,6 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [reliverse/docs](https://github.com/reliverse/docs) - 👉 https://github.com/blefnk/reliverse
-- [blefnk/reliverse](https://github.com/blefnk/reliverse) - 📖 Relivator Next.js Template & Reliverse CLI Docs 👉 https://reliverse.org 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js,
 - [blefnk/relidocs](https://github.com/blefnk/relidocs) - relidocs: Next.js 15, React 19, shadcn template for documentation sites
 - [blefnk/hooks](https://github.com/blefnk/hooks) - React Hooks x @reliverse/hooks Docs
 - [blefnk/youtube](https://github.com/blefnk/youtube) - YouTube
@@ -698,7 +698,7 @@
 - [pydantic/pydantic-settings](https://github.com/pydantic/pydantic-settings) - Settings management using pydantic
 - [blefnk/relivator-docker-backend](https://github.com/blefnk/relivator-docker-backend) - 🔽 Relivator: The Docker Edition (Backend) | Frontend: https://github.com/blefnk/relivator-docker-frontend | Stack: Docker, Python, FastAPI, fly.io flyctl, frontend health check and more 😊
 - [pgjones/hypercorn](https://github.com/pgjones/hypercorn) - Hypercorn is an ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
-- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [fonttools/fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
 - [blefnk/whisper](https://github.com/blefnk/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -787,12 +787,14 @@
 
 ## TypeScript 
 
+- [blefnk/astro-starlight-template](https://github.com/blefnk/astro-starlight-template) - ✨ Make your docs shine with Astro, Starlight, and everything configured for you by the Reliverse Templates team.
 - [reliverse/fs](https://github.com/reliverse/fs) - 📂 @reliverse/fs is a utility library that wraps the Node.js native fs module and fs-extra package, providing enhanced file system functionalities. This package is part of the @reliverse/addons ecosyst
 - [blefnk/blefnk](https://github.com/blefnk/blefnk) - 🧑 This is the repository for my personal website, where, over time, I will share stories about my life, especially in the field of web development. This site will also serve as a repository for some o
 - [reliverse/git-utils](https://github.com/reliverse/git-utils) - 
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 - [mattpocock/pkg-demo](https://github.com/mattpocock/pkg-demo) - 
 - [reliverse/eslint-plugin](https://github.com/reliverse/eslint-plugin) - Reliverse EsLint Plugin
+- [blefnk/reliverse-docs](https://github.com/blefnk/reliverse-docs) - 📖 Relivator Next.js Template & Reliverse CLI Docs 👉 https://reliverse.org 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js,
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [alovajs/alova](https://github.com/alovajs/alova) - Creative next-generation request tools. Extremely improve your API using efficiency and save brainpower Just one step
 - [reaviz/reachat](https://github.com/reaviz/reachat) - 💬 UI Building Blocks for LLM/Chat UIs. Maintained by @goodcodeus.
@@ -881,7 +883,7 @@
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.
 - [gajus/eslint-plugin-canonical](https://github.com/gajus/eslint-plugin-canonical) - ESLint rules for Canonical ruleset.
 - [mskelton/eslint-plugin-sort](https://github.com/mskelton/eslint-plugin-sort) - Auto-fixable sort rules for ESLint.
-- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of composable ESLint plugins for building robust and reliable React applications across all platforms.
+- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of ESLint plugins for building robust and reliable React applications across all platforms.
 - [Blazity/enterprise-commerce](https://github.com/Blazity/enterprise-commerce) - ⚡ Next.js storefront for high-performance eCommerce with AI features and one-click deployment
 - [mdx-js/eslint-mdx](https://github.com/mdx-js/eslint-mdx) - ESLint Parser/Plugin for MDX
 - [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x) - `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin.
@@ -979,7 +981,7 @@
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
 - [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 - [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
-- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management Framework (CMF) powered by NextJS (React) & NestJS (Express)
+- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management Framework (CMF) built on top of NextJS (React), NestJS (Fastify) and PostgreSQL.
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [blefnk/quivr](https://github.com/blefnk/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [blefnk/nsaction](https://github.com/blefnk/nsaction) - Type safe and validated Server Actions in your Next.js (App Router) project.
@@ -1085,7 +1087,6 @@
 - [blefnk/typefest](https://github.com/blefnk/typefest) - A collection of essential TypeScript types
 - [fireship-io/stripe-payments-js-course](https://github.com/fireship-io/stripe-payments-js-course) - Fullstack Stripe Payments for the JavaScript Developer
 - [blefnk/launcher](https://github.com/blefnk/launcher) - open.mp launcher (currently compatible with samp client)
-- [openmultiplayer/web](https://github.com/openmultiplayer/web) - The open.mp web services monorepo. Homepage, documentation, server index, and more! All in one place.
 - [blefnk/saasui](https://github.com/blefnk/saasui) - The React component library for startups, built with Chakra UI.
 - [openmultiplayer/launcher](https://github.com/openmultiplayer/launcher) - open.mp launcher (currently compatible with samp client)
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
@@ -1218,7 +1219,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Faire/mjml-react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
-- [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 15 Store Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon TS ORM, Intl App Router D
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - Next.js 15 Store Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon TS ORM, Intl App Router D
 - [blefnk/bleverse-utils-website](https://github.com/blefnk/bleverse-utils-website) - 🤌 Comprehensive utility toolkit for Next.js, React, and beyond. Curated with dedication, this collection is designed to enhance your development experience, streamline your workflows, and elevate your
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
 - [FormidableLabs/react-swipeable](https://github.com/FormidableLabs/react-swipeable) - React swipe event handler hook
