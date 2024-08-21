@@ -258,6 +258,7 @@
 
 ## awesome 
 
+- [itsdouges/awesome-typescript-ecosystem](https://github.com/itsdouges/awesome-typescript-ecosystem) - 😎 A list of awesome TypeScript transformers, plugins, handbooks, etc
 - [blefnk/awesome](https://github.com/blefnk/awesome) - ⭐ A large number of GitHub repositories about all kinds of interesting topics that @blefnk considers awesome have been starred and recommended to everyone, especially the Reliverse community. The curr
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -275,6 +276,7 @@
 
 ## awesome-list 
 
+- [itsdouges/awesome-typescript-ecosystem](https://github.com/itsdouges/awesome-typescript-ecosystem) - 😎 A list of awesome TypeScript transformers, plugins, handbooks, etc
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -627,7 +629,7 @@
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [gajus/eslint-config-canonical](https://github.com/gajus/eslint-config-canonical) - The most comprehensive ES code style guide.
 - [mskelton/eslint-plugin-sort](https://github.com/mskelton/eslint-plugin-sort) - Auto-fixable sort rules for ESLint.
-- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of ESLint plugins for building robust and reliable React applications across all platforms.
+- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of ESLint plugins for writing robust and reliable React on all platforms.
 - [Frozies/next-no-use-client-page](https://github.com/Frozies/next-no-use-client-page) - This is an ESLint custom rule that disallows the use of "use client" directive at the top of page files in a Next.js application directory. The rule enforces that Server Components should be the defau
 - [mdx-js/eslint-mdx](https://github.com/mdx-js/eslint-mdx) - ESLint Parser/Plugin for MDX
 - [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x) - `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin.
@@ -1359,7 +1361,7 @@
 ## nestjs 
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management Framework (CMF) built on top of NextJS (React), NestJS (Fastify) and PostgreSQL.
+- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management Framework (CMF) built on top of NextJS (React), NestJS (Express) and PostgreSQL.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 
@@ -1387,7 +1389,7 @@
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
-- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management Framework (CMF) built on top of NextJS (React), NestJS (Fastify) and PostgreSQL.
+- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management Framework (CMF) built on top of NextJS (React), NestJS (Express) and PostgreSQL.
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [StellateHQ/fuse](https://github.com/StellateHQ/fuse) - Fuse: The fastest way to build and query great APIs with TypeScript
@@ -1702,7 +1704,7 @@
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [reliverse/codemod](https://github.com/reliverse/codemod) - @reliverse/codemod: Codemods are transformations that run on your codebase programmatically. This allows a large number of changes to be programmatically applied without having to manually go through 
 - [unjs/citty](https://github.com/unjs/citty) - 🌆 Elegant CLI Builder
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [blefnk/crlf-to-lf-vscode-extension](https://github.com/blefnk/crlf-to-lf-vscode-extension) - Transform all project files from CRLF to LF (VSCode Extension)
 - [codemod-com/codemod](https://github.com/codemod-com/codemod) - The e2e platform for creating, sharing, and running codemods, built on top of your favorite codemod engine. Automate code migrations, cleanups, and refactors for yourself, colleagues, and the communit
 - [reliverse/countries](https://github.com/reliverse/countries) - @reliverse/countries
@@ -2072,7 +2074,7 @@
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [shadcn/ai-chatbot](https://github.com/shadcn/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
 - [webstudio-is/webstudio-community](https://github.com/webstudio-is/webstudio-community) - 🤗 Start Here! Discussions, issues, docs and roadmap
-- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open Source alternative to Webflow, check out our CMS launch https://webstudio.is/cms
+- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - The web builder for advanced sites. An open-source visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.
 - [rexfordessilfie/next-auth-account-linking](https://github.com/rexfordessilfie/next-auth-account-linking) - Example repo demonstrating linking multiple accounts using NextAuth
 - [reliverse/wp-to-nextjs](https://github.com/reliverse/wp-to-nextjs) - 👄 CLI which allows you to significantly speed up the process of converting WordPress theme and the builder's page to Next.js 13 app router. Bootstrap, Tailwind CSS, Panda CSS, shadcn/ui.
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
@@ -2317,7 +2319,7 @@
 - [artalar/reatom](https://github.com/artalar/reatom) - Reatom - the ultimate state manager
 - [davidjbradshaw/eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on project dependencies
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.
-- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of ESLint plugins for building robust and reliable React applications across all platforms.
+- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of ESLint plugins for writing robust and reliable React on all platforms.
 - [Blazity/enterprise-commerce](https://github.com/Blazity/enterprise-commerce) - ⚡ Next.js storefront for high-performance eCommerce with AI features and one-click deployment
 - [bricesuazo/eboto](https://github.com/bricesuazo/eboto) - Your One-Stop Online Voting Solution
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
@@ -2643,7 +2645,7 @@
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
-- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management Framework (CMF) built on top of NextJS (React), NestJS (Fastify) and PostgreSQL.
+- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management Framework (CMF) built on top of NextJS (React), NestJS (Express) and PostgreSQL.
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [imbhargav5/nextbase-nextjs-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs-supabase-starter) - 🚀⚡️ Free Boilerplate and Starter kit for Next.js 14+, Supabase, Tailwind CSS 3.2 and TypeScript. 🚀 Next.js 🔥 Supabase 💻 TypeScript 💚 ESLint 🎨 Prettier 🐶 Husky 🧹 Lint-Staged 🧪 Jest 🧪 Testing Library 🕹️
@@ -2705,6 +2707,7 @@
 
 ## typescript 
 
+- [itsdouges/awesome-typescript-ecosystem](https://github.com/itsdouges/awesome-typescript-ecosystem) - 😎 A list of awesome TypeScript transformers, plugins, handbooks, etc
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 - [alovajs/alova](https://github.com/alovajs/alova) - Creative next-generation request tools. Extremely improve your API using efficiency and save brainpower Just one step
@@ -2753,7 +2756,7 @@
 - [eslint-functional/eslint-plugin-functional](https://github.com/eslint-functional/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 - [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫
 - [pdovhomilja/nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM is a CRM build on top of the latest Next.JS 14. using TypeScript,  great UI library shadcn, Prisma and MongoDB as a database.  Uploadthings as a S3 blob for document storage.
-- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management Framework (CMF) built on top of NextJS (React), NestJS (Fastify) and PostgreSQL.
+- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management Framework (CMF) built on top of NextJS (React), NestJS (Express) and PostgreSQL.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [OleksandrKucherenko/chatgpt-translate-md](https://github.com/OleksandrKucherenko/chatgpt-translate-md) - Command line tool for translating Markdown files to any supported by ChatGPT language
