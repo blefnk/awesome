@@ -24,6 +24,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -336,6 +337,10 @@
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [pawn-lang/compiler](https://github.com/pawn-lang/compiler) - Pawn compiler for SA-MP with bug fixes and new features - runs on Windows, Linux, macOS
 
+## c-plus-plus 
+
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+
 ## chatgpt 
 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -400,6 +405,7 @@
 - [venthur/dotenv-cli](https://github.com/venthur/dotenv-cli) - Executes commands with environment variables set from .env file. Zero dependencies.
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [dthree/vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
+- [reliverse/cli](https://github.com/reliverse/cli) - 🏯 @reliverse/cli is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You 
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 
 ## code-quality 
@@ -629,7 +635,7 @@
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [gajus/eslint-config-canonical](https://github.com/gajus/eslint-config-canonical) - The most comprehensive ES code style guide.
 - [mskelton/eslint-plugin-sort](https://github.com/mskelton/eslint-plugin-sort) - Auto-fixable sort rules for ESLint.
-- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of ESLint plugins for writing robust and reliable React on all platforms.
+- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of composable ESLint plugins for libraries and frameworks that use React as a UI runtime.
 - [Frozies/next-no-use-client-page](https://github.com/Frozies/next-no-use-client-page) - This is an ESLint custom rule that disallows the use of "use client" directive at the top of page files in a Next.js application directory. The rule enforces that Server Components should be the defau
 - [mdx-js/eslint-mdx](https://github.com/mdx-js/eslint-mdx) - ESLint Parser/Plugin for MDX
 - [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x) - `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin.
@@ -1367,6 +1373,7 @@
 
 ## nextjs 
 
+- [blefnk/create-next-app](https://github.com/blefnk/create-next-app) - 
 - [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment) - A library to add comments area to your blog
 - [Hacksore/vercel.lol](https://github.com/Hacksore/vercel.lol) - vercel.lol - The Triangle Company, We sell triangles
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -1448,7 +1455,7 @@
 - [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js.
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
-- [reliverse/cli](https://github.com/reliverse/cli) - Coming soon 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your proj
+- [reliverse/cli](https://github.com/reliverse/cli) - 🏯 @reliverse/cli is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You 
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - Next.js 15 Store Dashboard Starter ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon TS ORM, Intl App Router D
@@ -1627,6 +1634,9 @@
 
 ## others 
 
+- [blefnk/create-t3-app](https://github.com/blefnk/create-t3-app) - 
+- [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
+- [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
 - [blefnk/astro-starlight-template](https://github.com/blefnk/astro-starlight-template) - ✨ Make your docs shine with Astro, Starlight, and everything configured for you by the Reliverse Templates team.
 - [reliverse/fs](https://github.com/reliverse/fs) - 📂 @reliverse/fs is a utility library that wraps the Node.js native fs module and fs-extra package, providing enhanced file system functionalities. This package is part of the @reliverse/addons ecosyst
 - [blefnk/blefnk](https://github.com/blefnk/blefnk) - 🧑 This is the repository for my personal website, where, over time, I will share stories about my life, especially in the field of web development. This site will also serve as a repository for some o
@@ -1706,7 +1716,7 @@
 - [unjs/citty](https://github.com/unjs/citty) - 🌆 Elegant CLI Builder
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [blefnk/crlf-to-lf-vscode-extension](https://github.com/blefnk/crlf-to-lf-vscode-extension) - Transform all project files from CRLF to LF (VSCode Extension)
-- [codemod-com/codemod](https://github.com/codemod-com/codemod) - The e2e platform for creating, sharing, and running codemods, built on top of your favorite codemod engine. Automate code migrations, cleanups, and refactors for yourself, colleagues, and the communit
+- [codemod-com/codemod](https://github.com/codemod-com/codemod) - The end-to-end platform for creating, sharing, and running codemods with engines like jscodeshift, ast-grep, ts-morph, and more. Automate code migrations, cleanups, and refactors for you, your team, a
 - [reliverse/countries](https://github.com/reliverse/countries) - @reliverse/countries
 - [mozilla/twemoji-colr](https://github.com/mozilla/twemoji-colr) - Twemoji font in COLR/CPAL layered format
 - [blefnk/flags-windows-browser-extension](https://github.com/blefnk/flags-windows-browser-extension) - 🇺🇦 ← Don't see the emoji on the left? You're in the right place! This extension is for you! It's for Chromium-based browsers (like Chrome, Edge, Vivaldi, Brave, Opera, etc.) that fixes the display of 
@@ -1980,7 +1990,7 @@
 - [openmultiplayer/launcher](https://github.com/openmultiplayer/launcher) - open.mp launcher (currently compatible with samp client)
 - [blefnk/uploadthing](https://github.com/blefnk/uploadthing) - File uploads for modern web devs
 - [blefnk/typehero](https://github.com/blefnk/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
-- [blefnk/create-t3-app](https://github.com/blefnk/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
+- [blefnk/create-t3-app-fork](https://github.com/blefnk/create-t3-app-fork) - The best way to start a full-stack, typesafe Next.js app
 - [blefnk/bun](https://github.com/blefnk/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [blefnk/payload](https://github.com/blefnk/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [blefnk/webstudio](https://github.com/blefnk/webstudio) - 🖌 Webstudio Visual Builder
@@ -2319,7 +2329,7 @@
 - [artalar/reatom](https://github.com/artalar/reatom) - Reatom - the ultimate state manager
 - [davidjbradshaw/eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on project dependencies
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.
-- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of ESLint plugins for writing robust and reliable React on all platforms.
+- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of composable ESLint plugins for libraries and frameworks that use React as a UI runtime.
 - [Blazity/enterprise-commerce](https://github.com/Blazity/enterprise-commerce) - ⚡ Next.js storefront for high-performance eCommerce with AI features and one-click deployment
 - [bricesuazo/eboto](https://github.com/bricesuazo/eboto) - Your One-Stop Online Voting Solution
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
@@ -2397,7 +2407,7 @@
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
-- [reliverse/cli](https://github.com/reliverse/cli) - Coming soon 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your proj
+- [reliverse/cli](https://github.com/reliverse/cli) - 🏯 @reliverse/cli is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You 
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [wix-incubator/mjml-react](https://github.com/wix-incubator/mjml-react) - React component library to generate the HTML emails on the fly
@@ -2625,6 +2635,7 @@
 
 ## tailwindcss 
 
+- [blefnk/create-next-app](https://github.com/blefnk/create-next-app) - 
 - [iandinwoodie/github-markdown-tailwindcss](https://github.com/iandinwoodie/github-markdown-tailwindcss) - ⛵ Replicate GitHub Flavored Markdown with Tailwind CSS components
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [schoero/eslint-plugin-readable-tailwind](https://github.com/schoero/eslint-plugin-readable-tailwind) - ESLint plugin to automatically break up long tailwind class strings into multiple lines for better readability.
@@ -2671,7 +2682,7 @@
 - [fellipeutaka/useful-tools](https://github.com/fellipeutaka/useful-tools) - 🛠 A collection of the best tools
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
-- [reliverse/cli](https://github.com/reliverse/cli) - Coming soon 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your proj
+- [reliverse/cli](https://github.com/reliverse/cli) - 🏯 @reliverse/cli is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You 
 - [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants) - 🦄 Tailwindcss first-class variant API
 - [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
 - [blefnk/bleverse-com-oss](https://github.com/blefnk/bleverse-com-oss) - 🌐 Bleverse Community. A unique combination of a freelance marketplace and social networking app. Built with Next.js 13, Tailwind, Prisma, TypeScript, and more. Public version available for exploration
@@ -2707,6 +2718,7 @@
 
 ## typescript 
 
+- [blefnk/create-next-app](https://github.com/blefnk/create-next-app) - 
 - [itsdouges/awesome-typescript-ecosystem](https://github.com/itsdouges/awesome-typescript-ecosystem) - 😎 A list of awesome TypeScript transformers, plugins, handbooks, etc
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
