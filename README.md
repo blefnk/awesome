@@ -788,6 +788,10 @@
 
 ## TypeScript 
 
+- [blefnk/create-t3-app](https://github.com/blefnk/create-t3-app) - 
+- [blefnk/create-next-app](https://github.com/blefnk/create-next-app) - 
+- [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
+- [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
 - [blefnk/astro-starlight-template](https://github.com/blefnk/astro-starlight-template) - ✨ Make your docs shine with Astro, Starlight, and everything configured for you by the Reliverse Templates team.
 - [reliverse/fs](https://github.com/reliverse/fs) - 📂 @reliverse/fs is a utility library that wraps the Node.js native fs module and fs-extra package, providing enhanced file system functionalities. This package is part of the @reliverse/addons ecosyst
 - [blefnk/blefnk](https://github.com/blefnk/blefnk) - 🧑 This is the repository for my personal website, where, over time, I will share stories about my life, especially in the field of web development. This site will also serve as a repository for some o
@@ -850,7 +854,7 @@
 - [itsdouges/typescript-transformer-handbook](https://github.com/itsdouges/typescript-transformer-handbook) - 📘 A comprehensive handbook on how to create transformers for TypeScript with code examples
 - [pruvious/pruvious](https://github.com/pruvious/pruvious) - A reliable CMS for your Nuxt app.
 - [unjs/citty](https://github.com/unjs/citty) - 🌆 Elegant CLI Builder
-- [codemod-com/codemod](https://github.com/codemod-com/codemod) - The e2e platform for creating, sharing, and running codemods, built on top of your favorite codemod engine. Automate code migrations, cleanups, and refactors for yourself, colleagues, and the communit
+- [codemod-com/codemod](https://github.com/codemod-com/codemod) - The end-to-end platform for creating, sharing, and running codemods with engines like jscodeshift, ast-grep, ts-morph, and more. Automate code migrations, cleanups, and refactors for you, your team, a
 - [anuraghazra/typelevel-parser](https://github.com/anuraghazra/typelevel-parser) - Experiment to push the limits of TypeScript's type system by writing a "real" tokenizer/parser/interpreter entirely on type-level.
 - [ota-meshi/eslint-plugin-yml](https://github.com/ota-meshi/eslint-plugin-yml) - This ESLint plugin provides linting rules for YAML.
 - [blefnk/eslint-plugin-jsonc](https://github.com/blefnk/eslint-plugin-jsonc) - ESLint plugin for JSON(C|5)? files
@@ -884,7 +888,7 @@
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.
 - [gajus/eslint-plugin-canonical](https://github.com/gajus/eslint-plugin-canonical) - ESLint rules for Canonical ruleset.
 - [mskelton/eslint-plugin-sort](https://github.com/mskelton/eslint-plugin-sort) - Auto-fixable sort rules for ESLint.
-- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of ESLint plugins for writing robust and reliable React on all platforms.
+- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of composable ESLint plugins for libraries and frameworks that use React as a UI runtime.
 - [Blazity/enterprise-commerce](https://github.com/Blazity/enterprise-commerce) - ⚡ Next.js storefront for high-performance eCommerce with AI features and one-click deployment
 - [mdx-js/eslint-mdx](https://github.com/mdx-js/eslint-mdx) - ESLint Parser/Plugin for MDX
 - [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x) - `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin.
@@ -1093,7 +1097,7 @@
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
 - [blefnk/uploadthing](https://github.com/blefnk/uploadthing) - File uploads for modern web devs
 - [blefnk/typehero](https://github.com/blefnk/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
-- [blefnk/create-t3-app](https://github.com/blefnk/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
+- [blefnk/create-t3-app-fork](https://github.com/blefnk/create-t3-app-fork) - The best way to start a full-stack, typesafe Next.js app
 - [blefnk/payload](https://github.com/blefnk/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - Next.js billing app with Lemon Squeezy
 - [blefnk/webstudio](https://github.com/blefnk/webstudio) - 🖌 Webstudio Visual Builder
@@ -1206,7 +1210,7 @@
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invo
 - [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - JavaScript client for the Meilisearch API
 - [xataio/xataform](https://github.com/xataio/xataform) - Create, share and analyse your forms with Xata. Open Source alternative to Typeform.
-- [reliverse/cli](https://github.com/reliverse/cli) - Coming soon 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js, in seconds. It provides a seamless way to kickstart your proj
+- [reliverse/cli](https://github.com/reliverse/cli) - 🏯 @reliverse/cli is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You 
 - [bs-oss/relivator](https://github.com/bs-oss/relivator) - 🔥 The ultimate Next.js 13 app router TypeScript starter! i18n, Server Actions, T3, Shadcn, Tailwind, Drizzle, Prisma, Zod, RSC, SWC, tRPC, NextAuth, Auth.js, Lucia, Lucide Icons, & More. Get it and en
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
