@@ -931,7 +931,7 @@
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
 - [SebastianMitco/next-fullstack-docker](https://github.com/SebastianMitco/next-fullstack-docker) - Implement first Docker Containers
-- [biomejs/biome-vscode](https://github.com/biomejs/biome-vscode) - Biome extension for Visual Studio Code
+- [biomejs/biome-vscode](https://github.com/biomejs/biome-vscode) - Biome extension for Visual Studio Code and VSCodium
 - [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
 - [argyleink/twop](https://github.com/argyleink/twop) - tailwind += open props
 - [pexllecn/pexllecn](https://github.com/pexllecn/pexllecn) - Building a complete nextjs starter supported by shadcn components
@@ -955,7 +955,7 @@
 - [bholmesdev/simple-stack](https://github.com/bholmesdev/simple-stack) - 🌱 Web apps made simple
 - [AchrafGarai/epic-games-store-nextjs13-drizzleORM](https://github.com/AchrafGarai/epic-games-store-nextjs13-drizzleORM) - Epic Game Store with NextJS 13 Fullstack with Clerk, Drizzle ORM and Neon BD
 - [blefnk/tokenami](https://github.com/blefnk/tokenami) - Atomic CSS in the style attribute. Type-safe static styles with theming, responsive variant support, and no bundler integration.
-- [tokenami/tokenami](https://github.com/tokenami/tokenami) - Just-in-time atomic CSS, in the style attribute. Fully typed static styles with theming, variant support, and no bundler integration.
+- [tokenami/tokenami](https://github.com/tokenami/tokenami) - CSS-in-JS reinvented for scalable, typesafe design systems. A modern approach to just-in-time atomic CSS using CSS variables—no bundler required.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [mylesmmurphy/prettify-ts](https://github.com/mylesmmurphy/prettify-ts) - Prettify TypeScript: Better Type Previews
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
@@ -1012,7 +1012,7 @@
 - [justinribeiro/lite-youtube](https://github.com/justinribeiro/lite-youtube) - The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [blefnk/lobechat](https://github.com/blefnk/lobechat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [bufbuild/jest-environment-jsdom](https://github.com/bufbuild/jest-environment-jsdom) - A modern jsdom test environment for Jest
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
