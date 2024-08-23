@@ -188,7 +188,7 @@
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [RealJD2020/Web-Requests-for-ChatGPT](https://github.com/RealJD2020/Web-Requests-for-ChatGPT) - A native Plugin bringing us out of September 2001, accessing anything you can via a web browser today!
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -345,7 +345,7 @@
 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [OleksandrKucherenko/chatgpt-translate-md](https://github.com/OleksandrKucherenko/chatgpt-translate-md) - Command line tool for translating Markdown files to any supported by ChatGPT language
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [RealJD2020/Web-Requests-for-ChatGPT](https://github.com/RealJD2020/Web-Requests-for-ChatGPT) - A native Plugin bringing us out of September 2001, accessing anything you can via a web browser today!
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
@@ -1401,7 +1401,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [StellateHQ/fuse](https://github.com/StellateHQ/fuse) - Fuse: The fastest way to build and query great APIs with TypeScript
 - [kuskusapp/kuskus](https://github.com/kuskusapp/kuskus) - Food/drink sharing app
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [eagerpatch/navita](https://github.com/eagerpatch/navita) - Atomic CSS-in-JS with zero runtime
 - [adrianhajdin/anime_vault](https://github.com/adrianhajdin/anime_vault) - Your favorite anime, all in one place.
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
@@ -1829,7 +1829,7 @@
 - [blefnk/relivator-docker-frontend](https://github.com/blefnk/relivator-docker-frontend) - 🔼 Relivator: The Docker Edition (Frontend) | Backend: https://github.com/blefnk/relivator-docker-backend | Stack: Next.js App Router, React RSC, TypeScript, Tailwind CSS, and more 😊
 - [tembo-io/tembo](https://github.com/tembo-io/tembo) - Goodbye Database Sprawl, Hello Postgres.
 - [SebastianMitco/next-fullstack-docker](https://github.com/SebastianMitco/next-fullstack-docker) - Implement first Docker Containers
-- [biomejs/biome-vscode](https://github.com/biomejs/biome-vscode) - Biome extension for Visual Studio Code
+- [biomejs/biome-vscode](https://github.com/biomejs/biome-vscode) - Biome extension for Visual Studio Code and VSCodium
 - [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 - [argyleink/twop](https://github.com/argyleink/twop) - tailwind += open props
 - [pexllecn/pexllecn](https://github.com/pexllecn/pexllecn) - Building a complete nextjs starter supported by shadcn components
@@ -1861,7 +1861,7 @@
 - [sfroment/astro-plugin](https://github.com/sfroment/astro-plugin) - astro stylex experiment
 - [reactwg/react-18](https://github.com/reactwg/react-18) - Workgroup for React 18 release.
 - [blefnk/tokenami](https://github.com/blefnk/tokenami) - Atomic CSS in the style attribute. Type-safe static styles with theming, responsive variant support, and no bundler integration.
-- [tokenami/tokenami](https://github.com/tokenami/tokenami) - Just-in-time atomic CSS, in the style attribute. Fully typed static styles with theming, variant support, and no bundler integration.
+- [tokenami/tokenami](https://github.com/tokenami/tokenami) - CSS-in-JS reinvented for scalable, typesafe design systems. A modern approach to just-in-time atomic CSS using CSS variables—no bundler required.
 - [blefnk/bleflang](https://github.com/blefnk/bleflang) - bleflang: an open source language learning app
 - [blefnk/nightmare](https://github.com/blefnk/nightmare) - 🔨 WPN: Web Performance Nightmare | Bleverse PageSpeed Insights | It will try to be very cruel... Get ready for optimizations...
 - [blefnk/codes](https://github.com/blefnk/codes) - 🅰️ A list of codes for all your needs
