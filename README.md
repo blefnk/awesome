@@ -113,6 +113,7 @@
 
 ## CSS 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [iandinwoodie/github-markdown-tailwindcss](https://github.com/iandinwoodie/github-markdown-tailwindcss) - ⛵ Replicate GitHub Flavored Markdown with Tailwind CSS components
 - [stevebauman/curlwind](https://github.com/stevebauman/curlwind) - Generate Tailwind utility stylesheets on demand.
 - [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
@@ -788,6 +789,7 @@
 
 ## TypeScript 
 
+- [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
 - [blefnk/create-t3-app](https://github.com/blefnk/create-t3-app) - 
 - [blefnk/create-next-app](https://github.com/blefnk/create-next-app) - 
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
@@ -1065,7 +1067,7 @@
 - [john-smilga/nextjs-course-openai](https://github.com/john-smilga/nextjs-course-openai) - 
 - [veloss-labs/threads-nextjs](https://github.com/veloss-labs/threads-nextjs) - 💥 SST makes it easy to build Nextjs serverless. Then, we clone the function of the "Thread" app and implement the function of Nextjs.
 - [OhMinsSup/threads-nextjs](https://github.com/OhMinsSup/threads-nextjs) - 💥 SST makes it easy to build Nextjs serverless. Then, we clone the function of the "Thread" app and implement the function of Nextjs.
-- [gneiru/anirohi](https://github.com/gneiru/anirohi) - Anime streaming site with Anilist OAuth. Built with Nextjs14, Drizzle, NextAuth, Shadcn-UI, Next-PWA and Tremor
+- [noelrohi/anirohi](https://github.com/noelrohi/anirohi) - Anime streaming site with Anilist OAuth. Built with Nextjs14, Drizzle, NextAuth, Shadcn-UI, Next-PWA and Tremor
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [blefnk/normy](https://github.com/blefnk/normy) - 🪮 Automatic normalization and data updates for data fetching libraries like tRPC and Tanstack Query.
 - [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
