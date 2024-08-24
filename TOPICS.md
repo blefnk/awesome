@@ -701,6 +701,7 @@
 
 ## firefox 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions) - This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 - [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser.
 - [ynshung/better-yt-shorts](https://github.com/ynshung/better-yt-shorts) - Playback, volume, timestamp controls and more on YouTube Shorts.
@@ -1373,6 +1374,7 @@
 
 ## nextjs 
 
+- [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
 - [blefnk/create-next-app](https://github.com/blefnk/create-next-app) - 
 - [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment) - A library to add comments area to your blog
 - [Hacksore/vercel.lol](https://github.com/Hacksore/vercel.lol) - vercel.lol - The Triangle Company, We sell triangles
@@ -1414,7 +1416,7 @@
 - [GodHermit/survival-manual](https://github.com/GodHermit/survival-manual) - International survival manual with offline articles
 - [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
 - [OhMinsSup/threads-nextjs](https://github.com/OhMinsSup/threads-nextjs) - 💥 SST makes it easy to build Nextjs serverless. Then, we clone the function of the "Thread" app and implement the function of Nextjs.
-- [gneiru/anirohi](https://github.com/gneiru/anirohi) - Anime streaming site with Anilist OAuth. Built with Nextjs14, Drizzle, NextAuth, Shadcn-UI, Next-PWA and Tremor
+- [noelrohi/anirohi](https://github.com/noelrohi/anirohi) - Anime streaming site with Anilist OAuth. Built with Nextjs14, Drizzle, NextAuth, Shadcn-UI, Next-PWA and Tremor
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [bufferhead-code/nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
@@ -2280,7 +2282,7 @@
 ## pwa 
 
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
-- [gneiru/anirohi](https://github.com/gneiru/anirohi) - Anime streaming site with Anilist OAuth. Built with Nextjs14, Drizzle, NextAuth, Shadcn-UI, Next-PWA and Tremor
+- [noelrohi/anirohi](https://github.com/noelrohi/anirohi) - Anime streaming site with Anilist OAuth. Built with Nextjs14, Drizzle, NextAuth, Shadcn-UI, Next-PWA and Tremor
 - [syhner/next-kickstart](https://github.com/syhner/next-kickstart) - Next.js 14 kickstarter. Zero setup & edge ready. Take what you need: ESLint, Prettier, Tailwind, tRPC, WebSockets, Drizzle, Lucia Auth, Vitest, Testing Library, Playwright, PWA, Docker, CI, Bun
 - [Specy/genshin-music](https://github.com/Specy/genshin-music) - A music composer and song learning webapp made for the games Genshin and Sky Cotl. Made with Next.js, WebMIDI, WebAudio, pixi.js
 
@@ -2320,6 +2322,7 @@
 
 ## react 
 
+- [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
 - [alovajs/alova](https://github.com/alovajs/alova) - Creative next-generation request tools. Extremely improve your API using efficiency and save brainpower Just one step
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [WJSoftware/wj-config](https://github.com/WJSoftware/wj-config) - JavaScript configuration module for browser and server projects that works like .Net configuration where any number of data sources are merged and environment variables can contribute/overwrite values
@@ -2635,6 +2638,7 @@
 
 ## tailwindcss 
 
+- [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
 - [blefnk/create-next-app](https://github.com/blefnk/create-next-app) - 
 - [iandinwoodie/github-markdown-tailwindcss](https://github.com/iandinwoodie/github-markdown-tailwindcss) - ⛵ Replicate GitHub Flavored Markdown with Tailwind CSS components
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
