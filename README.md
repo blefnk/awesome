@@ -887,7 +887,7 @@
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 - [juliusmarminge/trellix-trpc](https://github.com/juliusmarminge/trellix-trpc) - 
 - [baselime/cli](https://github.com/baselime/cli) - ✨ Observability designed for distributed systems, microservices, serverless apps, and everything in between
-- [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. Open source and TypeScript ready.
+- [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌
 - [gajus/eslint-plugin-canonical](https://github.com/gajus/eslint-plugin-canonical) - ESLint rules for Canonical ruleset.
 - [mskelton/eslint-plugin-sort](https://github.com/mskelton/eslint-plugin-sort) - Auto-fixable sort rules for ESLint.
 - [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of composable ESLint plugins for libraries and frameworks that use React as a UI runtime.
@@ -1075,7 +1075,7 @@
 - [andreizanik/cookies-next](https://github.com/andreizanik/cookies-next) - Getting, setting and removing cookies on both client and server with next.js
 - [blefnk/stringts](https://github.com/blefnk/stringts) - Strongly typed string functions
 - [gustavoguichard/string-ts](https://github.com/gustavoguichard/string-ts) - Strongly typed string functions
-- [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
+- [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [svobik7/next-roots](https://github.com/svobik7/next-roots) - Next.js utility to generate i18n routes in the new APP directory.
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
