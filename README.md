@@ -113,6 +113,7 @@
 
 ## CSS 
 
+- [reliverse/browser](https://github.com/reliverse/browser) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [iandinwoodie/github-markdown-tailwindcss](https://github.com/iandinwoodie/github-markdown-tailwindcss) - ⛵ Replicate GitHub Flavored Markdown with Tailwind CSS components
 - [stevebauman/curlwind](https://github.com/stevebauman/curlwind) - Generate Tailwind utility stylesheets on demand.
@@ -448,6 +449,7 @@
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [chrisguttandin/worker-timers](https://github.com/chrisguttandin/worker-timers) - A replacement for setInterval() and setTimeout() which works in unfocused windows.
+- [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫
 - [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content discove
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
@@ -810,7 +812,7 @@
 - [blefnk/typescript-eslint](https://github.com/blefnk/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment) - A library to add comments area to your blog
 - [mnrendra/read-package](https://github.com/mnrendra/read-package) - Read the package.json file from any sub-directory in your project.
-- [antfu/install-pkg](https://github.com/antfu/install-pkg) - Install package programmatically.
+- [antfu-collective/install-pkg](https://github.com/antfu-collective/install-pkg) - Install package programmatically.
 - [blefnk/wxt](https://github.com/blefnk/wxt) - ⚡ Next-gen Web Extension Framework
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [unjs/codeup](https://github.com/unjs/codeup) - Automated codebase updater [POC]
@@ -1276,7 +1278,6 @@
 - [Tonejs/Midi](https://github.com/Tonejs/Midi) - Convert MIDI into Tone.js-friendly JSON
 - [Specy/genshin-music](https://github.com/Specy/genshin-music) - A music composer and song learning webapp made for the games Genshin and Sky Cotl. Made with Next.js, WebMIDI, WebAudio, pixi.js
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
-- [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [icoretech/airbroke](https://github.com/icoretech/airbroke) - 🔥 Airbroke: Lightweight, Airbrake-compatible, PostgreSQL-based Open Source Error Catcher
 - [blefnk/web](https://github.com/blefnk/web) - The open.mp web services monorepo. Homepage, documentation, server index, and more! All in one place.
