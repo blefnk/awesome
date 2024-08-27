@@ -1636,6 +1636,7 @@
 
 ## others 
 
+- [reliverse/browser](https://github.com/reliverse/browser) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [blefnk/create-t3-app](https://github.com/blefnk/create-t3-app) - 
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
 - [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
@@ -1668,7 +1669,7 @@
 - [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
 - [mnrendra/read-package](https://github.com/mnrendra/read-package) - Read the package.json file from any sub-directory in your project.
-- [antfu/install-pkg](https://github.com/antfu/install-pkg) - Install package programmatically.
+- [antfu-collective/install-pkg](https://github.com/antfu-collective/install-pkg) - Install package programmatically.
 - [blefnk/wxt](https://github.com/blefnk/wxt) - ⚡ Next-gen Web Extension Framework
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [unjs/codeup](https://github.com/unjs/codeup) - Automated codebase updater [POC]
