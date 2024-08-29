@@ -791,6 +791,7 @@
 
 ## TypeScript 
 
+- [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
 - [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
 - [blefnk/create-t3-app](https://github.com/blefnk/create-t3-app) - 
 - [blefnk/create-next-app](https://github.com/blefnk/create-next-app) - 
