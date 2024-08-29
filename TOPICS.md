@@ -25,6 +25,7 @@
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -340,6 +341,12 @@
 ## c-plus-plus 
 
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+
+## chatbot 
+
+- [reaviz/reachat](https://github.com/reaviz/reachat) - 💬 UI Building Blocks for LLM/Chat UIs. Maintained by @goodcodeus.
+- [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 
 ## chatgpt 
 
@@ -1636,6 +1643,7 @@
 
 ## others 
 
+- [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
 - [reliverse/browser](https://github.com/reliverse/browser) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [blefnk/create-t3-app](https://github.com/blefnk/create-t3-app) - 
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
