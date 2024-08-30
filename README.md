@@ -76,7 +76,7 @@
 - [Synthesia-LLC/metadata-editor](https://github.com/Synthesia-LLC/metadata-editor) - An editor for generating and updating Synthesia metadata (.synthesia) files
 - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
+- [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
 - [blefnk/csharpin](https://github.com/blefnk/csharpin) - 🟣 cSharpIn. See my expirience with C# and give me your most valuable star. Runs on the .NET 7.0.  C# is used to develop web apps, desktop apps, mobile apps, games and much more.
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 
@@ -298,6 +298,7 @@
 - [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - Speed up eslint to accelerate your development workflow
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [eslint-community/eslint-plugin-eslint-plugin](https://github.com/eslint-community/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins
+- [reliverse/eslint-plugin-template](https://github.com/reliverse/eslint-plugin-template) - 🧱 A powerful ESLint v9.x plugin starter (template), which uses @blefnk/eslint-config-template ESLint config. It is currently under development and will be released soon. You can give a star so you don
 - [M-Izadmehr/deadfile](https://github.com/M-Izadmehr/deadfile) - Simple util to find unused files in any JavaScript project (ES5, ES6, React, Vue, ...)
 - [kufii/CodeSnap](https://github.com/kufii/CodeSnap) - 📸 Take beautiful screenshots of your code in VS Code!
 - [putoutjs/vscode-putout](https://github.com/putoutjs/vscode-putout) - 
@@ -535,7 +536,6 @@
 - [blefnk/template-vscode-extension](https://github.com/blefnk/template-vscode-extension) - 🌶️ Do you need a cool starter for your next awesome VSCode extension? It's right here! ✅ Bun, TypeScript, ESLint v9, etc. 💻 This extension will come with extensive documentation to help beginners get 
 - [reliverse/configs](https://github.com/reliverse/configs) - 🎢 A huge collection of high-quality configurations. Makes every JavaScript ecosystem project ready for production.
 - [reliverse/eslint-config-template](https://github.com/reliverse/eslint-config-template) - 🧮 A powerful ESLint v9.x config starter (template), which uses @blefnk/eslint-plugin-template ESLint plugin. It is currently under development and will be released soon. You can give a star so you don
-- [reliverse/eslint-plugin-template](https://github.com/reliverse/eslint-plugin-template) - 🧱 A powerful ESLint v9.x plugin starter (template), which uses @blefnk/eslint-config-template ESLint config. It is currently under development and will be released soon. You can give a star so you don
 - [blefnk/reliset](https://github.com/blefnk/reliset) - All-in-one extension for VSCode 🏗️ Coming soon :)
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [blefnk/env-builder](https://github.com/blefnk/env-builder) - 
