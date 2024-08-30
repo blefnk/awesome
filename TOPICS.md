@@ -2211,7 +2211,7 @@
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [Kamzik123/AnvilToolkit-Resources](https://github.com/Kamzik123/AnvilToolkit-Resources) - Resources and a wiki for the AnvilToolkit
 - [Sergeanur/EaglePatch](https://github.com/Sergeanur/EaglePatch) - Patches for Assassin's Creed 1 & 2
-- [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
+- [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
 - [w3c/silver](https://github.com/w3c/silver) - Accessibility Guidelines "Silver"
 - [blefnk/cppncpl](https://github.com/blefnk/cppncpl) - C++ and C (Programming Languages)
 - [cs50/check50](https://github.com/cs50/check50) - This is check50, a command-line program with which you can check the correctness of your programs.
