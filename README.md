@@ -451,7 +451,7 @@
 - [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [chrisguttandin/worker-timers](https://github.com/chrisguttandin/worker-timers) - A replacement for setInterval() and setTimeout() which works in unfocused windows.
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
 - [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content discove
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -941,7 +941,7 @@
 - [argyleink/twop](https://github.com/argyleink/twop) - tailwind += open props
 - [pexllecn/pexllecn](https://github.com/pexllecn/pexllecn) - Building a complete nextjs starter supported by shadcn components
 - [pjborowiecki/SAASY-LAND-Next-14-Starters-With-Authentication-And-Database-Implemented](https://github.com/pjborowiecki/SAASY-LAND-Next-14-Starters-With-Authentication-And-Database-Implemented) - Modern, open source starter templates for Next.js 14 full-stack and SAAS projects. Built with Tailwind CSS, ShadCn, Next-Auth v.5 and several databases. Branches contain stand-alone set ups, including
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful framework for building documentation sites in Next.js.
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js
 - [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [getsentry/spotlight](https://github.com/getsentry/spotlight) - Your Universal Debug Toolbar
 - [venables/typed-route-handler](https://github.com/venables/typed-route-handler) - Type-safe API Route Handlers for Next.js
