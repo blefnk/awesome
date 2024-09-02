@@ -1241,7 +1241,7 @@
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
-- [Avansai/next-multilingual](https://github.com/Avansai/next-multilingual) - An opinionated end-to-end solution for Next.js applications that requires multiple languages.
+- [next-multilingual/next-multilingual](https://github.com/next-multilingual/next-multilingual) - An opinionated end-to-end solution for Next.js applications that requires multiple languages.
 - [nanxiaobei/flooks](https://github.com/nanxiaobei/flooks) - 🍸 Auto Optimized State Manager for React Hooks
 - [nanxiaobei/resso](https://github.com/nanxiaobei/resso) - 🪢 The simplest React state manager
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
