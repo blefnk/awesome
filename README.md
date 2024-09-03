@@ -806,7 +806,7 @@
 - [reliverse/eslint-plugin](https://github.com/reliverse/eslint-plugin) - Reliverse EsLint Plugin
 - [blefnk/reliverse-docs](https://github.com/blefnk/reliverse-docs) - 📖 Relivator Next.js Template & Reliverse CLI Docs 👉 https://reliverse.org 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js,
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
-- [alovajs/alova](https://github.com/alovajs/alova) - Creative next-generation request tools. Extremely improve your API using efficiency and save brainpower Just one step
+- [alovajs/alova](https://github.com/alovajs/alova) - Workflow-Streamlined next-generation request tools. Extremely streamline API integration workflow, just one step
 - [reaviz/reachat](https://github.com/reaviz/reachat) - 💬 UI Building Blocks for LLM/Chat UIs. Maintained by @goodcodeus.
 - [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book
 - [t3dotgg/t3-modern](https://github.com/t3dotgg/t3-modern) - t3-modern
