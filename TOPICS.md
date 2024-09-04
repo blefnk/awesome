@@ -1446,7 +1446,7 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [blefnk/relibun](https://github.com/blefnk/relibun) - 🧁 Next.js 13 Bun (1.0.0) Starter. Build faster with Bun. Develop, test, run, and bundle JavaScript & TypeScript projects, like this one starter—all with Bun. Bun is an all-in-one JavaScript runtime & 
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
-- [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js (App Router) project.
+- [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
 - [shreyashrangrej/create-entapex-app](https://github.com/shreyashrangrej/create-entapex-app) - Interactive CLI to build modern full-stack next.js application with latest tech stack
 - [syhner/next-kickstart](https://github.com/syhner/next-kickstart) - Next.js 14 kickstarter. Zero setup & edge ready. Take what you need: ESLint, Prettier, Tailwind, tRPC, WebSockets, Drizzle, Lucia Auth, Vitest, Testing Library, Playwright, PWA, Docker, CI, Bun
 - [MauricioRobayo/nextjs-google-analytics](https://github.com/MauricioRobayo/nextjs-google-analytics) - Google Analytics for Next.js
@@ -2409,7 +2409,7 @@
 - [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Lit Form and Vue Form.
-- [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js (App Router) project.
+- [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
 - [Fredkiss3/gh-next](https://github.com/Fredkiss3/gh-next) - A minimal Github clone built on nextjs app router.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [aulianza/aulianza.id](https://github.com/aulianza/aulianza.id) - 🔥 Personal website & portfolio, built from scratch using Next.js, TypeScript, Tailwind CSS, SWR, MDX, Firebase and Prisma.
@@ -2829,7 +2829,7 @@
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
-- [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js (App Router) project.
+- [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
 - [shreyashrangrej/create-entapex-app](https://github.com/shreyashrangrej/create-entapex-app) - Interactive CLI to build modern full-stack next.js application with latest tech stack
 - [MauricioRobayo/nextjs-google-analytics](https://github.com/MauricioRobayo/nextjs-google-analytics) - Google Analytics for Next.js
 - [Fredkiss3/gh-next](https://github.com/Fredkiss3/gh-next) - A minimal Github clone built on nextjs app router.
