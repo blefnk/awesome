@@ -943,7 +943,7 @@
 - [argyleink/twop](https://github.com/argyleink/twop) - tailwind += open props
 - [pexllecn/pexllecn](https://github.com/pexllecn/pexllecn) - Building a complete nextjs starter supported by shadcn components
 - [pjborowiecki/SAASY-LAND-Next-14-Starters-With-Authentication-And-Database-Implemented](https://github.com/pjborowiecki/SAASY-LAND-Next-14-Starters-With-Authentication-And-Database-Implemented) - Modern, open source starter templates for Next.js 14 full-stack and SAAS projects. Built with Tailwind CSS, ShadCn, Next-Auth v.5 and several databases. Branches contain stand-alone set ups, including
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js. Alternative to Nextra
 - [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [getsentry/spotlight](https://github.com/getsentry/spotlight) - Your Universal Debug Toolbar
 - [venables/typed-route-handler](https://github.com/venables/typed-route-handler) - Type-safe API Route Handlers for Next.js
