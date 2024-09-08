@@ -477,7 +477,7 @@
 
 - [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 - [flsilva/nexar.dev](https://github.com/flsilva/nexar.dev) - Nexar is an application architecture for Next.js App Router apps.
-- [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, and Vercel.
+- [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
 - [openmultiplayer/web](https://github.com/openmultiplayer/web) - The open.mp web services monorepo. Homepage, documentation, server index, and more! All in one place.
 - [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - Serverless Postgres for modern SaaS
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
