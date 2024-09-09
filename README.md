@@ -26,6 +26,7 @@
 - [Mojo](#mojo)
 - [Others](#others)
 - [PHP](#php)
+- [Pascal](#pascal)
 - [Pawn](#pawn)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -668,6 +669,10 @@
 - [calcom/wp-plugin](https://github.com/calcom/wp-plugin) - 
 - [GoogleChromeLabs/third-party-capital](https://github.com/GoogleChromeLabs/third-party-capital) - A library that provides best practices for loading popular third-parties
 
+## Pascal 
+
+- [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
+
 ## Pawn 
 
 - [Mergevos/open-language](https://github.com/Mergevos/open-language) - Minimalistic multi-language library designed for open.mp.
@@ -791,6 +796,7 @@
 
 ## TypeScript 
 
+- [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
@@ -943,7 +949,7 @@
 - [argyleink/twop](https://github.com/argyleink/twop) - tailwind += open props
 - [pexllecn/pexllecn](https://github.com/pexllecn/pexllecn) - Building a complete nextjs starter supported by shadcn components
 - [pjborowiecki/SAASY-LAND-Next-14-Starters-With-Authentication-And-Database-Implemented](https://github.com/pjborowiecki/SAASY-LAND-Next-14-Starters-With-Authentication-And-Database-Implemented) - Modern, open source starter templates for Next.js 14 full-stack and SAAS projects. Built with Tailwind CSS, ShadCn, Next-Auth v.5 and several databases. Branches contain stand-alone set ups, including
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The powerful docs framework based on Next.js. Alternative to Nextra
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework for Next.js. Alternative to Nextra
 - [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [getsentry/spotlight](https://github.com/getsentry/spotlight) - Your Universal Debug Toolbar
 - [venables/typed-route-handler](https://github.com/venables/typed-route-handler) - Type-safe API Route Handlers for Next.js
@@ -1131,7 +1137,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [delbaoliveira/next-auth](https://github.com/delbaoliveira/next-auth) - Authentication for the Web.
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
 - [blefnk/react-three-fiber](https://github.com/blefnk/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [blefnk/prisma](https://github.com/blefnk/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -1193,7 +1199,7 @@
 - [rexfordessilfie/next-auth-account-linking](https://github.com/rexfordessilfie/next-auth-account-linking) - Example repo demonstrating linking multiple accounts using NextAuth
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 - [MauricioRobayo/nextjs-google-analytics](https://github.com/MauricioRobayo/nextjs-google-analytics) - Google Analytics for Next.js
-- [startkit-dev/next](https://github.com/startkit-dev/next) - A sane way to start your next next project.
+- [startkit-dev/startkit-next](https://github.com/startkit-dev/startkit-next) - A sane way to start your next next project.
 - [Fredkiss3/gh-next](https://github.com/Fredkiss3/gh-next) - A minimal Github clone built on nextjs app router.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [Sukrittt/Otaku-Sphere](https://github.com/Sukrittt/Otaku-Sphere) - Discover the ultimate Anime Platform, built on Next.js 13. Explore anime, join communities, manage watchlist, view leaderboards, and engage in polls. An open-source all-in-one hub for anime enthusiast
