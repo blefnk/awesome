@@ -183,6 +183,7 @@
 
 ## ai 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [reaviz/reachat](https://github.com/reaviz/reachat) - 💬 UI Building Blocks for LLM/Chat UIs. Maintained by @goodcodeus.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [Blazity/enterprise-commerce](https://github.com/Blazity/enterprise-commerce) - ⚡ Next.js storefront for high-performance eCommerce with AI features and one-click deployment
@@ -380,6 +381,7 @@
 
 ## cli 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [kazhala/InquirerPy](https://github.com/kazhala/InquirerPy) - :snake: Python port of Inquirer.js (A collection of common interactive command-line user interfaces)
 - [ehmicky/modern-errors-cli](https://github.com/ehmicky/modern-errors-cli) - `modern-errors` plugin to handle errors in CLI modules.
@@ -772,6 +774,7 @@
 
 ## git 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [alextanhongpin/cheat-sheet](https://github.com/alextanhongpin/cheat-sheet) - A list of useful cheat-sheet for different languages/tools
 - [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes) - A collection of useful .gitattributes templates
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
@@ -820,6 +823,7 @@
 
 ## golang 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -1081,7 +1085,6 @@
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
-- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [klis87/normy](https://github.com/klis87/normy) - Automatic normalization and data updates for data fetching libraries (react-query, swr, rtk-query and more)
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [tolgee/tolgee-js](https://github.com/tolgee/tolgee-js) - Tolgee JavaScript libraries monorepo
@@ -1246,6 +1249,7 @@
 
 ## llm 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [reaviz/reachat](https://github.com/reaviz/reachat) - 💬 UI Building Blocks for LLM/Chat UIs. Maintained by @goodcodeus.
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -1389,7 +1393,7 @@
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
 - [blefnk/create-next-app](https://github.com/blefnk/create-next-app) - 
-- [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment) - A library to add comments area to your blog
+- [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment) - user friendly, beautiful comment area to your blog
 - [Hacksore/vercel.lol](https://github.com/Hacksore/vercel.lol) - vercel.lol - The Triangle Company, We sell triangles
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌
@@ -1649,7 +1653,8 @@
 
 ## others 
 
-- [blefnk/minext](https://github.com/blefnk/minext) - 🧼 miNext: A minimal Next.js template
+- [alinkedd/uk-tech-l10n-list](https://github.com/alinkedd/uk-tech-l10n-list) - List of open technical texts localized into Ukrainian · Ukrainian translations · uk-UA
+- [blefnk/minext](https://github.com/blefnk/minext) - MINEXT: A Minimal Next.js Template
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
@@ -2392,7 +2397,7 @@
 - [jsx-eslint/eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements.
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
 - [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
 - [nativewind/nativewind](https://github.com/nativewind/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
@@ -2483,6 +2488,7 @@
 
 ## reactjs 
 
+- [MishanPoudel/Windows11-3.0](https://github.com/MishanPoudel/Windows11-3.0) - Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.
 - [alovajs/alova](https://github.com/alovajs/alova) - Workflow-Streamlined next-generation request tools. Extremely streamline API integration workflow, just one step
 - [reaviz/reachat](https://github.com/reaviz/reachat) - 💬 UI Building Blocks for LLM/Chat UIs. Maintained by @goodcodeus.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
@@ -2721,6 +2727,7 @@
 
 ## terminal 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [ehmicky/modern-errors-cli](https://github.com/ehmicky/modern-errors-cli) - `modern-errors` plugin to handle errors in CLI modules.
 - [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
@@ -2747,7 +2754,7 @@
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 - [alovajs/alova](https://github.com/alovajs/alova) - Workflow-Streamlined next-generation request tools. Extremely streamline API integration workflow, just one step
-- [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment) - A library to add comments area to your blog
+- [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment) - user friendly, beautiful comment area to your blog
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) - Algorithms and Data Structures implemented in TypeScript for beginners, following best practices.
 - [MetaMask/utils](https://github.com/MetaMask/utils) - Various JavaScript / TypeScript utilities of wide relevance to the MetaMask codebase.
 - [WJSoftware/wj-config](https://github.com/WJSoftware/wj-config) - JavaScript configuration module for browser and server projects that works like .Net configuration where any number of data sources are merged and environment variables can contribute/overwrite values
@@ -2818,7 +2825,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Indexing Discord Help Channel Questions into Google
 - [zardoy/typescript-vscode-plugins](https://github.com/zardoy/typescript-vscode-plugins) - NO LIMITS FOR TS! Isn't this the most advanced TypeScript plugin as VS Code extension ever created?
-- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
 - [klis87/normy](https://github.com/klis87/normy) - Automatic normalization and data updates for data fetching libraries (react-query, swr, rtk-query and more)
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
