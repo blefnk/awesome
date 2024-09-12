@@ -114,7 +114,7 @@
 
 ## CSS 
 
-- [blefnk/minext](https://github.com/blefnk/minext) - 🧼 miNext: A minimal Next.js template
+- [blefnk/minext](https://github.com/blefnk/minext) - MINEXT: A Minimal Next.js Template
 - [reliverse/browser](https://github.com/reliverse/browser) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [iandinwoodie/github-markdown-tailwindcss](https://github.com/iandinwoodie/github-markdown-tailwindcss) - ⛵ Replicate GitHub Flavored Markdown with Tailwind CSS components
@@ -142,6 +142,7 @@
 
 ## Go 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [blefnk/ignite](https://github.com/blefnk/ignite) - Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
 - [svix/svix-cli](https://github.com/svix/svix-cli) - A CLI for interacting with the Svix API
@@ -202,6 +203,7 @@
 
 ## JavaScript 
 
+- [MishanPoudel/Windows11-3.0](https://github.com/MishanPoudel/Windows11-3.0) - Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.
 - [reliverse/ts-lib-starter](https://github.com/reliverse/ts-lib-starter) - Reliverse TypeScript Library/Package Template
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 - [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions) - This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
@@ -500,6 +502,7 @@
 
 ## Others 
 
+- [alinkedd/uk-tech-l10n-list](https://github.com/alinkedd/uk-tech-l10n-list) - List of open technical texts localized into Ukrainian · Ukrainian translations · uk-UA
 - [itsdouges/awesome-typescript-ecosystem](https://github.com/itsdouges/awesome-typescript-ecosystem) - 😎 A list of awesome TypeScript transformers, plugins, handbooks, etc
 - [blefnk/awesome](https://github.com/blefnk/awesome) - ⭐ A large number of GitHub repositories about all kinds of interesting topics that @blefnk considers awesome have been starred and recommended to everyone, especially the Reliverse community. The curr
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
@@ -820,7 +823,7 @@
 - [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book
 - [t3dotgg/t3-modern](https://github.com/t3dotgg/t3-modern) - t3-modern
 - [blefnk/typescript-eslint](https://github.com/blefnk/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
-- [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment) - A library to add comments area to your blog
+- [fuma-nama/fuma-comment](https://github.com/fuma-nama/fuma-comment) - user friendly, beautiful comment area to your blog
 - [mnrendra/read-package](https://github.com/mnrendra/read-package) - Read the package.json file from any sub-directory in your project.
 - [antfu-collective/install-pkg](https://github.com/antfu-collective/install-pkg) - Install package programmatically.
 - [blefnk/wxt](https://github.com/blefnk/wxt) - ⚡ Next-gen Web Extension Framework
@@ -1074,7 +1077,7 @@
 - [zardoy/typescript-vscode-plugins](https://github.com/zardoy/typescript-vscode-plugins) - NO LIMITS FOR TS! Isn't this the most advanced TypeScript plugin as VS Code extension ever created?
 - [GodHermit/survival-manual](https://github.com/GodHermit/survival-manual) - International survival manual with offline articles
 - [blefnk/cookies](https://github.com/blefnk/cookies) - 🍪 Getting, setting and removing cookies on both client and server with Next.js
-- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
 - [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
 - [john-smilga/nextjs-course-openai](https://github.com/john-smilga/nextjs-course-openai) - 
 - [veloss-labs/threads-nextjs](https://github.com/veloss-labs/threads-nextjs) - 💥 SST makes it easy to build Nextjs serverless. Then, we clone the function of the "Thread" app and implement the function of Nextjs.
