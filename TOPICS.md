@@ -788,6 +788,7 @@
 
 ## github 
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
@@ -1611,6 +1612,7 @@
 
 ## npm 
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [reliverse/acme](https://github.com/reliverse/acme) - 📄 @reliverse/acme is a @reliverse/addons template that provides a starting point for developing new packages within the Reliverse ecosystem, offering pre-configured setup and guidelines to streamline 
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [unjs/defu](https://github.com/unjs/defu) - 🌊 Assign default properties recursively
@@ -1658,6 +1660,13 @@
 
 ## others 
 
+- [Bekacru/better-call](https://github.com/Bekacru/better-call) - a tiny web framework for typescript
+- [TDUniverse/Cyberverse](https://github.com/TDUniverse/Cyberverse) - The Cyberpunk 2077 Multiplayer Framework
+- [cyberscript77/release](https://github.com/cyberscript77/release) - 
+- [cyberscript77/wiki](https://github.com/cyberscript77/wiki) - 
+- [psiberx/cp2077-equipment-ex](https://github.com/psiberx/cp2077-equipment-ex) - Cyberpunk 2077 mod that adds powerful transmog system with 30+ clothing slots and outfit manager
+- [psiberx/cp2077-archive-xl](https://github.com/psiberx/cp2077-archive-xl) - Cyberpunk 2077 mod that allows you to expand game resources without conflicts.
+- [psiberx/cp2077-codeware](https://github.com/psiberx/cp2077-codeware) - Cyberpunk 2077 library and framework for creating script mods.
 - [jac3km4/redscript-ide-vscode](https://github.com/jac3km4/redscript-ide-vscode) - VS Code extension for redscript
 - [psiberx/cp2077-red-hot-tools](https://github.com/psiberx/cp2077-red-hot-tools) - 
 - [cyb3rpsych0s1s/audioware](https://github.com/cyb3rpsych0s1s/audioware) - Audio modding tool for Cyberpunk 2077
