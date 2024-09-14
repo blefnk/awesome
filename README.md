@@ -21,6 +21,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [MDX](#mdx)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
@@ -34,6 +35,7 @@
 - [Shell](#shell)
 - [Solidity](#solidity)
 - [Svelte](#svelte)
+- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -85,6 +87,8 @@
 
 ## C++ 
 
+- [TDUniverse/Cyberverse](https://github.com/TDUniverse/Cyberverse) - The Cyberpunk 2077 Multiplayer Framework
+- [psiberx/cp2077-archive-xl](https://github.com/psiberx/cp2077-archive-xl) - Cyberpunk 2077 mod that allows you to expand game resources without conflicts.
 - [psiberx/cp2077-red-hot-tools](https://github.com/psiberx/cp2077-red-hot-tools) - 
 - [WopsS/RED4ext](https://github.com/WopsS/RED4ext) - A script extender for REDengine 4 (Cyberpunk 2077).
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -118,6 +122,7 @@
 
 ## CSS 
 
+- [cyberscript77/wiki](https://github.com/cyberscript77/wiki) - 
 - [blefnk/minext](https://github.com/blefnk/minext) - MINEXT: A Minimal Next.js Template
 - [reliverse/browser](https://github.com/reliverse/browser) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
@@ -481,6 +486,10 @@
 - [derlin/bitdowntoc](https://github.com/derlin/bitdowntoc) - Online and command-line Markdown TOC generator, with built-in support for BitBucket Server, GitHub, Gitlab, dev.to and more!
 - [PaulWoitaschek/Voice](https://github.com/PaulWoitaschek/Voice) - Minimalistic audiobook player
 
+## Lua 
+
+- [cyberscript77/release](https://github.com/cyberscript77/release) - 
+
 ## MDX 
 
 - [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
@@ -799,12 +808,19 @@
 
 - [yapms/yapms](https://github.com/yapms/yapms) - Yet Another Political Map Simulator
 
+## Swift 
+
+- [psiberx/cp2077-equipment-ex](https://github.com/psiberx/cp2077-equipment-ex) - Cyberpunk 2077 mod that adds powerful transmog system with 30+ clothing slots and outfit manager
+- [psiberx/cp2077-codeware](https://github.com/psiberx/cp2077-codeware) - Cyberpunk 2077 library and framework for creating script mods.
+
 ## TeX 
 
 - [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) - Various cspell dictionaries
 
 ## TypeScript 
 
+- [Bekacru/better-call](https://github.com/Bekacru/better-call) - a tiny web framework for typescript
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jac3km4/redscript-ide-vscode](https://github.com/jac3km4/redscript-ide-vscode) - VS Code extension for redscript
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
