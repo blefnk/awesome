@@ -1962,7 +1962,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [mozilla-frontend-infra/react-lazylog](https://github.com/mozilla-frontend-infra/react-lazylog) - INACTIVE
 - [blefnk/million](https://github.com/blefnk/million) - Make React Faster. Automatically.
-- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
+- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 - [pingdotgg/webhookthing](https://github.com/pingdotgg/webhookthing) - 
 - [avajs/typescript](https://github.com/avajs/typescript) - Test TypeScript projects using AVA.
 - [justinribeiro/lite-youtube](https://github.com/justinribeiro/lite-youtube) - The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed.
