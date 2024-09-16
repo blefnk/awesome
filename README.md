@@ -582,7 +582,6 @@
 - [blefnk/ydkjs](https://github.com/blefnk/ydkjs) - A book series on JavaScript. @YDKJS on twitter.
 - [blefnk/movetheres](https://github.com/blefnk/movetheres) - 📦 An upcoming web 2D platformer game.
 - [blefnk/jsdocs](https://github.com/blefnk/jsdocs) - 
-- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [wallabyjs/quokka](https://github.com/wallabyjs/quokka) - Repository for Quokka.js questions and issues
 - [wallabyjs/console-ninja](https://github.com/wallabyjs/console-ninja) - Repository for Console Ninja questions and issues
 - [deanhume/typography](https://github.com/deanhume/typography) - A collection of web typography resources
@@ -1350,6 +1349,7 @@
 - [eslint/config-inspector](https://github.com/eslint/config-inspector) - A visual tool for inspecting and understanding your ESLint flat configs.
 - [blefnk/esviewer](https://github.com/blefnk/esviewer) - A visual tool to help you view and understand your ESLint Flat config.
 - [antfu/eslint-flat-config-viewer](https://github.com/antfu/eslint-flat-config-viewer) - A visual tool to help you view and understand your ESLint Flat config.
+- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 ## Zig 
