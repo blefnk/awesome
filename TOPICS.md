@@ -2281,7 +2281,7 @@
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
-- [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - Serverless Postgres for modern SaaS
+- [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - A Postgres platform to ship multi-tenant AI applications - fast, safe and limitless
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [neondatabase/serverless](https://github.com/neondatabase/serverless) - Connect to Neon PostgreSQL from serverless/worker/edge functions
 - [shreyashrangrej/create-entapex-app](https://github.com/shreyashrangrej/create-entapex-app) - Interactive CLI to build modern full-stack next.js application with latest tech stack
@@ -2605,7 +2605,7 @@
 - [pjborowiecki/SAASY-LAND-Next-14-Starters-With-Authentication-And-Database-Implemented](https://github.com/pjborowiecki/SAASY-LAND-Next-14-Starters-With-Authentication-And-Database-Implemented) - Modern, open source starter templates for Next.js 14 full-stack and SAAS projects. Built with Tailwind CSS, ShadCn, Next-Auth v.5 and several databases. Branches contain stand-alone set ups, including
 - [veloss-labs/threads-nextjs](https://github.com/veloss-labs/threads-nextjs) - 💥 SST makes it easy to build Nextjs serverless. Then, we clone the function of the "Thread" app and implement the function of Nextjs.
 - [OhMinsSup/threads-nextjs](https://github.com/OhMinsSup/threads-nextjs) - 💥 SST makes it easy to build Nextjs serverless. Then, we clone the function of the "Thread" app and implement the function of Nextjs.
-- [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - Serverless Postgres for modern SaaS
+- [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - A Postgres platform to ship multi-tenant AI applications - fast, safe and limitless
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [panaverse/learn-nextjs](https://github.com/panaverse/learn-nextjs) - Learn Modern Full Stack Web 2 and Web 3 Development using Typescript, Next.js 13 Apps, Tailwind CSS, Shadcn UI, Neon, Drizzle ORM, and Sanity
