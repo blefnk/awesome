@@ -496,7 +496,7 @@
 - [flsilva/nexar.dev](https://github.com/flsilva/nexar.dev) - Nexar is an application architecture for Next.js App Router apps.
 - [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
 - [openmultiplayer/web](https://github.com/openmultiplayer/web) - The open.mp web services monorepo. Homepage, documentation, server index, and more! All in one place.
-- [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - Serverless Postgres for modern SaaS
+- [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - A Postgres platform to ship multi-tenant AI applications - fast, safe and limitless
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [CatchTheTornado/opensourcetipsbook](https://github.com/CatchTheTornado/opensourcetipsbook) - Open Source book on Open Source. How to create a successful OSS product - tips and tricks that simply works.
 - [radix-ui/website](https://github.com/radix-ui/website) - Website and documentation for Radix.
