@@ -87,6 +87,8 @@
 
 ## C++ 
 
+- [CookiePLMonster/GXT-Builder](https://github.com/CookiePLMonster/GXT-Builder) - GXT Builder for GTA Vice City and GTA San Andreas
+- [Sergeanur/GXT-compiler](https://github.com/Sergeanur/GXT-compiler) - Compiler/decompiler for GXT text container
 - [TDUniverse/Cyberverse](https://github.com/TDUniverse/Cyberverse) - The Cyberpunk 2077 Multiplayer Framework
 - [psiberx/cp2077-archive-xl](https://github.com/psiberx/cp2077-archive-xl) - Cyberpunk 2077 mod that allows you to expand game resources without conflicts.
 - [psiberx/cp2077-red-hot-tools](https://github.com/psiberx/cp2077-red-hot-tools) - 
@@ -515,6 +517,8 @@
 
 ## Others 
 
+- [ukrainian-freedom/mfs-ua-i18n](https://github.com/ukrainian-freedom/mfs-ua-i18n) - Українськомовний open-source переклад ігор: Microsoft Flight Simulator (2020), MFS 2024, тощо. Наразі ведеться активна робота над проєктом: MFS 2020.
+- [ukrainian-freedom/gta-ua-i18n](https://github.com/ukrainian-freedom/gta-ua-i18n) - Українськомовний open-source переклад усієї серії ігор Grand Theft Auto. Наразі ведеться активна робота над першим проєктом: GTA Vice City.
 - [alinkedd/uk-tech-l10n-list](https://github.com/alinkedd/uk-tech-l10n-list) - List of open technical texts localized into Ukrainian · Ukrainian translations · uk-UA
 - [itsdouges/awesome-typescript-ecosystem](https://github.com/itsdouges/awesome-typescript-ecosystem) - 😎 A list of awesome TypeScript transformers, plugins, handbooks, etc
 - [blefnk/awesome](https://github.com/blefnk/awesome) - ⭐ A large number of GitHub repositories about all kinds of interesting topics that @blefnk considers awesome have been starred and recommended to everyone, especially the Reliverse community. The curr
@@ -602,7 +606,6 @@
 - [blefnk/search](https://github.com/blefnk/search) - 🔍 Guides on how to use search bar on various sites, including GitHub, as well as various secrets and tricks.
 - [blefnk/canary](https://github.com/blefnk/canary) - 🧿 Blefnk's Canary: A Collection of My Experiments with Cutting-Edge Web Technologies
 - [blefnk/notion](https://github.com/blefnk/notion) - 📃 Notion clone built with everything new in Next.js 13–using: Shadcn, Tailwind, TypeScript, and with many other cool things.
-- [reliverse/dont-open-this-repo](https://github.com/reliverse/dont-open-this-repo) - 🤫 Yeah, seriously, don't do that. You absolutely shouldn't open this repository.
 - [blefnk/bleftics](https://github.com/blefnk/bleftics) - 📍 Bleverse Analytics (Bleftics): Real-time insights and analytics–for everyone–for everything, for apps and games, for web-mobile-desktop.
 - [blefnk/mirage](https://github.com/blefnk/mirage) - 🦅 The Eagle Roots: The upcoming mod for the Assassin's Creed Mirage game, which aims to make a real «Return to the Roots».
 - [blefnk/github](https://github.com/blefnk/github) - 🐙 GitHub clone built with everything new in Next.js 13–using: Tailwind, TypeScript, and many other cool things.
@@ -1218,7 +1221,7 @@
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [HaNdTriX/drizzle-fiddle](https://github.com/HaNdTriX/drizzle-fiddle) - Experimenting with some edge stuff...
 - [shadcn/ai-chatbot](https://github.com/shadcn/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
-- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. An advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.
+- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [shreyashrangrej/create-entapex-app](https://github.com/shreyashrangrej/create-entapex-app) - Interactive CLI to build modern full-stack next.js application with latest tech stack
 - [syhner/next-kickstart](https://github.com/syhner/next-kickstart) - Next.js 14 kickstarter. Zero setup & edge ready. Take what you need: ESLint, Prettier, Tailwind, tRPC, WebSockets, Drizzle, Lucia Auth, Vitest, Testing Library, Playwright, PWA, Docker, CI, Bun
 - [rexfordessilfie/next-auth-account-linking](https://github.com/rexfordessilfie/next-auth-account-linking) - Example repo demonstrating linking multiple accounts using NextAuth
