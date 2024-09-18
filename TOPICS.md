@@ -546,7 +546,7 @@
 
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [PostHog/posthog.com](https://github.com/PostHog/posthog.com) - Official docs, website, and handbook for PostHog.
-- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. An advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.
+- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 
 ## devops 
 
@@ -751,7 +751,7 @@
 ## frontend 
 
 - [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️
-- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. An advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.
+- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
@@ -1648,7 +1648,7 @@
 - [Audiveris/audiveris](https://github.com/Audiveris/audiveris) - Latest generation of Audiveris OMR engine
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [CatchTheTornado/opensourcetipsbook](https://github.com/CatchTheTornado/opensourcetipsbook) - Open Source book on Open Source. How to create a successful OSS product - tips and tricks that simply works.
-- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. An advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.
+- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js.
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1660,6 +1660,10 @@
 
 ## others 
 
+- [ukrainian-freedom/mfs-ua-i18n](https://github.com/ukrainian-freedom/mfs-ua-i18n) - Українськомовний open-source переклад ігор: Microsoft Flight Simulator (2020), MFS 2024, тощо. Наразі ведеться активна робота над проєктом: MFS 2020.
+- [ukrainian-freedom/gta-ua-i18n](https://github.com/ukrainian-freedom/gta-ua-i18n) - Українськомовний open-source переклад усієї серії ігор Grand Theft Auto. Наразі ведеться активна робота над першим проєктом: GTA Vice City.
+- [CookiePLMonster/GXT-Builder](https://github.com/CookiePLMonster/GXT-Builder) - GXT Builder for GTA Vice City and GTA San Andreas
+- [Sergeanur/GXT-compiler](https://github.com/Sergeanur/GXT-compiler) - Compiler/decompiler for GXT text container
 - [Bekacru/better-call](https://github.com/Bekacru/better-call) - a tiny web framework for typescript
 - [TDUniverse/Cyberverse](https://github.com/TDUniverse/Cyberverse) - The Cyberpunk 2077 Multiplayer Framework
 - [cyberscript77/release](https://github.com/cyberscript77/release) - 
@@ -2071,7 +2075,6 @@
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [blefnk/notion](https://github.com/blefnk/notion) - 📃 Notion clone built with everything new in Next.js 13–using: Shadcn, Tailwind, TypeScript, and with many other cool things.
 - [spmn/sa-mp_masterlist_fix](https://github.com/spmn/sa-mp_masterlist_fix) - Master of your... internet tab!
-- [reliverse/dont-open-this-repo](https://github.com/reliverse/dont-open-this-repo) - 🤫 Yeah, seriously, don't do that. You absolutely shouldn't open this repository.
 - [blefnk/authjs](https://github.com/blefnk/authjs) - 🔐 next-auth, but quieter: warnings are muted to keep your console clean; some additional changes and new possible features are also on the roadmap.
 - [blefnk/bleftics](https://github.com/blefnk/bleftics) - 📍 Bleverse Analytics (Bleftics): Real-time insights and analytics–for everyone–for everything, for apps and games, for web-mobile-desktop.
 - [blefnk/mirage](https://github.com/blefnk/mirage) - 🦅 The Eagle Roots: The upcoming mod for the Assassin's Creed Mirage game, which aims to make a real «Return to the Roots».
@@ -2443,7 +2446,7 @@
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Lit Form and Vue Form.
 - [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
-- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. An advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.
+- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [Fredkiss3/gh-next](https://github.com/Fredkiss3/gh-next) - A minimal Github clone built on nextjs app router.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [aulianza/aulianza.id](https://github.com/aulianza/aulianza.id) - 🔥 Personal website & portfolio, built from scratch using Next.js, TypeScript, Tailwind CSS, SWR, MDX, Firebase and Prisma.
@@ -2975,7 +2978,7 @@
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [Blazity/nextjs-roadmap](https://github.com/Blazity/nextjs-roadmap) - 🤓 Roadmap showcasing the journey to becoming a proficient Next.js Product Engineer in 2023
-- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. An advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.
+- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 
 ## webapp 
 
