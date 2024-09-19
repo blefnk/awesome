@@ -58,6 +58,8 @@
 
 ## C 
 
+- [nlgxzef/NFSU2Unlimiter](https://github.com/nlgxzef/NFSU2Unlimiter) - Need for Speed Underground 2 Unlimiter
+- [nlgxzef/NFSMWUnlimiter](https://github.com/nlgxzef/NFSMWUnlimiter) - Fixes some issues for added cars.
 - [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
 - [rockdaboot/wget2](https://github.com/rockdaboot/wget2) - The successor of GNU Wget. Contributions preferred at https://gitlab.com/gnuwget/wget2. But accepted here as well 😍
 - [openmultiplayer/compiler](https://github.com/openmultiplayer/compiler) - 
@@ -87,6 +89,9 @@
 
 ## C++ 
 
+- [ExOptsTeam/NFSU2ExOpts](https://github.com/ExOptsTeam/NFSU2ExOpts) - Need for Speed Underground 2 Extra Options
+- [AeroWidescreen/NFSHDContentSupport](https://github.com/AeroWidescreen/NFSHDContentSupport) - Scaling support for high-resolution textures and videos in old Need for Speed games.
+- [ThirteenAG/Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) - ASI Loader is the tool that loads custom libraries with the file extension .asi into any game process.
 - [CookiePLMonster/GXT-Builder](https://github.com/CookiePLMonster/GXT-Builder) - GXT Builder for GTA Vice City and GTA San Andreas
 - [Sergeanur/GXT-compiler](https://github.com/Sergeanur/GXT-compiler) - Compiler/decompiler for GXT text container
 - [TDUniverse/Cyberverse](https://github.com/TDUniverse/Cyberverse) - The Cyberpunk 2077 Multiplayer Framework
