@@ -120,6 +120,7 @@
 - [npm](#npm)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opengl](#opengl)
 - [others](#others)
 - [package-manager](#package-manager)
@@ -1654,12 +1655,32 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
+## openai 
+
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [badass-courses/course-builder](https://github.com/badass-courses/course-builder) - 🍄 experimental platform for building Badass Courses
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+
 ## opengl 
 
 - [kosua20/MIDIVisualizer](https://github.com/kosua20/MIDIVisualizer) - A small MIDI visualizer tool, using OpenGL
 
 ## others 
 
+- [ExOptsTeam/NFSU2ExOpts](https://github.com/ExOptsTeam/NFSU2ExOpts) - Need for Speed Underground 2 Extra Options
+- [AeroWidescreen/NFSHDContentSupport](https://github.com/AeroWidescreen/NFSHDContentSupport) - Scaling support for high-resolution textures and videos in old Need for Speed games.
+- [nlgxzef/NFSU2Unlimiter](https://github.com/nlgxzef/NFSU2Unlimiter) - Need for Speed Underground 2 Unlimiter
+- [nlgxzef/NFSMWUnlimiter](https://github.com/nlgxzef/NFSMWUnlimiter) - Fixes some issues for added cars.
+- [ThirteenAG/Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) - ASI Loader is the tool that loads custom libraries with the file extension .asi into any game process.
 - [ukrainian-freedom/mfs-ua-i18n](https://github.com/ukrainian-freedom/mfs-ua-i18n) - Українськомовний open-source переклад ігор: Microsoft Flight Simulator (2020), MFS 2024, тощо. Наразі ведеться активна робота над проєктом: MFS 2020.
 - [ukrainian-freedom/gta-ua-i18n](https://github.com/ukrainian-freedom/gta-ua-i18n) - Українськомовний open-source переклад усієї серії ігор Grand Theft Auto. Наразі ведеться активна робота над першим проєктом: GTA Vice City.
 - [CookiePLMonster/GXT-Builder](https://github.com/CookiePLMonster/GXT-Builder) - GXT Builder for GTA Vice City and GTA San Andreas
@@ -2047,7 +2068,6 @@
 - [blefnk/starters](https://github.com/blefnk/starters) - Soon...
 - [blefnk/calwp](https://github.com/blefnk/calwp) - Cal.com Official WordPress plugin
 - [calcom/wp-plugin](https://github.com/calcom/wp-plugin) - 
-- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
 - [blefnk/svelte](https://github.com/blefnk/svelte) - Cybernetically enhanced web apps
 - [blefnk/sveltekit](https://github.com/blefnk/sveltekit) - web development, streamlined
