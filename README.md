@@ -1106,7 +1106,7 @@
 - [zardoy/typescript-vscode-plugins](https://github.com/zardoy/typescript-vscode-plugins) - NO LIMITS FOR TS! Isn't this the most advanced TypeScript plugin as VS Code extension ever created?
 - [GodHermit/survival-manual](https://github.com/GodHermit/survival-manual) - International survival manual with offline articles
 - [blefnk/cookies](https://github.com/blefnk/cookies) - 🍪 Getting, setting and removing cookies on both client and server with Next.js
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 - [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
 - [john-smilga/nextjs-course-openai](https://github.com/john-smilga/nextjs-course-openai) - 
 - [veloss-labs/threads-nextjs](https://github.com/veloss-labs/threads-nextjs) - 💥 SST makes it easy to build Nextjs serverless. Then, we clone the function of the "Thread" app and implement the function of Nextjs.
