@@ -522,6 +522,7 @@
 
 ## Others 
 
+- [blefnk/testxt](https://github.com/blefnk/testxt) - 
 - [ukrainian-freedom/mfs-ua-i18n](https://github.com/ukrainian-freedom/mfs-ua-i18n) - Українськомовний open-source переклад ігор: Microsoft Flight Simulator (2020), MFS 2024, тощо. Наразі ведеться активна робота над проєктом: MFS 2020.
 - [ukrainian-freedom/gta-ua-i18n](https://github.com/ukrainian-freedom/gta-ua-i18n) - Українськомовний open-source переклад усієї серії ігор Grand Theft Auto. Наразі ведеться активна робота над першим проєктом: GTA Vice City.
 - [alinkedd/uk-tech-l10n-list](https://github.com/alinkedd/uk-tech-l10n-list) - List of open technical texts localized into Ukrainian · Ukrainian translations · uk-UA
@@ -917,7 +918,7 @@
 - [Hacksore/vercel.lol](https://github.com/Hacksore/vercel.lol) - vercel.lol - The Triangle Company, We sell triangles
 - [blefnk/adblock-browser-extension](https://github.com/blefnk/adblock-browser-extension) - ⏹️ An attempt to implement a high-quality alternative to AdBlock-type extensions in an interesting way. It will also include various other interesting features.
 - [blefnk/stylinger-browser-extension](https://github.com/blefnk/stylinger-browser-extension) - 🌚 An attempt to implement an extension with unique methods for theming websites, including injecting a dark mode, and even a light mode for sites that only have a dark one. The extension will also inc
-- [blefnk/hideous-browser-extension](https://github.com/blefnk/hideous-browser-extension) - 🪚 A browser extension that indicates whether a website or YouTube video was created by nasty creatures or uses their creations in its own and tries to explain the reason.
+- [blefnk/hideous-browser-extension](https://github.com/blefnk/hideous-browser-extension) - 🪚 A browser extension that indicates and optionally removes a website content whether a website or YouTube video contains nasty language or was created by nasty creatures or uses their creations in it
 - [blefnk/reliverse-browser-extension](https://github.com/blefnk/reliverse-browser-extension) - 🏗️ An extension aimed at enhancing the developer experience when developing web apps and static sites. It will include recommendations for improving performance, accessibility (including proper config
 - [blefnk/eslint-define-config](https://github.com/blefnk/eslint-define-config) - Provide a defineConfig function for eslint.config.js files
 - [blefnk/jsonc-eslint-parser](https://github.com/blefnk/jsonc-eslint-parser) - JSON, JSONC and JSON5 parser for use with ESLint plugins.
