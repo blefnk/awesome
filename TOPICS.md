@@ -1675,6 +1675,7 @@
 
 ## others 
 
+- [ukrainian-freedom/ukrainian-browser-extension](https://github.com/ukrainian-freedom/ukrainian-browser-extension) - 🇺🇦 Open-source альтернатива Grammarly та LanguageTool. Від українців для українців та цілого світу. Поширюємо українську разом!
 - [blefnk/testxt](https://github.com/blefnk/testxt) - 
 - [ExOptsTeam/NFSU2ExOpts](https://github.com/ExOptsTeam/NFSU2ExOpts) - Need for Speed Underground 2 Extra Options
 - [AeroWidescreen/NFSHDContentSupport](https://github.com/AeroWidescreen/NFSHDContentSupport) - Scaling support for high-resolution textures and videos in old Need for Speed games.
@@ -1826,7 +1827,7 @@
 - [blefnk/template-vscode-extension](https://github.com/blefnk/template-vscode-extension) - 🌶️ Do you need a cool starter for your next awesome VSCode extension? It's right here! ✅ Bun, TypeScript, ESLint v9, etc. 💻 This extension will come with extensive documentation to help beginners get 
 - [blefnk/adblock-browser-extension](https://github.com/blefnk/adblock-browser-extension) - ⏹️ An attempt to implement a high-quality alternative to AdBlock-type extensions in an interesting way. It will also include various other interesting features.
 - [blefnk/stylinger-browser-extension](https://github.com/blefnk/stylinger-browser-extension) - 🌚 An attempt to implement an extension with unique methods for theming websites, including injecting a dark mode, and even a light mode for sites that only have a dark one. The extension will also inc
-- [blefnk/hideous-browser-extension](https://github.com/blefnk/hideous-browser-extension) - 🪚 A browser extension that indicates and optionally removes a website content whether a website or YouTube video contains nasty language or was created by nasty creatures or uses their creations in it
+- [blefnk/hideous-browser-extension](https://github.com/blefnk/hideous-browser-extension) - 🪚 Розширення для Firefox (версія для Chrome з'явиться незабаром) локально аналізує та видаляє москальську з переглядаємих сторінок. Воно також визначає, чи був створений контент на сайті або в YouTube
 - [blefnk/reliverse-browser-extension](https://github.com/blefnk/reliverse-browser-extension) - 🏗️ An extension aimed at enhancing the developer experience when developing web apps and static sites. It will include recommendations for improving performance, accessibility (including proper config
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [blefnk/web-ext-bun](https://github.com/blefnk/web-ext-bun) - A command line tool to help build, run, and test web extensions. Trying to make it work with Bun.
@@ -2791,6 +2792,7 @@
 
 ## typescript 
 
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [blefnk/create-next-app](https://github.com/blefnk/create-next-app) - 
 - [itsdouges/awesome-typescript-ecosystem](https://github.com/itsdouges/awesome-typescript-ecosystem) - 😎 A list of awesome TypeScript transformers, plugins, handbooks, etc
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
