@@ -219,6 +219,7 @@
 
 ## JavaScript 
 
+- [pondorasti/nextjs-chrome-extension](https://github.com/pondorasti/nextjs-chrome-extension) - Template for making chrome extensions with NextJS
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [ukrainian-freedom/ukrainian-browser-extension](https://github.com/ukrainian-freedom/ukrainian-browser-extension) - 🇺🇦 Open-source альтернатива Grammarly та LanguageTool. Від українців для українців та цілого світу. Поширюємо українську разом!
 - [MishanPoudel/Windows11-3.0](https://github.com/MishanPoudel/Windows11-3.0) - Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.
@@ -524,6 +525,7 @@
 
 ## Others 
 
+- [shadps4-emu/shadps4-game-compatibility](https://github.com/shadps4-emu/shadps4-game-compatibility) - Shadps4 game compatibility
 - [blefnk/testxt](https://github.com/blefnk/testxt) - 
 - [ukrainian-freedom/mfs-ua-i18n](https://github.com/ukrainian-freedom/mfs-ua-i18n) - Українськомовний open-source переклад ігор: Microsoft Flight Simulator (2020), MFS 2024, тощо. Наразі ведеться активна робота над проєктом: MFS 2020.
 - [ukrainian-freedom/gta-ua-i18n](https://github.com/ukrainian-freedom/gta-ua-i18n) - Українськомовний open-source переклад усієї серії ігор Grand Theft Auto. Наразі ведеться активна робота над першим проєктом: GTA Vice City.
@@ -829,6 +831,7 @@
 
 ## TypeScript 
 
+- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [Bekacru/better-call](https://github.com/Bekacru/better-call) - a tiny web framework for typescript
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jac3km4/redscript-ide-vscode](https://github.com/jac3km4/redscript-ide-vscode) - VS Code extension for redscript
@@ -1273,7 +1276,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Faire/mjml-react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
-- [blefnk/relivator](https://github.com/blefnk/relivator) - Next.js 15 eCommerce Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon TS ORM, Intl App Router Docs U
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - Next.js 15 eCommerce Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon TS ORM, Intl App Router Docs U
 - [blefnk/bleverse-utils-website](https://github.com/blefnk/bleverse-utils-website) - 🤌 Comprehensive utility toolkit for Next.js, React, and beyond. Curated with dedication, this collection is designed to enhance your development experience, streamline your workflows, and elevate your
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
 - [FormidableLabs/react-swipeable](https://github.com/FormidableLabs/react-swipeable) - React swipe event handler hook
