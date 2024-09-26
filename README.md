@@ -202,6 +202,7 @@
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [Drag13/react-learning-course-short](https://github.com/Drag13/react-learning-course-short) - This repo dedicated to the course "React for Beginners". The course was created to support Ukraine 🇺🇦 and Ukrainians in the war against russia. It's completely free and open-sourced.
 - [blefnk/balancer](https://github.com/blefnk/balancer) - Simple React Component That Makes Titles More Readable
+- [vercel/geist-font](https://github.com/vercel/geist-font) - 
 - [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 - [belaviyo/save-images](https://github.com/belaviyo/save-images) - Save loaded images in nested iframe pages
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
@@ -219,6 +220,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 - [pondorasti/nextjs-chrome-extension](https://github.com/pondorasti/nextjs-chrome-extension) - Template for making chrome extensions with NextJS
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [ukrainian-freedom/ukrainian-browser-extension](https://github.com/ukrainian-freedom/ukrainian-browser-extension) - 🇺🇦 Open-source альтернатива Grammarly та LanguageTool. Від українців для українців та цілого світу. Поширюємо українську разом!
@@ -610,7 +612,6 @@
 - [blefnk/enterprise](https://github.com/blefnk/enterprise) - 
 - [blefnk/starters](https://github.com/blefnk/starters) - Soon...
 - [blefnk/answers](https://github.com/blefnk/answers) - 📑 [soon] Are you applying for a job? Or maybe you're already working? Get ready for any questions! Code, design, and much more are waiting for you to learn.
-- [vercel/geist-font](https://github.com/vercel/geist-font) - 
 - [blefnk/refactoring](https://github.com/blefnk/refactoring) - 🥅 [soon] Do you want your code to look pretty and be extremely convenient? This repository will give you the practices for refactoring your code, as well as various tools for doing so.
 - [reliverse/drizzle-orm-mono](https://github.com/reliverse/drizzle-orm-mono) - 😊 TypeSafe Unified Drizzle Schema Exporter for Multiple Databases. Supports MySQL, PostgreSQL, and SQLite, enabling consistent table imports across the app.
 - [blefnk/search](https://github.com/blefnk/search) - 🔍 Guides on how to use search bar on various sites, including GitHub, as well as various secrets and tricks.
@@ -959,7 +960,7 @@
 - [antfu/eslint-flat-config-utils](https://github.com/antfu/eslint-flat-config-utils) - Utils for managing and manipulating ESLint flat config arrays
 - [antfu-collective/unconfig](https://github.com/antfu-collective/unconfig) - A universal solution for loading configurations.
 - [antfu/json-schema-to-typescript-lite](https://github.com/antfu/json-schema-to-typescript-lite) - Compile JSONSchema to TypeScript type declarations
-- [blefnk/versator](https://github.com/blefnk/versator) - Versator – This is a special "branch" for the Relivator repo. Here we attempt to reach the current state of Relivator by using the Reliverse CLI.
+- [blefnk/versator-relivator-template](https://github.com/blefnk/versator-relivator-template) - Versator – This is a special "branch" for the Relivator repo. Here we attempt to reach the current state of Relivator by using the Reliverse CLI.
 - [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader
 - [lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js) - Official JavaScript SDK for Lemon Squeezy.
 - [stripe/stripe-js](https://github.com/stripe/stripe-js) - Loading wrapper for Stripe.js
@@ -1264,7 +1265,7 @@
 - [xataio/xataform](https://github.com/xataio/xataform) - Create, share and analyse your forms with Xata. Open Source alternative to Typeform.
 - [reliverse/cli](https://github.com/reliverse/cli) - 🏯 @reliverse/cli is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You 
 - [bs-oss/relivator](https://github.com/bs-oss/relivator) - 🔥 The ultimate Next.js 13 app router TypeScript starter! i18n, Server Actions, T3, Shadcn, Tailwind, Drizzle, Prisma, Zod, RSC, SWC, tRPC, NextAuth, Auth.js, Lucia, Lucide Icons, & More. Get it and en
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [eslint-types/eslint-define-config](https://github.com/eslint-types/eslint-define-config) - Provide a defineConfig function for .eslintrc.js files
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
