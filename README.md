@@ -89,6 +89,8 @@
 
 ## C++ 
 
+- [katursis/Pawn.CMD](https://github.com/katursis/Pawn.CMD) - 🚀 Plugin-powered command processor for SA:MP server
+- [GTAmodding/miscmods](https://github.com/GTAmodding/miscmods) - Misc mods and fixes
 - [ExOptsTeam/NFSU2ExOpts](https://github.com/ExOptsTeam/NFSU2ExOpts) - Need for Speed Underground 2 Extra Options
 - [AeroWidescreen/NFSHDContentSupport](https://github.com/AeroWidescreen/NFSHDContentSupport) - Scaling support for high-resolution textures and videos in old Need for Speed games.
 - [ThirteenAG/Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) - ASI Loader is the tool that loads custom libraries with the file extension .asi into any game process.
@@ -705,6 +707,7 @@
 
 ## Pawn 
 
+- [Awsomedude/easyDialog](https://github.com/Awsomedude/easyDialog) - easyDialog include by Emmet_
 - [Mergevos/open-language](https://github.com/Mergevos/open-language) - Minimalistic multi-language library designed for open.mp.
 - [blefnk/stdlib](https://github.com/blefnk/stdlib) - Pawn includes
 - [openmultiplayer/omp-stdlib](https://github.com/openmultiplayer/omp-stdlib) - Pawn includes
@@ -807,6 +810,7 @@
 
 ## Shell 
 
+- [dv-anomaly/ttf-wps-fonts](https://github.com/dv-anomaly/ttf-wps-fonts) - Symbol fonts required by wps-office.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [blefnk/bleinso](https://github.com/blefnk/bleinso) - 🅱️ Bleinso Mono – the free and open-source typeface for developers and beyond. JetBrains Mono – the famous typeface on which this one is based.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
@@ -832,6 +836,7 @@
 
 ## TypeScript 
 
+- [Southclaws/vscode-pawn](https://github.com/Southclaws/vscode-pawn) - Pawn tools for vscode, powered by sampctl.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [Bekacru/better-call](https://github.com/Bekacru/better-call) - a tiny web framework for typescript
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
@@ -1039,7 +1044,7 @@
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
 - [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 - [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
-- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Community Management System (CMS) built on top of NextJS (React), NestJS (Express) and PostgreSQL.
+- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Modular Application Platform built on top of NextJS (React), NestJS (Express) and PostgreSQL.
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [blefnk/quivr](https://github.com/blefnk/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [blefnk/nsaction](https://github.com/blefnk/nsaction) - Type safe and validated Server Actions in your Next.js (App Router) project.
