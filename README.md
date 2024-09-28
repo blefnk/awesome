@@ -58,6 +58,7 @@
 
 ## C 
 
+- [Zeex/samp-plugin-crashdetect](https://github.com/Zeex/samp-plugin-crashdetect) - Crash/error reporting plugin for SA-MP server
 - [nlgxzef/NFSU2Unlimiter](https://github.com/nlgxzef/NFSU2Unlimiter) - Need for Speed Underground 2 Unlimiter
 - [nlgxzef/NFSMWUnlimiter](https://github.com/nlgxzef/NFSMWUnlimiter) - Fixes some issues for added cars.
 - [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
@@ -160,6 +161,7 @@
 
 ## Go 
 
+- [mysy00/gta-scanner](https://github.com/mysy00/gta-scanner) - Scan SA:MP folder to get a list of installed mods
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [blefnk/ignite](https://github.com/blefnk/ignite) - Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
@@ -510,7 +512,7 @@
 - [flsilva/nexar.dev](https://github.com/flsilva/nexar.dev) - Nexar is an application architecture for Next.js App Router apps.
 - [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
 - [openmultiplayer/web](https://github.com/openmultiplayer/web) - The open.mp web services monorepo. Homepage, documentation, server index, and more! All in one place.
-- [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - A Postgres platform to ship multi-tenant AI applications - fast, safe and limitless
+- [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - PostgreSQL reengineered for multi-tenant apps
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [CatchTheTornado/opensourcetipsbook](https://github.com/CatchTheTornado/opensourcetipsbook) - Open Source book on Open Source. How to create a successful OSS product - tips and tricks that simply works.
 - [radix-ui/website](https://github.com/radix-ui/website) - Website and documentation for Radix.
@@ -707,6 +709,9 @@
 
 ## Pawn 
 
+- [Southclaws/samp-logger](https://github.com/Southclaws/samp-logger) - Structured logging for Pawn.
+- [oscar-broman/strlib](https://github.com/oscar-broman/strlib) - String functions for SA-MP Pawn scripting.
+- [mysy00/LangPlus](https://github.com/mysy00/LangPlus) - Create multilanguage open.mp servers with ease
 - [Awsomedude/easyDialog](https://github.com/Awsomedude/easyDialog) - easyDialog include by Emmet_
 - [Mergevos/open-language](https://github.com/Mergevos/open-language) - Minimalistic multi-language library designed for open.mp.
 - [blefnk/stdlib](https://github.com/blefnk/stdlib) - Pawn includes
