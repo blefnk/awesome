@@ -224,6 +224,9 @@
 
 ## JavaScript 
 
+- [ukrainian-freedom/eloquent-book-ua](https://github.com/ukrainian-freedom/eloquent-book-ua) - Переклад книги Eloquent JavaScript українською. Офіційний сайт: https://eloquentjavascript.net/. Спершу комміти робляться на це окреме репо, а пізніше єдиним паком робляться на ukrainian-freedom/Eloqu
+- [ukrainian-freedom/Eloquent-JavaScript](https://github.com/ukrainian-freedom/Eloquent-JavaScript) - Переклад книги Eloquent JavaScript українською. Офіційний сайт: https://eloquentjavascript.net/. Спершу комміти робляться на окреме ukrainian-freedom/eloquent-book-ua репо, а пізніше єдиним паком робл
+- [marijnh/Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript) - The sources for the Eloquent JavaScript book
 - [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 - [pondorasti/nextjs-chrome-extension](https://github.com/pondorasti/nextjs-chrome-extension) - Template for making chrome extensions with NextJS
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
@@ -508,6 +511,7 @@
 
 ## MDX 
 
+- [ukrainian-freedom/ompua](https://github.com/ukrainian-freedom/ompua) - Переклад документації open.mp (sa:mp, самп) українською. Офіційний сайт проєкту: https://open.mp/uk. Спершу комміти робляться на цьому репо, а пізніше єдиним паком робляться на blefnk/web репо, котре 
 - [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
 - [flsilva/nexar.dev](https://github.com/flsilva/nexar.dev) - Nexar is an application architecture for Next.js App Router apps.
 - [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
@@ -517,6 +521,7 @@
 - [CatchTheTornado/opensourcetipsbook](https://github.com/CatchTheTornado/opensourcetipsbook) - Open Source book on Open Source. How to create a successful OSS product - tips and tricks that simply works.
 - [radix-ui/website](https://github.com/radix-ui/website) - Website and documentation for Radix.
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
+- [blefnk/web](https://github.com/blefnk/web) - Переклад документації open.mp (sa:mp, самп) українською. Офіційний сайт проєкту: https://open.mp/uk. Спершу комміти робляться на окреме репо, а пізніше єдиним паком робляться на blefnk/web репо, котре
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## Markdown 
@@ -1339,7 +1344,6 @@
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [icoretech/airbroke](https://github.com/icoretech/airbroke) - 🔥 Airbroke: Lightweight, Airbrake-compatible, PostgreSQL-based Open Source Error Catcher
-- [blefnk/web](https://github.com/blefnk/web) - The open.mp web services monorepo. Homepage, documentation, server index, and more! All in one place.
 - [BrandonKirbyson/VSCode-Animations](https://github.com/BrandonKirbyson/VSCode-Animations) - A VSCode extension that adds animations to the editor
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
