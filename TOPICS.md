@@ -1678,6 +1678,10 @@
 
 ## others 
 
+- [ukrainian-freedom/eloquent-book-ua](https://github.com/ukrainian-freedom/eloquent-book-ua) - Переклад книги Eloquent JavaScript українською. Офіційний сайт: https://eloquentjavascript.net/. Спершу комміти робляться на це окреме репо, а пізніше єдиним паком робляться на ukrainian-freedom/Eloqu
+- [ukrainian-freedom/ompua](https://github.com/ukrainian-freedom/ompua) - Переклад документації open.mp (sa:mp, самп) українською. Офіційний сайт проєкту: https://open.mp/uk. Спершу комміти робляться на цьому репо, а пізніше єдиним паком робляться на blefnk/web репо, котре 
+- [ukrainian-freedom/Eloquent-JavaScript](https://github.com/ukrainian-freedom/Eloquent-JavaScript) - Переклад книги Eloquent JavaScript українською. Офіційний сайт: https://eloquentjavascript.net/. Спершу комміти робляться на окреме ukrainian-freedom/eloquent-book-ua репо, а пізніше єдиним паком робл
+- [marijnh/Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript) - The sources for the Eloquent JavaScript book
 - [mysy00/gta-scanner](https://github.com/mysy00/gta-scanner) - Scan SA:MP folder to get a list of installed mods
 - [Zeex/samp-plugin-crashdetect](https://github.com/Zeex/samp-plugin-crashdetect) - Crash/error reporting plugin for SA-MP server
 - [Southclaws/samp-logger](https://github.com/Southclaws/samp-logger) - Structured logging for Pawn.
@@ -2244,7 +2248,7 @@
 - [Tonejs/Midi](https://github.com/Tonejs/Midi) - Convert MIDI into Tone.js-friendly JSON
 - [minyor/syn2midi](https://github.com/minyor/syn2midi) - Create pianobooster midi from youtube piano video lessons (Synthesia).
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
-- [blefnk/web](https://github.com/blefnk/web) - The open.mp web services monorepo. Homepage, documentation, server index, and more! All in one place.
+- [blefnk/web](https://github.com/blefnk/web) - Переклад документації open.mp (sa:mp, самп) українською. Офіційний сайт проєкту: https://open.mp/uk. Спершу комміти робляться на окреме репо, а пізніше єдиним паком робляться на blefnk/web репо, котре
 - [blefnk/streamer](https://github.com/blefnk/streamer) - 🏙️ open.mp streamer plugin
 - [blefnk/mysqlsamp](https://github.com/blefnk/mysqlsamp) - MySQL plugin for San Andreas Multiplayer
 - [blefnk/mysqlomp](https://github.com/blefnk/mysqlomp) - MySQL support for open.mp
