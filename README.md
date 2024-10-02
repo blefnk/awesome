@@ -714,6 +714,7 @@
 
 ## Pawn 
 
+- [Pottus/Texture-Studio](https://github.com/Pottus/Texture-Studio) - 
 - [Southclaws/samp-logger](https://github.com/Southclaws/samp-logger) - Structured logging for Pawn.
 - [oscar-broman/strlib](https://github.com/oscar-broman/strlib) - String functions for SA-MP Pawn scripting.
 - [mysy00/LangPlus](https://github.com/mysy00/LangPlus) - Create multilanguage open.mp servers with ease
@@ -1292,7 +1293,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Faire/mjml-react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - Next.js 15 eCommerce Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 19 Server Components, MySQL Postgres Neon TS ORM, Intl App Router Docs U
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 1,000 stars → 1.3.0 RC ▲ Next.js 14 & 15 Websie Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 18 19 Server Components, MySQL Postgres Neon 
 - [blefnk/bleverse-utils-website](https://github.com/blefnk/bleverse-utils-website) - 🤌 Comprehensive utility toolkit for Next.js, React, and beyond. Curated with dedication, this collection is designed to enhance your development experience, streamline your workflows, and elevate your
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
 - [FormidableLabs/react-swipeable](https://github.com/FormidableLabs/react-swipeable) - React swipe event handler hook
@@ -1301,7 +1302,7 @@
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [ErdongChen-Andrew/CharacterControl](https://github.com/ErdongChen-Andrew/CharacterControl) - Floating Capsule Character Controller (Rigibody control)
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
-- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
+- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [next-multilingual/next-multilingual](https://github.com/next-multilingual/next-multilingual) - An opinionated end-to-end solution for Next.js applications that requires multiple languages.
