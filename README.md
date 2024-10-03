@@ -90,6 +90,7 @@
 
 ## C++ 
 
+- [gta-reversed/gta-reversed-modern](https://github.com/gta-reversed/gta-reversed-modern) - Reimplementation of GTA:SA 1.0 US
 - [katursis/Pawn.CMD](https://github.com/katursis/Pawn.CMD) - 🚀 Plugin-powered command processor for SA:MP server
 - [GTAmodding/miscmods](https://github.com/GTAmodding/miscmods) - Misc mods and fixes
 - [ExOptsTeam/NFSU2ExOpts](https://github.com/ExOptsTeam/NFSU2ExOpts) - Need for Speed Underground 2 Extra Options
@@ -815,7 +816,7 @@
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A GPU-accelerated 2D graphics environment for Node.js
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [cleolibrary/CLEO-Redux](https://github.com/cleolibrary/CLEO-Redux) - Experimental JavaScript runtime for GTA 3D era games/GTA IV/Bully
 
