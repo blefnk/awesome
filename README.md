@@ -58,6 +58,9 @@
 
 ## C 
 
+- [blefonix/omp-plugin-sdk](https://github.com/blefonix/omp-plugin-sdk) - open.mp plugin sdk -- [work in progress] samp plugin sdk full rewriting
+- [Zeex/samp-plugin-sdk](https://github.com/Zeex/samp-plugin-sdk) - Copy of the SA-MP plugin SDK
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [Zeex/samp-plugin-crashdetect](https://github.com/Zeex/samp-plugin-crashdetect) - Crash/error reporting plugin for SA-MP server
 - [nlgxzef/NFSU2Unlimiter](https://github.com/nlgxzef/NFSU2Unlimiter) - Need for Speed Underground 2 Unlimiter
 - [nlgxzef/NFSMWUnlimiter](https://github.com/nlgxzef/NFSMWUnlimiter) - Fixes some issues for added cars.
@@ -90,6 +93,7 @@
 
 ## C++ 
 
+- [BigETI/pawn-memory](https://github.com/BigETI/pawn-memory) - PAWN memory access plugin
 - [gta-reversed/gta-reversed-modern](https://github.com/gta-reversed/gta-reversed-modern) - Reimplementation of GTA:SA 1.0 US
 - [katursis/Pawn.CMD](https://github.com/katursis/Pawn.CMD) - 🚀 Plugin-powered command processor for SA:MP server
 - [GTAmodding/miscmods](https://github.com/GTAmodding/miscmods) - Misc mods and fixes
@@ -120,7 +124,6 @@
 - [cleolibrary/CLEO4](https://github.com/cleolibrary/CLEO4) - CLEO 4 for GTA San Andreas
 - [minyor/syn2midi](https://github.com/minyor/syn2midi) - Create pianobooster midi from youtube piano video lessons (Synthesia).
 - [blefnk/streamer](https://github.com/blefnk/streamer) - 🏙️ open.mp streamer plugin
-- [blefnk/mysqlsamp](https://github.com/blefnk/mysqlsamp) - MySQL plugin for San Andreas Multiplayer
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [nexquery/samp-textdraw-streamer](https://github.com/nexquery/samp-textdraw-streamer) - A simple plugin for sa-mp and open.mp to break the limits of textdrawings.
 - [IS4Code/PawnPlus](https://github.com/IS4Code/PawnPlus) - A SA-MP plugin enhancing the capabilities of the Pawn programming language
@@ -537,6 +540,7 @@
 
 ## Others 
 
+- [blefonix/omp-pg](https://github.com/blefonix/omp-pg) - open.mp PostgreSQL plugin -- work in progress
 - [shadps4-emu/shadps4-game-compatibility](https://github.com/shadps4-emu/shadps4-game-compatibility) - Shadps4 game compatibility
 - [blefnk/testxt](https://github.com/blefnk/testxt) - 
 - [ukrainian-freedom/mfs-ua-i18n](https://github.com/ukrainian-freedom/mfs-ua-i18n) - Українськомовний open-source переклад ігор: Microsoft Flight Simulator (2020), MFS 2024, тощо. Наразі ведеться активна робота над проєктом: MFS 2020.
@@ -715,6 +719,9 @@
 
 ## Pawn 
 
+- [PatrickGTR/gta-open](https://github.com/PatrickGTR/gta-open) - A gamemode made for open.mp, using open.mp naming conventions and best coding practices!
+- [BigETI/pawn-map](https://github.com/BigETI/pawn-map) - Hash-map implementation in PAWN
+- [WoutProvost/samp-util](https://github.com/WoutProvost/samp-util) - A set of useful utility functions for SA-MP
 - [Pottus/Texture-Studio](https://github.com/Pottus/Texture-Studio) - 
 - [Southclaws/samp-logger](https://github.com/Southclaws/samp-logger) - Structured logging for Pawn.
 - [oscar-broman/strlib](https://github.com/oscar-broman/strlib) - String functions for SA-MP Pawn scripting.
@@ -994,7 +1001,7 @@
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - Shadcn table with server-side sorting, filtering, and pagination.
 - [cosdensolutions/code](https://github.com/cosdensolutions/code) - Source code for all Cosden Solutions videos
 - [resend/react-email-turborepo-bun-example](https://github.com/resend/react-email-turborepo-bun-example) - This example shows how to use react.email with Turborepo + Bun
-- [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
+- [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [saleor/storefront](https://github.com/saleor/storefront) - Saleor Storefront built with React 18, Next.js 14, App Router, TypeScript, GraphQL, and Tailwind CSS.
 - [blefnk/relivator-docker-frontend](https://github.com/blefnk/relivator-docker-frontend) - 🔼 Relivator: The Docker Edition (Frontend) | Backend: https://github.com/blefnk/relivator-docker-backend | Stack: Next.js App Router, React RSC, TypeScript, Tailwind CSS, and more 😊
 - [Simbox-io/mcms](https://github.com/Simbox-io/mcms) - MCMS
