@@ -1679,6 +1679,14 @@
 
 ## others 
 
+- [PatrickGTR/gta-open](https://github.com/PatrickGTR/gta-open) - A gamemode made for open.mp, using open.mp naming conventions and best coding practices!
+- [BigETI/pawn-map](https://github.com/BigETI/pawn-map) - Hash-map implementation in PAWN
+- [BigETI/pawn-memory](https://github.com/BigETI/pawn-memory) - PAWN memory access plugin
+- [blefonix/omp-pg](https://github.com/blefonix/omp-pg) - open.mp PostgreSQL plugin -- work in progress
+- [WoutProvost/samp-util](https://github.com/WoutProvost/samp-util) - A set of useful utility functions for SA-MP
+- [blefonix/omp-plugin-sdk](https://github.com/blefonix/omp-plugin-sdk) - open.mp plugin sdk -- [work in progress] samp plugin sdk full rewriting
+- [Zeex/samp-plugin-sdk](https://github.com/Zeex/samp-plugin-sdk) - Copy of the SA-MP plugin SDK
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [Pottus/Texture-Studio](https://github.com/Pottus/Texture-Studio) - 
 - [ukrainian-freedom/eloquent-book-ua](https://github.com/ukrainian-freedom/eloquent-book-ua) - Переклад книги Eloquent JavaScript українською. Офіційний сайт: https://eloquentjavascript.net/. Спершу комміти робляться на це окреме репо, а пізніше єдиним паком робляться на ukrainian-freedom/Eloqu
 - [ukrainian-freedom/ompua](https://github.com/ukrainian-freedom/ompua) - Переклад документації open.mp (sa:mp, самп) українською. Офіційний сайт проєкту: https://open.mp/uk. Спершу комміти робляться на цьому репо, а пізніше єдиним паком робляться на blefnk/web репо, котре 
@@ -1910,7 +1918,7 @@
 - [cosdensolutions/code](https://github.com/cosdensolutions/code) - Source code for all Cosden Solutions videos
 - [resend/react-email-turborepo-bun-example](https://github.com/resend/react-email-turborepo-bun-example) - This example shows how to use react.email with Turborepo + Bun
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
-- [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
+- [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 - [zhanymkanov/fastapi_production_template](https://github.com/zhanymkanov/fastapi_production_template) - FastAPI Template with Docker, Postgres
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
@@ -2252,7 +2260,6 @@
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [blefnk/web](https://github.com/blefnk/web) - Переклад документації open.mp (sa:mp, самп) українською. Офіційний сайт проєкту: https://open.mp/uk. Спершу комміти робляться на окреме репо, а пізніше єдиним паком робляться на blefnk/web репо, котре
 - [blefnk/streamer](https://github.com/blefnk/streamer) - 🏙️ open.mp streamer plugin
-- [blefnk/mysqlsamp](https://github.com/blefnk/mysqlsamp) - MySQL plugin for San Andreas Multiplayer
 - [blefnk/mysqlomp](https://github.com/blefnk/mysqlomp) - MySQL support for open.mp
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [BrandonKirbyson/VSCode-Animations](https://github.com/BrandonKirbyson/VSCode-Animations) - A VSCode extension that adds animations to the editor
