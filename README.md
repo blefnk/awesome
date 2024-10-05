@@ -497,7 +497,7 @@
 
 ## Jupyter Notebook 
 
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 - [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
 - [filyp/yourtube](https://github.com/filyp/yourtube) - Better youtube recommendations
@@ -719,6 +719,7 @@
 
 ## Pawn 
 
+- [rsetiawan7/samp-realtime-clock](https://github.com/rsetiawan7/samp-realtime-clock) - A library that you can control your world time to specific hour and minute for all players.
 - [PatrickGTR/gta-open](https://github.com/PatrickGTR/gta-open) - A gamemode made for open.mp, using open.mp naming conventions and best coding practices!
 - [BigETI/pawn-map](https://github.com/BigETI/pawn-map) - Hash-map implementation in PAWN
 - [WoutProvost/samp-util](https://github.com/WoutProvost/samp-util) - A set of useful utility functions for SA-MP
@@ -747,6 +748,7 @@
 
 ## Python 
 
+- [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
 - [reliverse/acme](https://github.com/reliverse/acme) - 📄 @reliverse/acme is a @reliverse/addons template that provides a starting point for developing new packages within the Reliverse ecosystem, offering pre-configured setup and guidelines to streamline 
 - [kazhala/InquirerPy](https://github.com/kazhala/InquirerPy) - :snake: Python port of Inquirer.js (A collection of common interactive command-line user interfaces)
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
@@ -855,6 +857,9 @@
 
 ## TypeScript 
 
+- [dockfries/infernus](https://github.com/dockfries/infernus) - Node.js library for scripting Open Multiplayer.
+- [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
+- [blefonix/pawner-vscode-extension](https://github.com/blefonix/pawner-vscode-extension) - Pawn VSCode Language Support & open.mp devkit set and tools
 - [Southclaws/vscode-pawn](https://github.com/Southclaws/vscode-pawn) - Pawn tools for vscode, powered by sampctl.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [Bekacru/better-call](https://github.com/Bekacru/better-call) - a tiny web framework for typescript
