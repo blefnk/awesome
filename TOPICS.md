@@ -1985,7 +1985,7 @@
 - [blefnk/esxss](https://github.com/blefnk/esxss) - ESLint plugin for XSS detection
 - [Rantanen/eslint-plugin-xss](https://github.com/Rantanen/eslint-plugin-xss) - ESLint plugin for XSS detection
 - [sindresorhus/globals](https://github.com/sindresorhus/globals) - Global identifiers from different JavaScript environments
-- [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
+- [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 - [blefnk/esviewer](https://github.com/blefnk/esviewer) - A visual tool to help you view and understand your ESLint Flat config.
 - [blefnk/estspatch](https://github.com/blefnk/estspatch) - Support loading eslint.config.mjs and eslint.config.ts as flat config files for ESLint.
 - [mblode/vscode-pretty-formatter](https://github.com/mblode/vscode-pretty-formatter) - VS Code extension to format your files using Pretty Diff
