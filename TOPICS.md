@@ -184,6 +184,7 @@
 
 ## ai 
 
+- [TypeAI-dev/typeai](https://github.com/TypeAI-dev/typeai) - ✨ TypeAI: An AI Engineering Framework for TypeScript
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [reaviz/reachat](https://github.com/reaviz/reachat) - 💬 UI Building Blocks for LLM/Chat UIs. Maintained by @goodcodeus.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -248,6 +249,7 @@
 
 ## artificial-intelligence 
 
+- [TypeAI-dev/typeai](https://github.com/TypeAI-dev/typeai) - ✨ TypeAI: An AI Engineering Framework for TypeScript
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
@@ -1259,6 +1261,7 @@
 
 ## llm 
 
+- [TypeAI-dev/typeai](https://github.com/TypeAI-dev/typeai) - ✨ TypeAI: An AI Engineering Framework for TypeScript
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [reaviz/reachat](https://github.com/reaviz/reachat) - 💬 UI Building Blocks for LLM/Chat UIs. Maintained by @goodcodeus.
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
@@ -1488,7 +1491,7 @@
 - [reliverse/cli](https://github.com/reliverse/cli) - 🏯 @reliverse/cli is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You 
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 1,000 stars → 1.3.0 RC ▲ Next.js 14 & 15 Websie Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 18 19 Server Components, MySQL Postgres Neon 
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - ✨ 1,000 stars → 1.3.0 RC ⭐ Next.js 14 & 15 Websie Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 18 19 Server Components, MySQL Postgres Neo
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [next-multilingual/next-multilingual](https://github.com/next-multilingual/next-multilingual) - An opinionated end-to-end solution for Next.js applications that requires multiple languages.
 - [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js
@@ -1663,6 +1666,7 @@
 
 ## openai 
 
+- [TypeAI-dev/typeai](https://github.com/TypeAI-dev/typeai) - ✨ TypeAI: An AI Engineering Framework for TypeScript
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -1682,6 +1686,8 @@
 
 ## others 
 
+- [eslint/rewrite](https://github.com/eslint/rewrite) - Monorepo for the new version of ESLint
+- [neotan/vscode-auto-restart-typescript-eslint-servers](https://github.com/neotan/vscode-auto-restart-typescript-eslint-servers) - Restart TypeScript and ESLint servers automatically if monitored configuration or files changed.
 - [rsetiawan7/samp-realtime-clock](https://github.com/rsetiawan7/samp-realtime-clock) - A library that you can control your world time to specific hour and minute for all players.
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
 - [blefonix/pawner-vscode-extension](https://github.com/blefonix/pawner-vscode-extension) - Pawn VSCode Language Support & open.mp devkit set and tools
@@ -2828,6 +2834,7 @@
 
 ## typescript 
 
+- [TypeAI-dev/typeai](https://github.com/TypeAI-dev/typeai) - ✨ TypeAI: An AI Engineering Framework for TypeScript
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [blefnk/create-next-app](https://github.com/blefnk/create-next-app) - 
