@@ -228,6 +228,7 @@
 
 ## JavaScript 
 
+- [eslint/rewrite](https://github.com/eslint/rewrite) - Monorepo for the new version of ESLint
 - [ukrainian-freedom/eloquent-book-ua](https://github.com/ukrainian-freedom/eloquent-book-ua) - Переклад книги Eloquent JavaScript українською. Офіційний сайт: https://eloquentjavascript.net/. Спершу комміти робляться на це окреме репо, а пізніше єдиним паком робляться на ukrainian-freedom/Eloqu
 - [ukrainian-freedom/Eloquent-JavaScript](https://github.com/ukrainian-freedom/Eloquent-JavaScript) - Переклад книги Eloquent JavaScript українською. Офіційний сайт: https://eloquentjavascript.net/. Спершу комміти робляться на окреме ukrainian-freedom/eloquent-book-ua репо, а пізніше єдиним паком робл
 - [marijnh/Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript) - The sources for the Eloquent JavaScript book
@@ -857,6 +858,8 @@
 
 ## TypeScript 
 
+- [neotan/vscode-auto-restart-typescript-eslint-servers](https://github.com/neotan/vscode-auto-restart-typescript-eslint-servers) - Restart TypeScript and ESLint servers automatically if monitored configuration or files changed.
+- [TypeAI-dev/typeai](https://github.com/TypeAI-dev/typeai) - ✨ TypeAI: An AI Engineering Framework for TypeScript
 - [dockfries/infernus](https://github.com/dockfries/infernus) - Node.js library for scripting Open Multiplayer.
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
 - [blefonix/pawner-vscode-extension](https://github.com/blefonix/pawner-vscode-extension) - Pawn VSCode Language Support & open.mp devkit set and tools
@@ -1306,7 +1309,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Faire/mjml-react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - 1,000 stars → 1.3.0 RC ▲ Next.js 14 & 15 Websie Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 18 19 Server Components, MySQL Postgres Neon 
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - ✨ 1,000 stars → 1.3.0 RC ⭐ Next.js 14 & 15 Websie Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 18 19 Server Components, MySQL Postgres Neo
 - [blefnk/bleverse-utils-website](https://github.com/blefnk/bleverse-utils-website) - 🤌 Comprehensive utility toolkit for Next.js, React, and beyond. Curated with dedication, this collection is designed to enhance your development experience, streamline your workflows, and elevate your
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
 - [FormidableLabs/react-swipeable](https://github.com/FormidableLabs/react-swipeable) - React swipe event handler hook
