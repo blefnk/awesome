@@ -858,6 +858,7 @@
 
 ## TypeScript 
 
+- [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [neotan/vscode-auto-restart-typescript-eslint-servers](https://github.com/neotan/vscode-auto-restart-typescript-eslint-servers) - Restart TypeScript and ESLint servers automatically if monitored configuration or files changed.
 - [TypeAI-dev/typeai](https://github.com/TypeAI-dev/typeai) - ✨ TypeAI: An AI Engineering Framework for TypeScript
 - [dockfries/infernus](https://github.com/dockfries/infernus) - Node.js library for scripting Open Multiplayer.
