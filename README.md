@@ -228,6 +228,8 @@
 
 ## JavaScript 
 
+- [blefnk/only-allow-bun-pnpm](https://github.com/blefnk/only-allow-bun-pnpm) - Force a bun or pnpm package manager to be used on a project
+- [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
 - [eslint/rewrite](https://github.com/eslint/rewrite) - Monorepo for the new version of ESLint
 - [ukrainian-freedom/eloquent-book-ua](https://github.com/ukrainian-freedom/eloquent-book-ua) - Переклад книги Eloquent JavaScript українською. Офіційний сайт: https://eloquentjavascript.net/. Спершу комміти робляться на це окреме репо, а пізніше єдиним паком робляться на ukrainian-freedom/Eloqu
 - [ukrainian-freedom/Eloquent-JavaScript](https://github.com/ukrainian-freedom/Eloquent-JavaScript) - Переклад книги Eloquent JavaScript українською. Офіційний сайт: https://eloquentjavascript.net/. Спершу комміти робляться на окреме ukrainian-freedom/eloquent-book-ua репо, а пізніше єдиним паком робл
@@ -499,6 +501,7 @@
 ## Jupyter Notebook 
 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 - [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
 - [filyp/yourtube](https://github.com/filyp/yourtube) - Better youtube recommendations
@@ -757,7 +760,6 @@
 - [codingjoe/relint](https://github.com/codingjoe/relint) - Write your own linting rules using regular expressions.
 - [blefnk/yt-dlp](https://github.com/blefnk/yt-dlp) - A feature-rich command-line audio/video downloader
 - [quodlibet/mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata
-- [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 - [zhanymkanov/fastapi_production_template](https://github.com/zhanymkanov/fastapi_production_template) - FastAPI Template with Docker, Postgres
 - [pydantic/pydantic-settings](https://github.com/pydantic/pydantic-settings) - Settings management using pydantic
 - [blefnk/relivator-docker-backend](https://github.com/blefnk/relivator-docker-backend) - 🔽 Relivator: The Docker Edition (Backend) | Frontend: https://github.com/blefnk/relivator-docker-frontend | Stack: Docker, Python, FastAPI, fly.io flyctl, frontend health check and more 😊
@@ -800,6 +802,7 @@
 
 ## Rust 
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [cyb3rpsych0s1s/audioware](https://github.com/cyb3rpsych0s1s/audioware) - Audio modding tool for Cyberpunk 2077
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
