@@ -228,6 +228,8 @@
 
 ## JavaScript 
 
+- [kellyselden/eslint-plugin-json-files](https://github.com/kellyselden/eslint-plugin-json-files) - ESLint JSON processor and rules
+- [wind-press/windpress](https://github.com/wind-press/windpress) - Use Tailwind CSS within the block editor, page builders, plugins, and themes — no build step is required
 - [blefnk/only-allow-bun-pnpm](https://github.com/blefnk/only-allow-bun-pnpm) - Force a bun or pnpm package manager to be used on a project
 - [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
 - [eslint/rewrite](https://github.com/eslint/rewrite) - Monorepo for the new version of ESLint
@@ -491,7 +493,7 @@
 - [chrisguttandin/worker-timers](https://github.com/chrisguttandin/worker-timers) - A replacement for setInterval() and setTimeout() which works in unfocused windows.
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content discove
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰180+ options & clever features 📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content 
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [paralleldrive/cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance.
@@ -861,6 +863,10 @@
 
 ## TypeScript 
 
+- [kodestan/tank-ops](https://github.com/kodestan/tank-ops) - 
+- [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
+- [reliverse/smart-comments-vscode-extension](https://github.com/reliverse/smart-comments-vscode-extension) - Smart Comments: VSCode Extension
+- [blefnk/deno-bun-nextjs-reliverse-template](https://github.com/blefnk/deno-bun-nextjs-reliverse-template) - Deno 2.0 x Bun 1.1 x Next.js 14.2 x Reliverse 0.6.0
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [neotan/vscode-auto-restart-typescript-eslint-servers](https://github.com/neotan/vscode-auto-restart-typescript-eslint-servers) - Restart TypeScript and ESLint servers automatically if monitored configuration or files changed.
 - [TypeAI-dev/typeai](https://github.com/TypeAI-dev/typeai) - ✨ TypeAI: An AI Engineering Framework for TypeScript
