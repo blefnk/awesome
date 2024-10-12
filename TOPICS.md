@@ -175,6 +175,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [wordpress](#wordpress)
 - [zig](#zig)
 
 ## 3d 
@@ -353,6 +354,7 @@
 
 ## chatgpt 
 
+- [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [OleksandrKucherenko/chatgpt-translate-md](https://github.com/OleksandrKucherenko/chatgpt-translate-md) - Command line tool for translating Markdown files to any supported by ChatGPT language
@@ -380,7 +382,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [typefully/minimal-twitter](https://github.com/typefully/minimal-twitter) - Minimal Theme for Twitter - Refine and Declutter Your Twitter Web Experience
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content discove
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰180+ options & clever features 📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content 
 - [ynshung/better-yt-shorts](https://github.com/ynshung/better-yt-shorts) - Playback, volume, timestamp controls and more on YouTube Shorts.
 
 ## cli 
@@ -885,6 +887,7 @@
 - [WolvenKit/WolvenKit](https://github.com/WolvenKit/WolvenKit) - Community Mod editor/creator for REDengine games.
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) - Algorithms and Data Structures implemented in TypeScript for beginners, following best practices.
 - [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
@@ -930,6 +933,8 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+- [openmultiplayer/web](https://github.com/openmultiplayer/web) - The open.mp web services monorepo. Homepage, documentation, server index, and more! All in one place.
+- [openmultiplayer/launcher](https://github.com/openmultiplayer/launcher) - open.mp launcher (currently compatible with samp client)
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform
 - [subhamBharadwaz/scribbly](https://github.com/subhamBharadwaz/scribbly) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, S
@@ -941,6 +946,7 @@
 - [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [Kaustubh-Natuskar/moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - This repository contains opportunities for you to apply to more than 400 product base companies(NOT JUST FAANGM) & good start-ups.
+- [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [getsentry/sentry-wizard](https://github.com/getsentry/sentry-wizard) - Sentry Project Setup Wizard
@@ -968,6 +974,7 @@
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [pawn-lang/compiler](https://github.com/pawn-lang/compiler) - Pawn compiler for SA-MP with bug fixes and new features - runs on Windows, Linux, macOS
+- [openmultiplayer/open.mp](https://github.com/openmultiplayer/open.mp) - Open Multiplayer, a multiplayer mod fully backwards compatible with SA-MP
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [pawn-lang/YSI-Includes](https://github.com/pawn-lang/YSI-Includes) - Just the YSI include files, none of the extra stuff.
 - [pawn-lang/sa-mp-fixes](https://github.com/pawn-lang/sa-mp-fixes) - Includes and plugins to fix various issues in the SA:MP server that can be fixed externally, leaving the devs time for other things.
@@ -1667,6 +1674,7 @@
 
 ## openai 
 
+- [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [TypeAI-dev/typeai](https://github.com/TypeAI-dev/typeai) - ✨ TypeAI: An AI Engineering Framework for TypeScript
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -1687,6 +1695,10 @@
 
 ## others 
 
+- [kodestan/tank-ops](https://github.com/kodestan/tank-ops) - 
+- [kellyselden/eslint-plugin-json-files](https://github.com/kellyselden/eslint-plugin-json-files) - ESLint JSON processor and rules
+- [reliverse/smart-comments-vscode-extension](https://github.com/reliverse/smart-comments-vscode-extension) - Smart Comments: VSCode Extension
+- [blefnk/deno-bun-nextjs-reliverse-template](https://github.com/blefnk/deno-bun-nextjs-reliverse-template) - Deno 2.0 x Bun 1.1 x Next.js 14.2 x Reliverse 0.6.0
 - [blefnk/only-allow-bun-pnpm](https://github.com/blefnk/only-allow-bun-pnpm) - Force a bun or pnpm package manager to be used on a project
 - [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
 - [eslint/rewrite](https://github.com/eslint/rewrite) - Monorepo for the new version of ESLint
@@ -1783,7 +1795,6 @@
 - [mnrendra/read-package](https://github.com/mnrendra/read-package) - Read the package.json file from any sub-directory in your project.
 - [antfu-collective/install-pkg](https://github.com/antfu-collective/install-pkg) - Install package programmatically.
 - [blefnk/wxt](https://github.com/blefnk/wxt) - ⚡ Next-gen Web Extension Framework
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [unjs/codeup](https://github.com/unjs/codeup) - Automated codebase updater [POC]
 - [reliverse/algorithms](https://github.com/reliverse/algorithms) - 
 - [blefnk/youtube-algorithm](https://github.com/blefnk/youtube-algorithm) - 
@@ -2099,10 +2110,8 @@
 - [blefnk/launcher](https://github.com/blefnk/launcher) - open.mp launcher (currently compatible with samp client)
 - [blefnk/stdlib](https://github.com/blefnk/stdlib) - Pawn includes
 - [openmultiplayer/omp-stdlib](https://github.com/openmultiplayer/omp-stdlib) - Pawn includes
-- [openmultiplayer/web](https://github.com/openmultiplayer/web) - The open.mp web services monorepo. Homepage, documentation, server index, and more! All in one place.
 - [blefnk/openmp](https://github.com/blefnk/openmp) - Open Multiplayer, a multiplayer mod fully backwards compatible with SA-MP
 - [blefnk/saasui](https://github.com/blefnk/saasui) - The React component library for startups, built with Chakra UI.
-- [openmultiplayer/launcher](https://github.com/openmultiplayer/launcher) - open.mp launcher (currently compatible with samp client)
 - [blefnk/uploadthing](https://github.com/blefnk/uploadthing) - File uploads for modern web devs
 - [blefnk/typehero](https://github.com/blefnk/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [blefnk/create-t3-app-fork](https://github.com/blefnk/create-t3-app-fork) - The best way to start a full-stack, typesafe Next.js app
@@ -2305,7 +2314,6 @@
 - [daddyDOT/samp-weapon-config](https://github.com/daddyDOT/samp-weapon-config) - A more consistent and responsive damage system with many new features
 - [Se8870/SAMP-File-Archive](https://github.com/Se8870/SAMP-File-Archive) - SA-MP File Archive, a fork project from KrustyKoyle
 - [astro-bootstrap/astro-bootstrap](https://github.com/astro-bootstrap/astro-bootstrap) - Bootstrap 5 components crafted for use with Astro.js
-- [openmultiplayer/open.mp](https://github.com/openmultiplayer/open.mp) - Open Multiplayer, a multiplayer mod fully backwards compatible with SA-MP
 - [openmultiplayer/vscode-pawn](https://github.com/openmultiplayer/vscode-pawn) - VS-Code extension for pawn language
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
@@ -2633,6 +2641,7 @@
 
 ## rust 
 
+- [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -2670,6 +2679,7 @@
 ## server 
 
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [openmultiplayer/web](https://github.com/openmultiplayer/web) - The open.mp web services monorepo. Homepage, documentation, server index, and more! All in one place.
 
 ## serverless 
 
@@ -2754,6 +2764,7 @@
 
 ## tailwindcss 
 
+- [wind-press/windpress](https://github.com/wind-press/windpress) - Use Tailwind CSS within the block editor, page builders, plugins, and themes — no build step is required
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
 - [blefnk/create-next-app](https://github.com/blefnk/create-next-app) - 
@@ -2840,6 +2851,7 @@
 
 ## typescript 
 
+- [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [TypeAI-dev/typeai](https://github.com/TypeAI-dev/typeai) - ✨ TypeAI: An AI Engineering Framework for TypeScript
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
@@ -3004,6 +3016,7 @@
 
 ## visual-studio-code 
 
+- [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - 🌟 Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
@@ -3088,6 +3101,10 @@
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+
+## wordpress 
+
+- [wind-press/windpress](https://github.com/wind-press/windpress) - Use Tailwind CSS within the block editor, page builders, plugins, and themes — no build step is required
 
 ## zig 
 
