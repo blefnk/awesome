@@ -884,6 +884,7 @@
 
 ## hacktoberfest 
 
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [WolvenKit/WolvenKit](https://github.com/WolvenKit/WolvenKit) - Community Mod editor/creator for REDengine games.
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -1019,6 +1020,7 @@
 
 ## javascript 
 
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [sniklaus/youtube-watchmarker](https://github.com/sniklaus/youtube-watchmarker) - a browser extension that keeps track of your YouTube watch history and marks videos that you have already watched
@@ -1695,6 +1697,7 @@
 
 ## others 
 
+- [aalykiot/dune](https://github.com/aalykiot/dune) - A hobby runtime for JavaScript and TypeScript 🚀
 - [kodestan/tank-ops](https://github.com/kodestan/tank-ops) - 
 - [kellyselden/eslint-plugin-json-files](https://github.com/kellyselden/eslint-plugin-json-files) - ESLint JSON processor and rules
 - [reliverse/smart-comments-vscode-extension](https://github.com/reliverse/smart-comments-vscode-extension) - Smart Comments: VSCode Extension
@@ -2641,6 +2644,7 @@
 
 ## rust 
 
+- [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
