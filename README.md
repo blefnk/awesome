@@ -89,7 +89,7 @@
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
 - [blefnk/csharpin](https://github.com/blefnk/csharpin) - 🟣 cSharpIn. See my expirience with C# and give me your most valuable star. Runs on the .NET 7.0.  C# is used to develop web apps, desktop apps, mobile apps, games and much more.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## C++ 
 
@@ -1015,7 +1015,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [blefnk/nodejs.org](https://github.com/blefnk/nodejs.org) - The Node.js® Website
 - [sushi-labs/sushiswap](https://github.com/sushi-labs/sushiswap) - Sushi 2.0 🍣
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
+- [askorama/orama](https://github.com/askorama/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [FuelLabs/fuels-wallet](https://github.com/FuelLabs/fuels-wallet) - 💳 The official Fuel wallet.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - Shadcn table with server-side sorting, filtering, and pagination.
