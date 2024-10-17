@@ -93,8 +93,9 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [BigETI/pawn-memory](https://github.com/BigETI/pawn-memory) - PAWN memory access plugin
-- [gta-reversed/gta-reversed-modern](https://github.com/gta-reversed/gta-reversed-modern) - Reimplementation of GTA:SA 1.0 US
+- [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed) - Reimplementation of GTA:SA 1.0 US
 - [katursis/Pawn.CMD](https://github.com/katursis/Pawn.CMD) - 🚀 Plugin-powered command processor for SA:MP server
 - [GTAmodding/miscmods](https://github.com/GTAmodding/miscmods) - Misc mods and fixes
 - [ExOptsTeam/NFSU2ExOpts](https://github.com/ExOptsTeam/NFSU2ExOpts) - Need for Speed Underground 2 Extra Options
@@ -865,6 +866,7 @@
 
 ## TypeScript 
 
+- [rcoopr/inline-math](https://github.com/rcoopr/inline-math) - 
 - [kodestan/tank-ops](https://github.com/kodestan/tank-ops) - 
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [reliverse/smart-comments-vscode-extension](https://github.com/reliverse/smart-comments-vscode-extension) - Smart Comments: VSCode Extension
@@ -1337,7 +1339,7 @@
 - [nanxiaobei/flooks](https://github.com/nanxiaobei/flooks) - 🍸 Auto Optimized State Manager for React Hooks
 - [nanxiaobei/resso](https://github.com/nanxiaobei/resso) - 🪢 The simplest React state manager
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
-- [vantezzen/auto-form](https://github.com/vantezzen/auto-form) - 🌟  A React component that automatically creates a @shadcn/ui form based on a zod schema.
+- [vantezzen/autoform](https://github.com/vantezzen/autoform) - 🌟 Automatically render forms for your existing data schema
 - [contentful/contentful.js](https://github.com/contentful/contentful.js) - JavaScript library for Contentful's Delivery API (node & browser)
 - [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
