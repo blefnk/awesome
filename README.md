@@ -337,7 +337,7 @@
 - [reliverse/template-browser-extension](https://github.com/reliverse/template-browser-extension) - 💡 Do you need a cool starter for your next cool browser extension? It's right here! ✅ Bun, TypeScript, ESLint v9, etc. 💻 Mozilla Firefox & Chromium (Google Chrome, Microsoft Edge, Opera, Vivaldi, etc.
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
-- [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - Speed up eslint to accelerate your development workflow
+- [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - 🪄 Speed up eslint to accelerate your development workflow
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [eslint-community/eslint-plugin-eslint-plugin](https://github.com/eslint-community/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins
 - [reliverse/eslint-plugin-template](https://github.com/reliverse/eslint-plugin-template) - 🧱 A powerful ESLint v9.x plugin starter (template), which uses @blefnk/eslint-config-template ESLint config. It is currently under development and will be released soon. You can give a star so you don
@@ -755,6 +755,7 @@
 
 ## Python 
 
+- [google/langfun](https://github.com/google/langfun) - OO for LLMs
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
 - [reliverse/acme](https://github.com/reliverse/acme) - 📄 @reliverse/acme is a @reliverse/addons template that provides a starting point for developing new packages within the Reliverse ecosystem, offering pre-configured setup and guidelines to streamline 
@@ -1324,7 +1325,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Faire/mjml-react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - ✨ 1,000 stars → 1.3.0 RC ⭐ Next.js 14 & 15 Websie Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 18 19 Server Components, MySQL Postgres Neo
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - ✨ 1.3.0 RC — Coming soon ⭐ Next.js 14 & 15 Websie Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 18 19 Server Components, MySQL Postgres Neo
 - [blefnk/bleverse-utils-website](https://github.com/blefnk/bleverse-utils-website) - 🤌 Comprehensive utility toolkit for Next.js, React, and beyond. Curated with dedication, this collection is designed to enhance your development experience, streamline your workflows, and elevate your
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
 - [FormidableLabs/react-swipeable](https://github.com/FormidableLabs/react-swipeable) - React swipe event handler hook
