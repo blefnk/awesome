@@ -690,6 +690,7 @@
 - [chernivtsijs/made-in-ukraine](https://github.com/chernivtsijs/made-in-ukraine) - 🇺🇦 Curating the best projects that were made and mainly contributed by Ukrainian developers
 - [reliverse/appts](https://github.com/reliverse/appts) - 🧵 Yes, you agree! We have too many config files. To reduce the number of config files, we aim to combine everything into a single file. // It is also a comprehensive set of package.json scripts. // Wo
 - [blefnk/patronus](https://github.com/blefnk/patronus) - 🦌 Next.js, TypeScript, Tailwind, and Prisma website to store bleverse-ai-labs things.
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [blefnk/tools](https://github.com/blefnk/tools) - 🔦 Bleverse Tools: A Comprehensive Suite of Digital Instruments, Crafted for Modern Innovation. A Robust Suite of Tools Engineered with Next.js, React, TypeScript, and Tailwind CSS to Elevate Your Digi
 - [reliverse/conversatorum](https://github.com/reliverse/conversatorum) - ⚜️ Welcome to Conversatorum: A World Where Conversion is Art. Code, Files, Formats - All Transformed with the Grace and Precision of a Master Craftsman. Your Digital Workshop Awaits.
 - [reliverse/minimal-linkedin](https://github.com/reliverse/minimal-linkedin) - 🥂 Minimal LinkedIn is a streamlined, user-centric browser extension crafted to redefine and enhance your LinkedIn browsing experience. Our project aims to eliminate the unnecessary clutter and distrac
@@ -1331,7 +1332,6 @@
 - [FormidableLabs/react-swipeable](https://github.com/FormidableLabs/react-swipeable) - React swipe event handler hook
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
-- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [ErdongChen-Andrew/CharacterControl](https://github.com/ErdongChen-Andrew/CharacterControl) - Floating Capsule Character Controller (Rigibody control)
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
