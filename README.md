@@ -781,7 +781,7 @@
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [venthur/dotenv-cli](https://github.com/venthur/dotenv-cli) - Executes commands with environment variables set from .env file. Zero dependencies.
 - [qiuyu96/CoDeF](https://github.com/qiuyu96/CoDeF) - [CVPR 2024 Highlight] Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [ToxicFrog/Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [blefnk/books-translation](https://github.com/blefnk/books-translation) - 📖 Розважливий переклад іноземних книг українською.
