@@ -1303,7 +1303,7 @@
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [fellipeutaka/useful-tools](https://github.com/fellipeutaka/useful-tools) - 🛠 A collection of the best tools
 - [mxkaske/mxkaske.dev](https://github.com/mxkaske/mxkaske.dev) - 
-- [clerk/javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
+- [clerk/javascript](https://github.com/clerk/javascript) - Official JavaScript repository for Clerk authentication
 - [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js.
 - [jackblatch/OneStopShop](https://github.com/jackblatch/OneStopShop) - Online marketplace built using Nextjs 13 App Router with server components, server actions, parallel and intercepting routes as well as Drizzle ORM.
 - [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) - 
