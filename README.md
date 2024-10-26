@@ -138,7 +138,7 @@
 ## CSS 
 
 - [cyberscript77/wiki](https://github.com/cyberscript77/wiki) - 
-- [blefnk/minext](https://github.com/blefnk/minext) - MINEXT: A Minimal Next.js Template
+- [blefnk/next-react-ts-src-minimal](https://github.com/blefnk/next-react-ts-src-minimal) - Next.js React TypeScript
 - [reliverse/browser](https://github.com/reliverse/browser) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [iandinwoodie/github-markdown-tailwindcss](https://github.com/iandinwoodie/github-markdown-tailwindcss) - ⛵ Replicate GitHub Flavored Markdown with Tailwind CSS components
@@ -229,6 +229,7 @@
 
 ## JavaScript 
 
+- [reliverse/next-react-js-minimal](https://github.com/reliverse/next-react-js-minimal) - 
 - [kellyselden/eslint-plugin-json-files](https://github.com/kellyselden/eslint-plugin-json-files) - ESLint JSON processor and rules
 - [wind-press/windpress](https://github.com/wind-press/windpress) - Use Tailwind CSS within the block editor, page builders, plugins, and themes — no build step is required
 - [blefnk/only-allow-bun-pnpm](https://github.com/blefnk/only-allow-bun-pnpm) - Force a bun or pnpm package manager to be used on a project
@@ -244,6 +245,7 @@
 - [MishanPoudel/Windows11-3.0](https://github.com/MishanPoudel/Windows11-3.0) - Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.
 - [reliverse/ts-lib-starter](https://github.com/reliverse/ts-lib-starter) - Reliverse TypeScript Library/Package Template
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+- [blefnk/reliverse-docs](https://github.com/blefnk/reliverse-docs) - 📖 Relivator Next.js Template & Reliverse CLI Docs 👉 https://reliverse.org 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js,
 - [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions) - This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 - [sniklaus/youtube-watchmarker](https://github.com/sniklaus/youtube-watchmarker) - a browser extension that keeps track of your YouTube watch history and marks videos that you have already watched
 - [Deskbot/No-Playlist-Autoplay-For-YouTube](https://github.com/Deskbot/No-Playlist-Autoplay-For-YouTube) - A Browser Extension that stops YouTube playlists from automatically playing the next video when one finishes. Works in Firefox and Chrome.
@@ -433,7 +435,7 @@
 - [postcss/postcss-load-config](https://github.com/postcss/postcss-load-config) - Autoload Config for PostCSS
 - [blefnk/svelte](https://github.com/blefnk/svelte) - Cybernetically enhanced web apps
 - [blefnk/sveltekit](https://github.com/blefnk/sveltekit) - web development, streamlined
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [blefnk/lucide](https://github.com/blefnk/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [blefnk/nextjs](https://github.com/blefnk/nextjs) - The React Framework
@@ -547,6 +549,8 @@
 
 ## Others 
 
+- [reliverse/messages](https://github.com/reliverse/messages) - 
+- [blefnk/oss-modern-web-archive](https://github.com/blefnk/oss-modern-web-archive) - Modern Open-Source Web Archive Alternative — Next.js 15, React 19, Drizzle, Postgres — Coming Soon
 - [blefonix/omp-pg](https://github.com/blefonix/omp-pg) - open.mp PostgreSQL plugin -- work in progress
 - [shadps4-emu/shadps4-game-compatibility](https://github.com/shadps4-emu/shadps4-game-compatibility) - Shadps4 game compatibility
 - [blefnk/testxt](https://github.com/blefnk/testxt) - 
@@ -756,6 +760,7 @@
 
 ## Python 
 
+- [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [google/langfun](https://github.com/google/langfun) - OO for LLMs
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
@@ -869,6 +874,8 @@
 
 ## TypeScript 
 
+- [reliverse/astro-docs-json-to-mdx](https://github.com/reliverse/astro-docs-json-to-mdx) - The project demonstrates an example of a json to mdx generator to simplify the work with i18n in Astro Starlight.
+- [vercel-community/deno](https://github.com/vercel-community/deno) - 🦕 Deno runtime for ▲ Vercel Serverless Functions
 - [rcoopr/inline-math](https://github.com/rcoopr/inline-math) - 
 - [kodestan/tank-ops](https://github.com/kodestan/tank-ops) - 
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
@@ -901,7 +908,6 @@
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 - [mattpocock/pkg-demo](https://github.com/mattpocock/pkg-demo) - 
 - [reliverse/eslint-plugin](https://github.com/reliverse/eslint-plugin) - Reliverse EsLint Plugin
-- [blefnk/reliverse-docs](https://github.com/blefnk/reliverse-docs) - 📖 Relivator Next.js Template & Reliverse CLI Docs 👉 https://reliverse.org 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js,
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [alovajs/alova](https://github.com/alovajs/alova) - Workflow-Streamlined next-generation request tools. Extremely streamline API integration workflow, just one step
 - [reaviz/reachat](https://github.com/reaviz/reachat) - 💬 UI Building Blocks for LLM/Chat UIs. Maintained by @goodcodeus.
@@ -1050,7 +1056,7 @@
 - [tulupinc/flowbite-next-starter](https://github.com/tulupinc/flowbite-next-starter) - 
 - [SuspiciousLookingOwl/youtubei](https://github.com/SuspiciousLookingOwl/youtubei) - Get Youtube data such as videos, playlists, channels, video information & comments, related videos, up next video, and more!
 - [ibrahimcesar/react-lite-youtube-embed](https://github.com/ibrahimcesar/react-lite-youtube-embed) - 📺 ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎&lt; A private by default, faster and cleaner YouTube embed component for React applications /&gt;
-- [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - A production-grade boilerplate for modern Next.js apps.
+- [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps
 - [elringus/imgit](https://github.com/elringus/imgit) - Transform images, video and YouTube links to HTML optimized for web vitals
 - [PlayForm/Inline](https://github.com/PlayForm/Inline) - 🦔 Inline —
 - [dc7290/next-export-optimize-images](https://github.com/dc7290/next-export-optimize-images) - Optimize images at build time with Next.js.
@@ -1088,7 +1094,7 @@
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
 - [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 - [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
-- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Modular Application Platform built on top of NextJS (React), NestJS (Express) and PostgreSQL.
+- [VitNode/vitnode](https://github.com/VitNode/vitnode) - Full-Stack Framework built on top of NextJS (React), NestJS (Express) and PostgreSQL.
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [blefnk/quivr](https://github.com/blefnk/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [blefnk/nsaction](https://github.com/blefnk/nsaction) - Type safe and validated Server Actions in your Next.js (App Router) project.
@@ -1132,7 +1138,7 @@
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
-- [ArnaudBarre/eslint-plugin-react-refresh](https://github.com/ArnaudBarre/eslint-plugin-react-refresh) - Validate that your components can safely be updated with fast refresh
+- [ArnaudBarre/eslint-plugin-react-refresh](https://github.com/ArnaudBarre/eslint-plugin-react-refresh) - Validate that your components can safely be updated with Fast Refresh
 - [ryu1kn/csv-writer](https://github.com/ryu1kn/csv-writer) - Convert objects/arrays into a CSV string or write them into a CSV file
 - [blefnk/create-t3-turbo](https://github.com/blefnk/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
 - [ota-meshi/jsonc-eslint-parser](https://github.com/ota-meshi/jsonc-eslint-parser) - JSON, JSONC and JSON5 parser for use with ESLint plugins.
@@ -1162,7 +1168,7 @@
 - [zardoy/typescript-vscode-plugins](https://github.com/zardoy/typescript-vscode-plugins) - NO LIMITS FOR TS! Isn't this the most advanced TypeScript plugin as VS Code extension ever created?
 - [GodHermit/survival-manual](https://github.com/GodHermit/survival-manual) - International survival manual with offline articles
 - [blefnk/cookies](https://github.com/blefnk/cookies) - 🍪 Getting, setting and removing cookies on both client and server with Next.js
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
+- [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 - [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
 - [john-smilga/nextjs-course-openai](https://github.com/john-smilga/nextjs-course-openai) - 
 - [veloss-labs/threads-nextjs](https://github.com/veloss-labs/threads-nextjs) - 💥 SST makes it easy to build Nextjs serverless. Then, we clone the function of the "Thread" app and implement the function of Nextjs.
@@ -1185,7 +1191,7 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
-- [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string.
+- [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 - [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
 - [blefnk/tolgee](https://github.com/blefnk/tolgee) - Tolgee JavaScript libraries monorepo
 - [tolgee/tolgee-js](https://github.com/tolgee/tolgee-js) - Tolgee JavaScript libraries monorepo
@@ -1262,7 +1268,7 @@
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [rexfordessilfie/nextwrappers](https://github.com/rexfordessilfie/nextwrappers) - Reusable, composable middleware-like wrappers for Next.js App Router Route Handlers and Middleware.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [mouadlouhichi/nextjs-coming-soon](https://github.com/mouadlouhichi/nextjs-coming-soon) - 
 - [mouadlouhichi/nextjs-prisma-blog](https://github.com/mouadlouhichi/nextjs-prisma-blog) - 
 - [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
