@@ -58,6 +58,7 @@
 
 ## C 
 
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [blefonix/omp-plugin-sdk](https://github.com/blefonix/omp-plugin-sdk) - open.mp plugin sdk -- [work in progress] samp plugin sdk full rewriting
 - [Zeex/samp-plugin-sdk](https://github.com/Zeex/samp-plugin-sdk) - Copy of the SA-MP plugin SDK
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
@@ -224,6 +225,7 @@
 
 ## Java 
 
+- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 1.21 Lightweight Minecraft server
 - [Audiveris/audiveris](https://github.com/Audiveris/audiveris) - Latest generation of Audiveris OMR engine
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 
@@ -760,6 +762,8 @@
 
 ## Python 
 
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [google/langfun](https://github.com/google/langfun) - OO for LLMs
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
@@ -874,6 +878,14 @@
 
 ## TypeScript 
 
+- [oven-sh/setup-bun](https://github.com/oven-sh/setup-bun) - Set up your GitHub Actions workflow with a specific version of Bun
+- [bcms/starters](https://github.com/bcms/starters) - 👩‍💻 Build beautiful, accessible, high-performance websites with BCMS
+- [souporserious/renoun](https://github.com/souporserious/renoun) - Documentation that matches the quality of your product.
+- [zce/velite](https://github.com/zce/velite) - Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
+- [unjs/unrouting](https://github.com/unjs/unrouting) - Making filesystem routing universal
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication library for TypeScript
+- [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
+- [blefnk/versator-nextjs-template](https://github.com/blefnk/versator-nextjs-template) - Versator is an open-source e-commerce template built with the latest features in Next.js 15, React 18/19, TypeScript 5.6, ESLint 9, Biome, and more. ⭐ It’s used by major projects such as 👉 https://git
 - [reliverse/astro-docs-json-to-mdx](https://github.com/reliverse/astro-docs-json-to-mdx) - The project demonstrates an example of a json to mdx generator to simplify the work with i18n in Astro Starlight.
 - [vercel-community/deno](https://github.com/vercel-community/deno) - 🦕 Deno runtime for ▲ Vercel Serverless Functions
 - [rcoopr/inline-math](https://github.com/rcoopr/inline-math) - 
@@ -1015,7 +1027,7 @@
 - [antfu/eslint-flat-config-utils](https://github.com/antfu/eslint-flat-config-utils) - Utils for managing and manipulating ESLint flat config arrays
 - [antfu-collective/unconfig](https://github.com/antfu-collective/unconfig) - A universal solution for loading configurations.
 - [antfu/json-schema-to-typescript-lite](https://github.com/antfu/json-schema-to-typescript-lite) - Compile JSONSchema to TypeScript type declarations
-- [blefnk/versator-relivator-template](https://github.com/blefnk/versator-relivator-template) - Versator – This is a special "branch" for the Relivator repo. Here we attempt to reach the current state of Relivator by using the Reliverse CLI.
+- [blefnk/all-in-one-nextjs-template](https://github.com/blefnk/all-in-one-nextjs-template) - Previously, Relivator Next.js template tried to include everything all at once. Now, this repository fulfills that mission. It’s a great place for learning. Any pull requests are open for anyone inter
 - [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader
 - [lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js) - Official JavaScript SDK for Lemon Squeezy.
 - [stripe/stripe-js](https://github.com/stripe/stripe-js) - Loading wrapper for Stripe.js
@@ -1318,7 +1330,7 @@
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invo
 - [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - JavaScript client for the Meilisearch API
 - [xataio/xataform](https://github.com/xataio/xataform) - Create, share and analyse your forms with Xata. Open Source alternative to Typeform.
-- [reliverse/cli](https://github.com/reliverse/cli) - 🏯 @reliverse/cli is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You 
+- [blefnk/reliverse-website-builder](https://github.com/blefnk/reliverse-website-builder) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
 - [bs-oss/relivator](https://github.com/bs-oss/relivator) - 🔥 The ultimate Next.js 13 app router TypeScript starter! i18n, Server Actions, T3, Shadcn, Tailwind, Drizzle, Prisma, Zod, RSC, SWC, tRPC, NextAuth, Auth.js, Lucia, Lucide Icons, & More. Get it and en
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -1332,7 +1344,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Faire/mjml-react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - ✨ 1.3.0 RC — Coming soon ⭐ Next.js 14 & 15 Websie Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Authjs Radix UI, Responsive React 18 19 Server Components, MySQL Postgres Neo
+- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - ✨ 1.3.0 RC — Coming soon ⭐ Next.js 15 eCommerce Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Radix UI, Responsive React 18 19 Server Components, Postgres Neon TS ORM, Intl 
 - [blefnk/bleverse-utils-website](https://github.com/blefnk/bleverse-utils-website) - 🤌 Comprehensive utility toolkit for Next.js, React, and beyond. Curated with dedication, this collection is designed to enhance your development experience, streamline your workflows, and elevate your
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
 - [FormidableLabs/react-swipeable](https://github.com/FormidableLabs/react-swipeable) - React swipe event handler hook
