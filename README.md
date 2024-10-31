@@ -94,6 +94,7 @@
 
 ## C++ 
 
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [BigETI/pawn-memory](https://github.com/BigETI/pawn-memory) - PAWN memory access plugin
 - [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed) - Reimplementation of GTA:SA 1.0 US
@@ -231,6 +232,7 @@
 
 ## JavaScript 
 
+- [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [reliverse/next-react-js-minimal](https://github.com/reliverse/next-react-js-minimal) - 
 - [kellyselden/eslint-plugin-json-files](https://github.com/kellyselden/eslint-plugin-json-files) - ESLint JSON processor and rules
 - [wind-press/windpress](https://github.com/wind-press/windpress) - Use Tailwind CSS within the block editor, page builders, plugins, and themes — no build step is required
@@ -551,6 +553,7 @@
 
 ## Others 
 
+- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [reliverse/messages](https://github.com/reliverse/messages) - 
 - [blefnk/oss-modern-web-archive](https://github.com/blefnk/oss-modern-web-archive) - Modern Open-Source Web Archive Alternative — Next.js 15, React 19, Drizzle, Postgres — Coming Soon
 - [blefonix/omp-pg](https://github.com/blefonix/omp-pg) - open.mp PostgreSQL plugin -- work in progress
@@ -878,6 +881,7 @@
 
 ## TypeScript 
 
+- [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [oven-sh/setup-bun](https://github.com/oven-sh/setup-bun) - Set up your GitHub Actions workflow with a specific version of Bun
 - [bcms/starters](https://github.com/bcms/starters) - 👩‍💻 Build beautiful, accessible, high-performance websites with BCMS
 - [souporserious/renoun](https://github.com/souporserious/renoun) - Documentation that matches the quality of your product.
