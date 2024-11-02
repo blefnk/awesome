@@ -7,6 +7,7 @@
 
 - [Astro](#astro)
 - [AutoIt](#autoit)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -56,8 +57,13 @@
 
 - [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 
+## Batchfile 
+
+- [bmrf/tron](https://github.com/bmrf/tron) - Tron
+
 ## C 
 
+- [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [blefonix/omp-plugin-sdk](https://github.com/blefonix/omp-plugin-sdk) - open.mp plugin sdk -- [work in progress] samp plugin sdk full rewriting
 - [Zeex/samp-plugin-sdk](https://github.com/Zeex/samp-plugin-sdk) - Copy of the SA-MP plugin SDK
@@ -65,7 +71,6 @@
 - [Zeex/samp-plugin-crashdetect](https://github.com/Zeex/samp-plugin-crashdetect) - Crash/error reporting plugin for SA-MP server
 - [nlgxzef/NFSU2Unlimiter](https://github.com/nlgxzef/NFSU2Unlimiter) - Need for Speed Underground 2 Unlimiter
 - [nlgxzef/NFSMWUnlimiter](https://github.com/nlgxzef/NFSMWUnlimiter) - Fixes some issues for added cars.
-- [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
 - [rockdaboot/wget2](https://github.com/rockdaboot/wget2) - The successor of GNU Wget. Contributions preferred at https://gitlab.com/gnuwget/wget2. But accepted here as well 😍
 - [openmultiplayer/compiler](https://github.com/openmultiplayer/compiler) - 
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -94,6 +99,7 @@
 
 ## C++ 
 
+- [clamwin/clamav](https://github.com/clamwin/clamav) - ClamWin clamav with additional patches
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [BigETI/pawn-memory](https://github.com/BigETI/pawn-memory) - PAWN memory access plugin
@@ -108,6 +114,7 @@
 - [TDUniverse/Cyberverse](https://github.com/TDUniverse/Cyberverse) - The Cyberpunk 2077 Multiplayer Framework
 - [psiberx/cp2077-archive-xl](https://github.com/psiberx/cp2077-archive-xl) - Cyberpunk 2077 mod that allows you to expand game resources without conflicts.
 - [psiberx/cp2077-red-hot-tools](https://github.com/psiberx/cp2077-red-hot-tools) - 
+- [maximegmd/CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
 - [WopsS/RED4ext](https://github.com/WopsS/RED4ext) - A script extender for REDengine 4 (Cyberpunk 2077).
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
@@ -126,7 +133,7 @@
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [cleolibrary/CLEO4](https://github.com/cleolibrary/CLEO4) - CLEO 4 for GTA San Andreas
 - [minyor/syn2midi](https://github.com/minyor/syn2midi) - Create pianobooster midi from youtube piano video lessons (Synthesia).
-- [blefnk/streamer](https://github.com/blefnk/streamer) - 🏙️ open.mp streamer plugin
+- [blefnk/streamer](https://github.com/blefnk/streamer) - 🏙️ Better streamer plugin for open.mp
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [nexquery/samp-textdraw-streamer](https://github.com/nexquery/samp-textdraw-streamer) - A simple plugin for sa-mp and open.mp to break the limits of textdrawings.
 - [IS4Code/PawnPlus](https://github.com/IS4Code/PawnPlus) - A SA-MP plugin enhancing the capabilities of the Pawn programming language
@@ -139,9 +146,9 @@
 
 ## CSS 
 
+- [reliverse/browser](https://github.com/reliverse/browser) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [cyberscript77/wiki](https://github.com/cyberscript77/wiki) - 
 - [blefnk/next-react-ts-src-minimal](https://github.com/blefnk/next-react-ts-src-minimal) - Next.js React TypeScript
-- [reliverse/browser](https://github.com/reliverse/browser) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [iandinwoodie/github-markdown-tailwindcss](https://github.com/iandinwoodie/github-markdown-tailwindcss) - ⛵ Replicate GitHub Flavored Markdown with Tailwind CSS components
 - [stevebauman/curlwind](https://github.com/stevebauman/curlwind) - Generate Tailwind utility stylesheets on demand.
@@ -232,6 +239,7 @@
 
 ## JavaScript 
 
+- [eslint/js](https://github.com/eslint/js) - Monorepo for the JS language tools.
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [reliverse/next-react-js-minimal](https://github.com/reliverse/next-react-js-minimal) - 
 - [kellyselden/eslint-plugin-json-files](https://github.com/kellyselden/eslint-plugin-json-files) - ESLint JSON processor and rules
@@ -538,7 +546,7 @@
 - [CatchTheTornado/opensourcetipsbook](https://github.com/CatchTheTornado/opensourcetipsbook) - Open Source book on Open Source. How to create a successful OSS product - tips and tricks that simply works.
 - [radix-ui/website](https://github.com/radix-ui/website) - Website and documentation for Radix.
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
-- [blefnk/web](https://github.com/blefnk/web) - Переклад документації open.mp (sa:mp, самп) українською. Офіційний сайт проєкту: https://open.mp/uk. Спершу комміти робляться на окреме репо, а пізніше єдиним паком робляться на blefnk/web репо, котре
+- [blefnk/omp-web](https://github.com/blefnk/omp-web) - Переклад документації open.mp (sa:mp, самп) українською. Офіційний сайт проєкту: https://open.mp/uk. Спершу комміти робляться на окреме репо, а пізніше єдиним паком робляться на blefnk/web репо, котре
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## Markdown 
@@ -553,6 +561,11 @@
 
 ## Others 
 
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+- [reliverse/awesome](https://github.com/reliverse/awesome) - @reliverse/awesome: Amazing projects created by the Reliverse core team and community, featuring the use of Reliverse tools and features.
+- [blefnk/web](https://github.com/blefnk/web) - 🧩 JavaScript Ecosystem Libraries Overview. A list of different libraries sorted by category. You can also go to ALTERNATIVES.md to see which Node.js native features and libraries can be replaced with 
+- [stop-deceiving-project/platform](https://github.com/stop-deceiving-project/platform) - SDP — Stop Deceiving Project — is a monorepo that will contain web-related projects aimed at fighting fraud. "Deceive" means leading someone to believe something that is not true.
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [reliverse/messages](https://github.com/reliverse/messages) - 
 - [blefnk/oss-modern-web-archive](https://github.com/blefnk/oss-modern-web-archive) - Modern Open-Source Web Archive Alternative — Next.js 15, React 19, Drizzle, Postgres — Coming Soon
@@ -563,7 +576,7 @@
 - [ukrainian-freedom/gta-ua-i18n](https://github.com/ukrainian-freedom/gta-ua-i18n) - Українськомовний open-source переклад усієї серії ігор Grand Theft Auto. Наразі ведеться активна робота над першим проєктом: GTA Vice City.
 - [alinkedd/uk-tech-l10n-list](https://github.com/alinkedd/uk-tech-l10n-list) - List of open technical texts localized into Ukrainian · Ukrainian translations · uk-UA
 - [itsdouges/awesome-typescript-ecosystem](https://github.com/itsdouges/awesome-typescript-ecosystem) - 😎 A list of awesome TypeScript transformers, plugins, handbooks, etc
-- [blefnk/awesome](https://github.com/blefnk/awesome) - ⭐ A large number of GitHub repositories about all kinds of interesting topics that @blefnk considers awesome have been starred and recommended to everyone, especially the Reliverse community. The curr
+- [blefnk/awesome](https://github.com/blefnk/awesome) - ⭐ A large number of GitHub repositories about all kinds of interesting topics that @blefnk considers awesome have been starred and recommended to everyone, especially the @reliverse community. The cur
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -881,6 +894,11 @@
 
 ## TypeScript 
 
+- [leerob/next-music-player](https://github.com/leerob/next-music-player) - A blazing fast, information dense media player built with Next.js.
+- [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
+- [zen-browser/components](https://github.com/zen-browser/components) - Some components used by @zen-browser as an attempt to make firefox forks a better place
+- [reliverse/reliverse-old-version](https://github.com/reliverse/reliverse-old-version) - Reliverse (old version) | See new version: https://github.com/blefnk/reliverse
+- [reliverse/vscode-extension-framework](https://github.com/reliverse/vscode-extension-framework) - ⚡ Next-gen VSCode Extension Framework. 🧩 It's like WXT, but for VSCode Extensions.
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [oven-sh/setup-bun](https://github.com/oven-sh/setup-bun) - Set up your GitHub Actions workflow with a specific version of Bun
 - [bcms/starters](https://github.com/bcms/starters) - 👩‍💻 Build beautiful, accessible, high-performance websites with BCMS
@@ -953,7 +971,7 @@
 - [ehmicky/modern-errors-http](https://github.com/ehmicky/modern-errors-http) - `modern-errors` plugin to create HTTP error responses.
 - [ehmicky/modern-errors-cli](https://github.com/ehmicky/modern-errors-cli) - `modern-errors` plugin to handle errors in CLI modules.
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+- [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [atao60/fse-cli](https://github.com/atao60/fse-cli) - A CLI for fs-extra
 - [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js and Bun
 - [unjs/requrl](https://github.com/unjs/requrl) - Grab full URL from request.
@@ -1072,7 +1090,7 @@
 - [tulupinc/flowbite-next-starter](https://github.com/tulupinc/flowbite-next-starter) - 
 - [SuspiciousLookingOwl/youtubei](https://github.com/SuspiciousLookingOwl/youtubei) - Get Youtube data such as videos, playlists, channels, video information & comments, related videos, up next video, and more!
 - [ibrahimcesar/react-lite-youtube-embed](https://github.com/ibrahimcesar/react-lite-youtube-embed) - 📺 ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎&lt; A private by default, faster and cleaner YouTube embed component for React applications /&gt;
-- [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps
+- [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps.
 - [elringus/imgit](https://github.com/elringus/imgit) - Transform images, video and YouTube links to HTML optimized for web vitals
 - [PlayForm/Inline](https://github.com/PlayForm/Inline) - 🦔 Inline —
 - [dc7290/next-export-optimize-images](https://github.com/dc7290/next-export-optimize-images) - Optimize images at build time with Next.js.
@@ -1334,7 +1352,7 @@
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invo
 - [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - JavaScript client for the Meilisearch API
 - [xataio/xataform](https://github.com/xataio/xataform) - Create, share and analyse your forms with Xata. Open Source alternative to Typeform.
-- [blefnk/reliverse-website-builder](https://github.com/blefnk/reliverse-website-builder) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
+- [blefnk/reliverse](https://github.com/blefnk/reliverse) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
 - [bs-oss/relivator](https://github.com/bs-oss/relivator) - 🔥 The ultimate Next.js 13 app router TypeScript starter! i18n, Server Actions, T3, Shadcn, Tailwind, Drizzle, Prisma, Zod, RSC, SWC, tRPC, NextAuth, Auth.js, Lucia, Lucide Icons, & More. Get it and en
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -1430,6 +1448,7 @@
 
 ## Vue 
 
+- [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
 - [eslint/config-inspector](https://github.com/eslint/config-inspector) - A visual tool for inspecting and understanding your ESLint flat configs.
 - [blefnk/esviewer](https://github.com/blefnk/esviewer) - A visual tool to help you view and understand your ESLint Flat config.
 - [antfu/eslint-flat-config-viewer](https://github.com/antfu/eslint-flat-config-viewer) - A visual tool to help you view and understand your ESLint Flat config.
