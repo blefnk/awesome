@@ -66,9 +66,7 @@
 - [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [blefonix/omp-plugin-sdk](https://github.com/blefonix/omp-plugin-sdk) - open.mp plugin sdk -- [work in progress] samp plugin sdk full rewriting
-- [Zeex/samp-plugin-sdk](https://github.com/Zeex/samp-plugin-sdk) - Copy of the SA-MP plugin SDK
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
-- [Zeex/samp-plugin-crashdetect](https://github.com/Zeex/samp-plugin-crashdetect) - Crash/error reporting plugin for SA-MP server
 - [nlgxzef/NFSU2Unlimiter](https://github.com/nlgxzef/NFSU2Unlimiter) - Need for Speed Underground 2 Unlimiter
 - [nlgxzef/NFSMWUnlimiter](https://github.com/nlgxzef/NFSMWUnlimiter) - Fixes some issues for added cars.
 - [rockdaboot/wget2](https://github.com/rockdaboot/wget2) - The successor of GNU Wget. Contributions preferred at https://gitlab.com/gnuwget/wget2. But accepted here as well 😍
@@ -149,7 +147,6 @@
 - [reliverse/browser](https://github.com/reliverse/browser) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [cyberscript77/wiki](https://github.com/cyberscript77/wiki) - 
 - [blefnk/next-react-ts-src-minimal](https://github.com/blefnk/next-react-ts-src-minimal) - Next.js React TypeScript
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [iandinwoodie/github-markdown-tailwindcss](https://github.com/iandinwoodie/github-markdown-tailwindcss) - ⛵ Replicate GitHub Flavored Markdown with Tailwind CSS components
 - [stevebauman/curlwind](https://github.com/stevebauman/curlwind) - Generate Tailwind utility stylesheets on demand.
 - [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
@@ -239,6 +236,9 @@
 
 ## JavaScript 
 
+- [sindresorhus/yocto-spinner](https://github.com/sindresorhus/yocto-spinner) - Tiny terminal spinner
+- [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
+- [estools/esquery](https://github.com/estools/esquery) - ECMAScript AST query library.
 - [eslint/js](https://github.com/eslint/js) - Monorepo for the JS language tools.
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [reliverse/next-react-js-minimal](https://github.com/reliverse/next-react-js-minimal) - 
@@ -255,6 +255,7 @@
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [ukrainian-freedom/ukrainian-browser-extension](https://github.com/ukrainian-freedom/ukrainian-browser-extension) - 🇺🇦 Open-source альтернатива Grammarly та LanguageTool. Від українців для українців та цілого світу. Поширюємо українську разом!
 - [MishanPoudel/Windows11-3.0](https://github.com/MishanPoudel/Windows11-3.0) - Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [reliverse/ts-lib-starter](https://github.com/reliverse/ts-lib-starter) - Reliverse TypeScript Library/Package Template
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 - [blefnk/reliverse-docs](https://github.com/blefnk/reliverse-docs) - 📖 Relivator Next.js Template & Reliverse CLI Docs 👉 https://reliverse.org 🏯 Reliverse is a powerful command-line tool that allows you to bootstrap popular React templates, like Relivator with Next.js,
@@ -275,7 +276,6 @@
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [yahoo/serialize-javascript](https://github.com/yahoo/serialize-javascript) - Serialize JavaScript to a superset of JSON that includes regular expressions and functions.
 - [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community.
-- [WJSoftware/wj-config](https://github.com/WJSoftware/wj-config) - JavaScript configuration module for browser and server projects that works like .Net configuration where any number of data sources are merged and environment variables can contribute/overwrite values
 - [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 - [klughammer/node-randomstring](https://github.com/klughammer/node-randomstring) - A node.js module for generating random strings
 - [coderaiser/escover](https://github.com/coderaiser/escover) - 🎩 Coverage for EcmaScript Modules
@@ -469,6 +469,7 @@
 - [simonhaenisch/prettier-plugin-organize-imports](https://github.com/simonhaenisch/prettier-plugin-organize-imports) - Make Prettier organize your imports using the TypeScript language service API.
 - [dthree/vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
 - [Rectify11/Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification which makes it more consistent.
+- [blefnk/reliverse](https://github.com/blefnk/reliverse) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
 - [wix-incubator/mjml-react](https://github.com/wix-incubator/mjml-react) - React component library to generate the HTML emails on the fly
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -561,6 +562,14 @@
 
 ## Others 
 
+- [reliverse/pmx](https://github.com/reliverse/pmx) - @reliverse/pmx: A versatile package manager that wraps around bun, pnpm, yarn, and npm. This global installation tool detects your preferred package manager and installs packages accordingly. Switched
+- [reliverse/cutexe](https://github.com/reliverse/cutexe) - @reliverse/cutexe: Running commands in your scripts can now be an enjoyable, charming, and cute process. Embrace cutexe, not just child_process execution. This library is a great alternative to execa,
+- [reliverse/pm](https://github.com/reliverse/pm) - @reliverse/pm: A library that detects the installed package managers, identifies the correct package manager, and provides various useful utilities for developers and users.
+- [blefnk/turborepo-monorepo-template](https://github.com/blefnk/turborepo-monorepo-template) - pnpm turborepo monorepo template
+- [blefnk/bun-monorepo-template](https://github.com/blefnk/bun-monorepo-template) - Bun Monorepo Template
+- [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
+- [reliverse/cli-framework](https://github.com/reliverse/cli-framework) - Building a CLI can be difficult, right? This project will make everything easier and more convenient.
+- [reliverse/better-pub](https://github.com/reliverse/better-pub) - 🧩 The most comprehensive npm publishing library. Coming soon.
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [reliverse/awesome](https://github.com/reliverse/awesome) - @reliverse/awesome: Amazing projects created by the Reliverse core team and community, featuring the use of Reliverse tools and features.
@@ -778,6 +787,8 @@
 
 ## Python 
 
+- [LucaCappelletti94/csv_trimming](https://github.com/LucaCappelletti94/csv_trimming) - Package python to remove common ugliness from a csv-like file
+- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
@@ -833,6 +844,7 @@
 
 ## Rust 
 
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [aalykiot/dune](https://github.com/aalykiot/dune) - A hobby runtime for JavaScript and TypeScript 🚀
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -894,9 +906,23 @@
 
 ## TypeScript 
 
+- [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) - Interactive CLI that bumps your version numbers and more
+- [antfu-collective/package-manager-detector](https://github.com/antfu-collective/package-manager-detector) - Package manager detector
+- [tinylibs/tinyexec](https://github.com/tinylibs/tinyexec) - 📟 A tiny, higher level interface around child_process
+- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your codebase
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [unjs/mkdist](https://github.com/unjs/mkdist) - Lightweight file-to-file transpiler.
+- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
+- [jamonholmgren/bluebun](https://github.com/jamonholmgren/bluebun) - Bun-powered CLI library, inspired by Gluegun
+- [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
+- [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
+- [nuxt/cli](https://github.com/nuxt/cli) - ⚡️ Nuxt Generation CLI Experience.
+- [reliverse/prompts](https://github.com/reliverse/prompts) - @reliverse/prompts: A modern, type-safe, crash-resistant library for creating seamless, typesafe prompts in CLI applications. Designed for simplicity and elegance, it enables intuitive and robust user
+- [blefnk/deno-cli-tutorial](https://github.com/blefnk/deno-cli-tutorial) - Deno CLI Bun Example
+- [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [leerob/next-music-player](https://github.com/leerob/next-music-player) - A blazing fast, information dense media player built with Next.js.
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
-- [zen-browser/components](https://github.com/zen-browser/components) - Some components used by @zen-browser as an attempt to make firefox forks a better place
 - [reliverse/reliverse-old-version](https://github.com/reliverse/reliverse-old-version) - Reliverse (old version) | See new version: https://github.com/blefnk/reliverse
 - [reliverse/vscode-extension-framework](https://github.com/reliverse/vscode-extension-framework) - ⚡ Next-gen VSCode Extension Framework. 🧩 It's like WXT, but for VSCode Extensions.
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
@@ -960,6 +986,7 @@
 - [jeffwcx/inquirer-select-pro](https://github.com/jeffwcx/inquirer-select-pro) - An inquirer select that supports filtering/searching and multiple selections.
 - [blefnk/inquirer](https://github.com/blefnk/inquirer) - A collection of common interactive command line user interfaces.
 - [MetaMask/utils](https://github.com/MetaMask/utils) - Various JavaScript / TypeScript utilities of wide relevance to the MetaMask codebase.
+- [WJSoftware/wj-config](https://github.com/WJSoftware/wj-config) - JavaScript configuration module for browser and server projects that works like .Net configuration where any number of data sources are merged and environment variables can contribute/overwrite values
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 - [decompme/decomp.me](https://github.com/decompme/decomp.me) - Collaborative decompilation and reverse engineering website
@@ -1352,7 +1379,6 @@
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invo
 - [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - JavaScript client for the Meilisearch API
 - [xataio/xataform](https://github.com/xataio/xataform) - Create, share and analyse your forms with Xata. Open Source alternative to Typeform.
-- [blefnk/reliverse](https://github.com/blefnk/reliverse) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
 - [bs-oss/relivator](https://github.com/bs-oss/relivator) - 🔥 The ultimate Next.js 13 app router TypeScript starter! i18n, Server Actions, T3, Shadcn, Tailwind, Drizzle, Prisma, Zod, RSC, SWC, tRPC, NextAuth, Auth.js, Lucia, Lucide Icons, & More. Get it and en
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -1366,7 +1392,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Faire/mjml-react](https://github.com/Faire/mjml-react) - React component library to generate the HTML emails on the fly
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - ✨ 1.3.0 RC — Coming soon ⭐ Next.js 15 eCommerce Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Radix UI, Responsive React 18 19 Server Components, Postgres Neon TS ORM, Intl 
+- [blefnk/relivator-nextjs-saas-ecommerce-starter](https://github.com/blefnk/relivator-nextjs-saas-ecommerce-starter) - ✨ 1.3.0 RC — Coming soon ⭐ Next.js 15 eCommerce Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Radix UI, Responsive React 18 19 Server Components, Postgres Neon TS ORM, Intl 
 - [blefnk/bleverse-utils-website](https://github.com/blefnk/bleverse-utils-website) - 🤌 Comprehensive utility toolkit for Next.js, React, and beyond. Curated with dedication, this collection is designed to enhance your development experience, streamline your workflows, and elevate your
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
 - [FormidableLabs/react-swipeable](https://github.com/FormidableLabs/react-swipeable) - React swipe event handler hook
@@ -1379,7 +1405,7 @@
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [next-multilingual/next-multilingual](https://github.com/next-multilingual/next-multilingual) - An opinionated end-to-end solution for Next.js applications that requires multiple languages.
 - [nanxiaobei/flooks](https://github.com/nanxiaobei/flooks) - 🍸 Auto Optimized State Manager for React Hooks
-- [nanxiaobei/resso](https://github.com/nanxiaobei/resso) - 🪢 The simplest React state manager
+- [nanxiaobei/resso](https://github.com/nanxiaobei/resso) - 🪢 Simplest React state manager
 - [LibreScore/dl-librescore](https://github.com/LibreScore/dl-librescore) - Download sheet music
 - [vantezzen/autoform](https://github.com/vantezzen/autoform) - 🌟 Automatically render forms for your existing data schema
 - [contentful/contentful.js](https://github.com/contentful/contentful.js) - JavaScript library for Contentful's Delivery API (node & browser)
