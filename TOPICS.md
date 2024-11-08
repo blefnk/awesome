@@ -144,6 +144,7 @@
 - [redux](#redux)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
+- [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
 - [security](#security)
@@ -269,6 +270,7 @@
 
 ## awesome 
 
+- [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [blefnk/web](https://github.com/blefnk/web) - 🧩 JavaScript Ecosystem Libraries Overview. A list of different libraries sorted by category. You can also go to ALTERNATIVES.md to see which Node.js native features and libraries can be replaced with 
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [itsdouges/awesome-typescript-ecosystem](https://github.com/itsdouges/awesome-typescript-ecosystem) - 😎 A list of awesome TypeScript transformers, plugins, handbooks, etc
@@ -380,6 +382,7 @@
 
 ## chrome 
 
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions) - This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
 - [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser.
@@ -400,6 +403,11 @@
 
 ## cli 
 
+- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your codebase
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
+- [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
+- [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [kazhala/InquirerPy](https://github.com/kazhala/InquirerPy) - :snake: Python port of Inquirer.js (A collection of common interactive command-line user interfaces)
@@ -560,6 +568,7 @@
 
 ## deno 
 
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [unjs/destr](https://github.com/unjs/destr) - 🚀 Faster, secure and convenient alternative for JSON.parse for arbitrary inputs
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
@@ -743,6 +752,7 @@
 
 ## firefox 
 
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
 - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [OsaSoft/youtube-better-subscriptions](https://github.com/OsaSoft/youtube-better-subscriptions) - This extension for Firefox and Chrome aims to make navigating YouTube's subscription grid easier by allowing users to hide watched videos
@@ -858,6 +868,7 @@
 
 ## golang 
 
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [simonecorsi/awesome](https://github.com/simonecorsi/awesome) - 😎 Automatically generated list of ordered projects I've starred over the years! You can do your own using my action linked below!
@@ -980,7 +991,6 @@
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Lit Form and Vue Form.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
@@ -1026,6 +1036,7 @@
 
 ## html5 
 
+- [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
@@ -1049,7 +1060,13 @@
 
 ## javascript 
 
+- [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
+- [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
+- [reliverse/prompts](https://github.com/reliverse/prompts) - @reliverse/prompts: A modern, type-safe, crash-resistant library for creating seamless, typesafe prompts in CLI applications. Designed for simplicity and elegance, it enables intuitive and robust user
+- [estools/esquery](https://github.com/estools/esquery) - ECMAScript AST query library.
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+- [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
@@ -1270,11 +1287,13 @@
 
 ## learning 
 
+- [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [Drag13/react-learning-course-short](https://github.com/Drag13/react-learning-course-short) - This repo dedicated to the course "React for Beginners". The course was created to support Ukraine 🇺🇦 and Ukrainians in the war against russia. It's completely free and open-sourced.
 
 ## library 
 
+- [reliverse/prompts](https://github.com/reliverse/prompts) - @reliverse/prompts: A modern, type-safe, crash-resistant library for creating seamless, typesafe prompts in CLI applications. Designed for simplicity and elegance, it enables intuitive and robust user
 - [ehmicky/modern-errors-switch](https://github.com/ehmicky/modern-errors-switch) - `modern-errors` plugin to execute class-specific logic.
 - [ehmicky/modern-errors-winston](https://github.com/ehmicky/modern-errors-winston) - `modern-errors` plugin for Winston.
 - [ehmicky/modern-errors-http](https://github.com/ehmicky/modern-errors-http) - `modern-errors` plugin to create HTTP error responses.
@@ -1448,6 +1467,8 @@
 
 ## nextjs 
 
+- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your codebase
+- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [leerob/next-music-player](https://github.com/leerob/next-music-player) - A blazing fast, information dense media player built with Next.js.
 - [bcms/starters](https://github.com/bcms/starters) - 👩‍💻 Build beautiful, accessible, high-performance websites with BCMS
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
@@ -1538,7 +1559,7 @@
 - [blefnk/reliverse](https://github.com/blefnk/reliverse) - 🏯 Reliverse is a website builder inside your terminal. You can start from scratch or use a template. You can set everything up automatically or configure everything exactly the way you like. You can h
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [blefnk/relivator-nextjs-template](https://github.com/blefnk/relivator-nextjs-template) - ✨ 1.3.0 RC — Coming soon ⭐ Next.js 15 eCommerce Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Radix UI, Responsive React 18 19 Server Components, Postgres Neon TS ORM, Intl 
+- [blefnk/relivator-nextjs-saas-ecommerce-starter](https://github.com/blefnk/relivator-nextjs-saas-ecommerce-starter) - ✨ 1.3.0 RC — Coming soon ⭐ Next.js 15 eCommerce Template ▲ i18n Stripe Shadcn Tailwind Drizzle Zod tRPC TypeScript Clerk Radix UI, Responsive React 18 19 Server Components, Postgres Neon TS ORM, Intl 
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [next-multilingual/next-multilingual](https://github.com/next-multilingual/next-multilingual) - An opinionated end-to-end solution for Next.js applications that requires multiple languages.
 - [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js
@@ -1597,6 +1618,10 @@
 
 ## nodejs 
 
+- [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
+- [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
+- [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [dockfries/infernus](https://github.com/dockfries/infernus) - Node.js library for scripting Open Multiplayer.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -1674,6 +1699,7 @@
 
 ## npm 
 
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [reliverse/acme](https://github.com/reliverse/acme) - 📄 @reliverse/acme is a @reliverse/addons template that provides a starting point for developing new packages within the Reliverse ecosystem, offering pre-configured setup and guidelines to streamline 
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -1740,9 +1766,25 @@
 
 ## others 
 
+- [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) - Interactive CLI that bumps your version numbers and more
+- [reliverse/pmx](https://github.com/reliverse/pmx) - @reliverse/pmx: A versatile package manager that wraps around bun, pnpm, yarn, and npm. This global installation tool detects your preferred package manager and installs packages accordingly. Switched
+- [antfu-collective/package-manager-detector](https://github.com/antfu-collective/package-manager-detector) - Package manager detector
+- [reliverse/cutexe](https://github.com/reliverse/cutexe) - @reliverse/cutexe: Running commands in your scripts can now be an enjoyable, charming, and cute process. Embrace cutexe, not just child_process execution. This library is a great alternative to execa,
+- [tinylibs/tinyexec](https://github.com/tinylibs/tinyexec) - 📟 A tiny, higher level interface around child_process
+- [reliverse/pm](https://github.com/reliverse/pm) - @reliverse/pm: A library that detects the installed package managers, identifies the correct package manager, and provides various useful utilities for developers and users.
+- [blefnk/turborepo-monorepo-template](https://github.com/blefnk/turborepo-monorepo-template) - pnpm turborepo monorepo template
+- [blefnk/bun-monorepo-template](https://github.com/blefnk/bun-monorepo-template) - Bun Monorepo Template
+- [LucaCappelletti94/csv_trimming](https://github.com/LucaCappelletti94/csv_trimming) - Package python to remove common ugliness from a csv-like file
+- [unjs/mkdist](https://github.com/unjs/mkdist) - Lightweight file-to-file transpiler.
+- [jamonholmgren/bluebun](https://github.com/jamonholmgren/bluebun) - Bun-powered CLI library, inspired by Gluegun
+- [sindresorhus/yocto-spinner](https://github.com/sindresorhus/yocto-spinner) - Tiny terminal spinner
+- [nuxt/cli](https://github.com/nuxt/cli) - ⚡️ Nuxt Generation CLI Experience.
+- [reliverse/cli-framework](https://github.com/reliverse/cli-framework) - Building a CLI can be difficult, right? This project will make everything easier and more convenient.
+- [reliverse/better-pub](https://github.com/reliverse/better-pub) - 🧩 The most comprehensive npm publishing library. Coming soon.
+- [blefnk/deno-cli-tutorial](https://github.com/blefnk/deno-cli-tutorial) - Deno CLI Bun Example
+- [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [reliverse/awesome](https://github.com/reliverse/awesome) - @reliverse/awesome: Amazing projects created by the Reliverse core team and community, featuring the use of Reliverse tools and features.
-- [zen-browser/components](https://github.com/zen-browser/components) - Some components used by @zen-browser as an attempt to make firefox forks a better place
 - [reliverse/browser](https://github.com/reliverse/browser) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [reliverse/reliverse-old-version](https://github.com/reliverse/reliverse-old-version) - Reliverse (old version) | See new version: https://github.com/blefnk/reliverse
 - [reliverse/vscode-extension-framework](https://github.com/reliverse/vscode-extension-framework) - ⚡ Next-gen VSCode Extension Framework. 🧩 It's like WXT, but for VSCode Extensions.
@@ -1782,7 +1824,6 @@
 - [blefonix/omp-pg](https://github.com/blefonix/omp-pg) - open.mp PostgreSQL plugin -- work in progress
 - [WoutProvost/samp-util](https://github.com/WoutProvost/samp-util) - A set of useful utility functions for SA-MP
 - [blefonix/omp-plugin-sdk](https://github.com/blefonix/omp-plugin-sdk) - open.mp plugin sdk -- [work in progress] samp plugin sdk full rewriting
-- [Zeex/samp-plugin-sdk](https://github.com/Zeex/samp-plugin-sdk) - Copy of the SA-MP plugin SDK
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [Pottus/Texture-Studio](https://github.com/Pottus/Texture-Studio) - 
 - [ukrainian-freedom/eloquent-book-ua](https://github.com/ukrainian-freedom/eloquent-book-ua) - Переклад книги Eloquent JavaScript українською. Офіційний сайт: https://eloquentjavascript.net/. Спершу комміти робляться на це окреме репо, а пізніше єдиним паком робляться на ukrainian-freedom/Eloqu
@@ -1790,7 +1831,6 @@
 - [ukrainian-freedom/Eloquent-JavaScript](https://github.com/ukrainian-freedom/Eloquent-JavaScript) - Переклад книги Eloquent JavaScript українською. Офіційний сайт: https://eloquentjavascript.net/. Спершу комміти робляться на окреме ukrainian-freedom/eloquent-book-ua репо, а пізніше єдиним паком робл
 - [marijnh/Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript) - The sources for the Eloquent JavaScript book
 - [mysy00/gta-scanner](https://github.com/mysy00/gta-scanner) - Scan SA:MP folder to get a list of installed mods
-- [Zeex/samp-plugin-crashdetect](https://github.com/Zeex/samp-plugin-crashdetect) - Crash/error reporting plugin for SA-MP server
 - [Southclaws/samp-logger](https://github.com/Southclaws/samp-logger) - Structured logging for Pawn.
 - [oscar-broman/strlib](https://github.com/oscar-broman/strlib) - String functions for SA-MP Pawn scripting.
 - [mysy00/LangPlus](https://github.com/mysy00/LangPlus) - Create multilanguage open.mp servers with ease
@@ -2399,6 +2439,7 @@
 
 ## package-manager 
 
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -2474,6 +2515,8 @@
 
 ## python 
 
+- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
@@ -2511,6 +2554,8 @@
 
 ## react 
 
+- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your codebase
+- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
@@ -2613,7 +2658,7 @@
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [nanxiaobei/flooks](https://github.com/nanxiaobei/flooks) - 🍸 Auto Optimized State Manager for React Hooks
-- [nanxiaobei/resso](https://github.com/nanxiaobei/resso) - 🪢 The simplest React state manager
+- [nanxiaobei/resso](https://github.com/nanxiaobei/resso) - 🪢 Simplest React state manager
 - [vantezzen/autoform](https://github.com/vantezzen/autoform) - 🌟 Automatically render forms for your existing data schema
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
@@ -2646,6 +2691,7 @@
 
 ## react-native 
 
+- [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [margelo/react-native-skottie](https://github.com/margelo/react-native-skottie) - ▶️ Efficient lottie animations using Skia's Skottie module
@@ -2656,6 +2702,7 @@
 
 ## reactjs 
 
+- [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [MishanPoudel/Windows11-3.0](https://github.com/MishanPoudel/Windows11-3.0) - Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.
 - [alovajs/alova](https://github.com/alovajs/alova) - Workflow-Streamlined next-generation request tools. Extremely streamline API integration workflow, just one step
@@ -2685,6 +2732,7 @@
 
 ## redux 
 
+- [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [davidjbradshaw/eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on project dependencies
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
@@ -2695,7 +2743,7 @@
 - [klis87/normy](https://github.com/klis87/normy) - Automatic normalization and data updates for data fetching libraries (react-query, swr, rtk-query and more)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [nanxiaobei/flooks](https://github.com/nanxiaobei/flooks) - 🍸 Auto Optimized State Manager for React Hooks
-- [nanxiaobei/resso](https://github.com/nanxiaobei/resso) - 🪢 The simplest React state manager
+- [nanxiaobei/resso](https://github.com/nanxiaobei/resso) - 🪢 Simplest React state manager
 
 ## rest-api 
 
@@ -2711,8 +2759,13 @@
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
 - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
 
+## ruby 
+
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
+
 ## rust 
 
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -2820,6 +2873,7 @@
 
 ## svelte 
 
+- [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [alovajs/alova](https://github.com/alovajs/alova) - Workflow-Streamlined next-generation request tools. Extremely streamline API integration workflow, just one step
 - [WJSoftware/wj-config](https://github.com/WJSoftware/wj-config) - JavaScript configuration module for browser and server projects that works like .Net configuration where any number of data sources are merged and environment variables can contribute/overwrite values
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -2837,6 +2891,7 @@
 
 ## tailwindcss 
 
+- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [bcms/starters](https://github.com/bcms/starters) - 👩‍💻 Build beautiful, accessible, high-performance websites with BCMS
 - [wind-press/windpress](https://github.com/wind-press/windpress) - Use Tailwind CSS within the block editor, page builders, plugins, and themes — no build step is required
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
@@ -2925,7 +2980,10 @@
 
 ## typescript 
 
-- [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
+- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your codebase
+- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
+- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [zce/velite](https://github.com/zce/velite) - Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
@@ -3055,7 +3113,7 @@
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 💝
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
-- [nanxiaobei/resso](https://github.com/nanxiaobei/resso) - 🪢 The simplest React state manager
+- [nanxiaobei/resso](https://github.com/nanxiaobei/resso) - 🪢 Simplest React state manager
 - [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 - [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
@@ -3148,6 +3206,7 @@
 
 ## webapp 
 
+- [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.
