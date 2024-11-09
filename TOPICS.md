@@ -403,7 +403,7 @@
 
 ## cli 
 
-- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your codebase
+- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your project
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
@@ -663,6 +663,7 @@
 
 ## eslint 
 
+- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your project
 - [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 - [ota-meshi/eslint-plugin-json-schema-validator](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - ESLint plugin that validates data using JSON Schema Validator.
 - [wix-incubator/eslint-plugin-lodash](https://github.com/wix-incubator/eslint-plugin-lodash) - ESLint rules for lodash
@@ -991,7 +992,6 @@
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Lit Form and Vue Form.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [adasq/youtube-studio](https://github.com/adasq/youtube-studio) - Unofficial YouTube Studio API
@@ -1467,8 +1467,7 @@
 
 ## nextjs 
 
-- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your codebase
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [leerob/next-music-player](https://github.com/leerob/next-music-player) - A blazing fast, information dense media player built with Next.js.
 - [bcms/starters](https://github.com/bcms/starters) - 👩‍💻 Build beautiful, accessible, high-performance websites with BCMS
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
@@ -1699,6 +1698,7 @@
 
 ## npm 
 
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [reliverse/acme](https://github.com/reliverse/acme) - 📄 @reliverse/acme is a @reliverse/addons template that provides a starting point for developing new packages within the Reliverse ecosystem, offering pre-configured setup and guidelines to streamline 
@@ -1766,6 +1766,7 @@
 
 ## others 
 
+- [fireship-io/javascript-millionaire](https://github.com/fireship-io/javascript-millionaire) - Who wants to be a JavaScript Millionaire terminal game
 - [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) - Interactive CLI that bumps your version numbers and more
 - [reliverse/pmx](https://github.com/reliverse/pmx) - @reliverse/pmx: A versatile package manager that wraps around bun, pnpm, yarn, and npm. This global installation tool detects your preferred package manager and installs packages accordingly. Switched
 - [antfu-collective/package-manager-detector](https://github.com/antfu-collective/package-manager-detector) - Package manager detector
@@ -2515,7 +2516,7 @@
 
 ## python 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
@@ -2554,8 +2555,8 @@
 
 ## react 
 
-- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your codebase
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your project
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [uixmat/onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
@@ -2765,6 +2766,7 @@
 
 ## rust 
 
+- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your project
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
@@ -2891,7 +2893,6 @@
 
 ## tailwindcss 
 
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [bcms/starters](https://github.com/bcms/starters) - 👩‍💻 Build beautiful, accessible, high-performance websites with BCMS
 - [wind-press/windpress](https://github.com/wind-press/windpress) - Use Tailwind CSS within the block editor, page builders, plugins, and themes — no build step is required
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
@@ -2980,9 +2981,9 @@
 
 ## typescript 
 
-- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your codebase
+- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your project
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [zce/velite](https://github.com/zce/velite) - Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
