@@ -236,6 +236,7 @@
 
 ## JavaScript 
 
+- [fireship-io/javascript-millionaire](https://github.com/fireship-io/javascript-millionaire) - Who wants to be a JavaScript Millionaire terminal game
 - [sindresorhus/yocto-spinner](https://github.com/sindresorhus/yocto-spinner) - Tiny terminal spinner
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [estools/esquery](https://github.com/estools/esquery) - ECMAScript AST query library.
@@ -562,9 +563,6 @@
 
 ## Others 
 
-- [reliverse/pmx](https://github.com/reliverse/pmx) - @reliverse/pmx: A versatile package manager that wraps around bun, pnpm, yarn, and npm. This global installation tool detects your preferred package manager and installs packages accordingly. Switched
-- [reliverse/cutexe](https://github.com/reliverse/cutexe) - @reliverse/cutexe: Running commands in your scripts can now be an enjoyable, charming, and cute process. Embrace cutexe, not just child_process execution. This library is a great alternative to execa,
-- [reliverse/pm](https://github.com/reliverse/pm) - @reliverse/pm: A library that detects the installed package managers, identifies the correct package manager, and provides various useful utilities for developers and users.
 - [blefnk/turborepo-monorepo-template](https://github.com/blefnk/turborepo-monorepo-template) - pnpm turborepo monorepo template
 - [blefnk/bun-monorepo-template](https://github.com/blefnk/bun-monorepo-template) - Bun Monorepo Template
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
@@ -788,7 +786,7 @@
 ## Python 
 
 - [LucaCappelletti94/csv_trimming](https://github.com/LucaCappelletti94/csv_trimming) - Package python to remove common ugliness from a csv-like file
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
@@ -906,10 +904,14 @@
 
 ## TypeScript 
 
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) - Interactive CLI that bumps your version numbers and more
+- [reliverse/pmx](https://github.com/reliverse/pmx) - @reliverse/pmx: A versatile package manager that wraps around bun, pnpm, yarn, and npm. This global installation tool detects your preferred package manager and installs packages accordingly. Switched
 - [antfu-collective/package-manager-detector](https://github.com/antfu-collective/package-manager-detector) - Package manager detector
+- [reliverse/cutexe](https://github.com/reliverse/cutexe) - @reliverse/cutexe: Running commands in your scripts can now be an enjoyable, charming, and cute process. Embrace cutexe, not just child_process execution. This library is a great alternative to execa,
 - [tinylibs/tinyexec](https://github.com/tinylibs/tinyexec) - 📟 A tiny, higher level interface around child_process
-- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your codebase
+- [Pyr33x/rehooks](https://github.com/Pyr33x/rehooks) - 🪄 A CLI to import hooks directly to your project
+- [reliverse/pm](https://github.com/reliverse/pm) - @reliverse/pm: A library that detects the installed package managers, identifies the correct package manager, and provides various useful utilities for developers and users.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [unjs/mkdist](https://github.com/unjs/mkdist) - Lightweight file-to-file transpiler.
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
