@@ -1062,7 +1062,7 @@
 
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
-- [reliverse/prompts](https://github.com/reliverse/prompts) - @reliverse/prompts: A modern, type-safe, crash-resistant library for creating seamless, typesafe prompts in CLI applications. Designed for simplicity and elegance, it enables intuitive and robust user
+- [reliverse/prompts](https://github.com/reliverse/prompts) - ⌨️ @reliverse/prompts: A modern, type-safe, crash-resistant library for creating seamless, typesafe prompts in CLI applications. Designed for simplicity and elegance, it enables intuitive and robust u
 - [estools/esquery](https://github.com/estools/esquery) - ECMAScript AST query library.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -1293,7 +1293,7 @@
 
 ## library 
 
-- [reliverse/prompts](https://github.com/reliverse/prompts) - @reliverse/prompts: A modern, type-safe, crash-resistant library for creating seamless, typesafe prompts in CLI applications. Designed for simplicity and elegance, it enables intuitive and robust user
+- [reliverse/prompts](https://github.com/reliverse/prompts) - ⌨️ @reliverse/prompts: A modern, type-safe, crash-resistant library for creating seamless, typesafe prompts in CLI applications. Designed for simplicity and elegance, it enables intuitive and robust u
 - [ehmicky/modern-errors-switch](https://github.com/ehmicky/modern-errors-switch) - `modern-errors` plugin to execute class-specific logic.
 - [ehmicky/modern-errors-winston](https://github.com/ehmicky/modern-errors-winston) - `modern-errors` plugin for Winston.
 - [ehmicky/modern-errors-http](https://github.com/ehmicky/modern-errors-http) - `modern-errors` plugin to create HTTP error responses.
@@ -1766,6 +1766,8 @@
 
 ## others 
 
+- [blefnk/prompts-plus-plus](https://github.com/blefnk/prompts-plus-plus) - ❯ Lightweight, beautiful and user-friendly interactive prompts
+- [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster) - A highly performant e-commerce template using Next.js
 - [fireship-io/javascript-millionaire](https://github.com/fireship-io/javascript-millionaire) - Who wants to be a JavaScript Millionaire terminal game
 - [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) - Interactive CLI that bumps your version numbers and more
 - [reliverse/pmx](https://github.com/reliverse/pmx) - @reliverse/pmx: A versatile package manager that wraps around bun, pnpm, yarn, and npm. This global installation tool detects your preferred package manager and installs packages accordingly. Switched
