@@ -236,6 +236,7 @@
 
 ## JavaScript 
 
+- [blefnk/prompts-plus-plus](https://github.com/blefnk/prompts-plus-plus) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [fireship-io/javascript-millionaire](https://github.com/fireship-io/javascript-millionaire) - Who wants to be a JavaScript Millionaire terminal game
 - [sindresorhus/yocto-spinner](https://github.com/sindresorhus/yocto-spinner) - Tiny terminal spinner
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
@@ -904,6 +905,7 @@
 
 ## TypeScript 
 
+- [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster) - A highly performant e-commerce template using Next.js
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) - Interactive CLI that bumps your version numbers and more
 - [reliverse/pmx](https://github.com/reliverse/pmx) - @reliverse/pmx: A versatile package manager that wraps around bun, pnpm, yarn, and npm. This global installation tool detects your preferred package manager and installs packages accordingly. Switched
@@ -920,7 +922,7 @@
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [nuxt/cli](https://github.com/nuxt/cli) - ⚡️ Nuxt Generation CLI Experience.
-- [reliverse/prompts](https://github.com/reliverse/prompts) - @reliverse/prompts: A modern, type-safe, crash-resistant library for creating seamless, typesafe prompts in CLI applications. Designed for simplicity and elegance, it enables intuitive and robust user
+- [reliverse/prompts](https://github.com/reliverse/prompts) - ⌨️ @reliverse/prompts: A modern, type-safe, crash-resistant library for creating seamless, typesafe prompts in CLI applications. Designed for simplicity and elegance, it enables intuitive and robust u
 - [blefnk/deno-cli-tutorial](https://github.com/blefnk/deno-cli-tutorial) - Deno CLI Bun Example
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [leerob/next-music-player](https://github.com/leerob/next-music-player) - A blazing fast, information dense media player built with Next.js.
