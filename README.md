@@ -236,6 +236,8 @@
 
 ## JavaScript 
 
+- [muan/unicode-emoji-json](https://github.com/muan/unicode-emoji-json) - Emoji data from unicode.org as easily consumable JSON files.
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [blefnk/prompts-plus-plus](https://github.com/blefnk/prompts-plus-plus) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [fireship-io/javascript-millionaire](https://github.com/fireship-io/javascript-millionaire) - Who wants to be a JavaScript Millionaire terminal game
 - [sindresorhus/yocto-spinner](https://github.com/sindresorhus/yocto-spinner) - Tiny terminal spinner
@@ -564,6 +566,7 @@
 
 ## Others 
 
+- [reliverse/converter](https://github.com/reliverse/converter) - @reliverse/converter CLI: Convert anything into anything. Quickly. Smoothly.
 - [blefnk/turborepo-monorepo-template](https://github.com/blefnk/turborepo-monorepo-template) - pnpm turborepo monorepo template
 - [blefnk/bun-monorepo-template](https://github.com/blefnk/bun-monorepo-template) - Bun Monorepo Template
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
@@ -879,6 +882,7 @@
 
 ## Shell 
 
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [dv-anomaly/ttf-wps-fonts](https://github.com/dv-anomaly/ttf-wps-fonts) - Symbol fonts required by wps-office.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [blefnk/bleinso](https://github.com/blefnk/bleinso) - 🅱️ Bleinso Mono – the free and open-source typeface for developers and beyond. JetBrains Mono – the famous typeface on which this one is based.
@@ -905,6 +909,9 @@
 
 ## TypeScript 
 
+- [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
+- [omnidan/node-emoji](https://github.com/omnidan/node-emoji) - 💖 simple emoji support for node.js projects
+- [oclif/core](https://github.com/oclif/core) - Node.js Open CLI Framework. Built by Salesforce.
 - [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster) - A highly performant e-commerce template using Next.js
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) - Interactive CLI that bumps your version numbers and more
@@ -1313,7 +1320,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [BergerAPI/inhalt](https://github.com/BergerAPI/inhalt) - A content management system for developers
 - [teo-goulois/next-i18n-next-auth-drizzle-trpc](https://github.com/teo-goulois/next-i18n-next-auth-drizzle-trpc) - 
-- [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+- [motiondivision/motion](https://github.com/motiondivision/motion) - Open source, production-ready animation and gesture library for React
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
