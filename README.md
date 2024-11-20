@@ -241,7 +241,6 @@
 - [terkelg/sisteransi](https://github.com/terkelg/sisteransi) - ANSI escape codes for some terminal swag.
 - [muan/unicode-emoji-json](https://github.com/muan/unicode-emoji-json) - Emoji data from unicode.org as easily consumable JSON files.
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
-- [blefnk/prompts-plus-plus](https://github.com/blefnk/prompts-plus-plus) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [fireship-io/javascript-millionaire](https://github.com/fireship-io/javascript-millionaire) - Who wants to be a JavaScript Millionaire terminal game
 - [sindresorhus/yocto-spinner](https://github.com/sindresorhus/yocto-spinner) - Tiny terminal spinner
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
@@ -516,7 +515,7 @@
 - [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [chrisguttandin/worker-timers](https://github.com/chrisguttandin/worker-timers) - A replacement for setInterval() and setTimeout() which works in unfocused windows.
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - just a GPT wrapper for git — generate commit messages with AI in 1 sec 🤯🔫
 - [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰180+ options & clever features 📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content 
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -570,6 +569,7 @@
 
 ## Others 
 
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [reliverse/converter](https://github.com/reliverse/converter) - @reliverse/converter CLI: Convert anything into anything. Quickly. Smoothly.
 - [blefnk/turborepo-monorepo-template](https://github.com/blefnk/turborepo-monorepo-template) - pnpm turborepo monorepo template
 - [blefnk/bun-monorepo-template](https://github.com/blefnk/bun-monorepo-template) - Bun Monorepo Template
@@ -793,6 +793,7 @@
 
 ## Python 
 
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python
 - [LucaCappelletti94/csv_trimming](https://github.com/LucaCappelletti94/csv_trimming) - Package python to remove common ugliness from a csv-like file
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes.
@@ -934,7 +935,7 @@
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [nuxt/cli](https://github.com/nuxt/cli) - ⚡️ Nuxt Generation CLI Experience.
-- [reliverse/prompts](https://github.com/reliverse/prompts) - ⌨️ @reliverse/prompts: A modern, type-safe, crash-resistant library for creating seamless, typesafe prompts in CLI applications. Designed for simplicity and elegance, it enables intuitive and robust u
+- [reliverse/relinka](https://github.com/reliverse/relinka) - ⌨️ @reliverse/prompts: A modern, type-safe, crash-resistant library for creating seamless, typesafe prompts in CLI applications. Designed for simplicity and elegance, it enables intuitive and robust u
 - [blefnk/deno-cli-tutorial](https://github.com/blefnk/deno-cli-tutorial) - Deno CLI Bun Example
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [leerob/next-music-player](https://github.com/leerob/next-music-player) - A blazing fast, information dense media player built with Next.js.
@@ -1073,7 +1074,7 @@
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌
 - [gajus/eslint-plugin-canonical](https://github.com/gajus/eslint-plugin-canonical) - ESLint rules for Canonical ruleset.
 - [mskelton/eslint-plugin-sort](https://github.com/mskelton/eslint-plugin-sort) - Auto-fixable sort rules for ESLint.
-- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - A series of composable ESLint plugins for libraries and frameworks that use React as a UI runtime.
+- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react) - Monorepo for eslint-plugin-react-[x, dom, web-api, hooks-extra, naming-convention].
 - [Blazity/enterprise-commerce](https://github.com/Blazity/enterprise-commerce) - ⚡ Next.js storefront for high-performance eCommerce with AI features and one-click deployment
 - [mdx-js/eslint-mdx](https://github.com/mdx-js/eslint-mdx) - ESLint Parser/Plugin for MDX
 - [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x) - `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin.
@@ -1490,6 +1491,7 @@
 
 ## Vue 
 
+- [Acreom/app](https://github.com/Acreom/app) - 2nd brain for software engineers. A local-first knowledge base for your daily context and projects.
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
 - [eslint/config-inspector](https://github.com/eslint/config-inspector) - A visual tool for inspecting and understanding your ESLint flat configs.
 - [blefnk/esviewer](https://github.com/blefnk/esviewer) - A visual tool to help you view and understand your ESLint Flat config.
