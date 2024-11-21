@@ -225,6 +225,7 @@
 - [w3c/smufl](https://github.com/w3c/smufl) - Standard Music Font Layout
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [foobar404/wave.js](https://github.com/foobar404/wave.js) - Audio visualizer library for javascript. Create dynamic animations that react to an audio file or audio stream.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [w3c/silver](https://github.com/w3c/silver) - Accessibility Guidelines "Silver"
 
@@ -236,6 +237,8 @@
 
 ## JavaScript 
 
+- [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
+- [nodejs/string_decoder](https://github.com/nodejs/string_decoder) - 'string_decoder' module from Node.js core
 - [scijs/ndarray](https://github.com/scijs/ndarray) - 📈 Multidimensional arrays for JavaScript
 - [cronvel/terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
 - [terkelg/sisteransi](https://github.com/terkelg/sisteransi) - ANSI escape codes for some terminal swag.
@@ -515,7 +518,7 @@
 - [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [chrisguttandin/worker-timers](https://github.com/chrisguttandin/worker-timers) - A replacement for setInterval() and setTimeout() which works in unfocused windows.
 - [0xfe/vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - just a GPT wrapper for git — generate commit messages with AI in 1 sec 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - just a GPT wrapper for git — generate commit messages by an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰180+ options & clever features 📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content 
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -734,7 +737,6 @@
 - [blefnk/got-show-subtitles](https://github.com/blefnk/got-show-subtitles) - 🪶 Open-source subtitles for the Game of Thrones in the multiple languages.
 - [blefnk/bleverse-com-oss](https://github.com/blefnk/bleverse-com-oss) - 🌐 Bleverse Community. A unique combination of a freelance marketplace and social networking app. Built with Next.js 13, Tailwind, Prisma, TypeScript, and more. Public version available for exploration
 - [blefnk/packages](https://github.com/blefnk/packages) - 📦 A monorepo with npm packages commonly used in my public projects.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [reliverse/lumonish](https://github.com/reliverse/lumonish) - 🌅 Current translation systems are not perfect. This open-source project aims to do the things that DeepL and Google Translate missed.
 - [reliverse/episkey](https://github.com/reliverse/episkey) - 🪶 A web framework that saves you from the overwhelming complexity of the web world we live in. Currently still in initial alpha production.
 - [reliverse/patronus](https://github.com/reliverse/patronus) - 🤖 Building powerful open-source AI text-model. Exploring latest possibilities of AI engineering. The initial alpha release will be soon.
@@ -824,7 +826,7 @@
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [venthur/dotenv-cli](https://github.com/venthur/dotenv-cli) - Executes commands with environment variables set from .env file. Zero dependencies.
-- [qiuyu96/CoDeF](https://github.com/qiuyu96/CoDeF) - [CVPR 2024 Highlight] Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
+- [qiuyu96/CoDeF](https://github.com/qiuyu96/CoDeF) - [CVPR'24 Highlight] Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [ToxicFrog/Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -914,6 +916,7 @@
 
 ## TypeScript 
 
+- [wessberg/cjstoesm](https://github.com/wessberg/cjstoesm) - A tool that can transform CommonJS to ESM
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
 - [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
 - [omnidan/node-emoji](https://github.com/omnidan/node-emoji) - 💖 simple emoji support for node.js projects
@@ -1123,7 +1126,7 @@
 - [pexllecn/pexllecn](https://github.com/pexllecn/pexllecn) - Building a complete nextjs starter supported by shadcn components
 - [pjborowiecki/SAASY-LAND-Next-14-Starters-With-Authentication-And-Database-Implemented](https://github.com/pjborowiecki/SAASY-LAND-Next-14-Starters-With-Authentication-And-Database-Implemented) - Modern, open source starter templates for Next.js 14 full-stack and SAAS projects. Built with Tailwind CSS, ShadCn, Next-Auth v.5 and several databases. Branches contain stand-alone set ups, including
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. Alternative to Nextra
-- [projectx-codehagen/Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
+- [Codehagen/Badget](https://github.com/Codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
 - [getsentry/spotlight](https://github.com/getsentry/spotlight) - Your Universal Debug Toolbar
 - [venables/typed-route-handler](https://github.com/venables/typed-route-handler) - Type-safe API Route Handlers for Next.js
 - [withastro/prettier-plugin-astro](https://github.com/withastro/prettier-plugin-astro) - Prettier plugin for Astro
