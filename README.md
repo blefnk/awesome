@@ -237,6 +237,7 @@
 
 ## JavaScript 
 
+- [npkgz/cli-progress](https://github.com/npkgz/cli-progress) - :hourglass: easy to use progress-bar for command-line/terminal applications
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
 - [nodejs/string_decoder](https://github.com/nodejs/string_decoder) - 'string_decoder' module from Node.js core
 - [scijs/ndarray](https://github.com/scijs/ndarray) - 📈 Multidimensional arrays for JavaScript
@@ -572,6 +573,7 @@
 
 ## Others 
 
+- [sindresorhus/tsconfig](https://github.com/sindresorhus/tsconfig) - Shared TypeScript config for my projects
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [reliverse/converter](https://github.com/reliverse/converter) - @reliverse/converter CLI: Convert anything into anything. Quickly. Smoothly.
 - [blefnk/turborepo-monorepo-template](https://github.com/blefnk/turborepo-monorepo-template) - pnpm turborepo monorepo template
@@ -916,6 +918,7 @@
 
 ## TypeScript 
 
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [wessberg/cjstoesm](https://github.com/wessberg/cjstoesm) - A tool that can transform CommonJS to ESM
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
 - [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
@@ -938,7 +941,7 @@
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [nuxt/cli](https://github.com/nuxt/cli) - ⚡️ Nuxt Generation CLI Experience.
-- [reliverse/relinka](https://github.com/reliverse/relinka) - ⌨️ @reliverse/prompts: A modern, type-safe, crash-resistant library for creating seamless, typesafe prompts in CLI applications. Designed for simplicity and elegance, it enables intuitive and robust u
+- [reliverse/relinka](https://github.com/reliverse/relinka) - ⌨️ @reliverse/relinka is a full-featured alternative to @inquirer/prompts (Inquirer.js), enquirer, @clack/prompts, terkelg prompts, cronvel terminal-kit, unjs consola, and similar prompts libraries.
 - [blefnk/deno-cli-tutorial](https://github.com/blefnk/deno-cli-tutorial) - Deno CLI Bun Example
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [leerob/next-music-player](https://github.com/leerob/next-music-player) - A blazing fast, information dense media player built with Next.js.
