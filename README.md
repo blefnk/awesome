@@ -237,6 +237,8 @@
 
 ## JavaScript 
 
+- [sindresorhus/terminal-size-cli](https://github.com/sindresorhus/terminal-size-cli) - Reliably get the terminal window size - cross-platform
+- [sindresorhus/terminal-size](https://github.com/sindresorhus/terminal-size) - Reliably get the terminal window size
 - [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
 - [npkgz/cli-progress](https://github.com/npkgz/cli-progress) - :hourglass: easy to use progress-bar for command-line/terminal applications
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
@@ -1176,7 +1178,7 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [alissonsleal/tough-cookie](https://github.com/alissonsleal/tough-cookie) - RFC6265 Cookies and CookieJar for Node.js
 - [elijahjcobb/next-api](https://github.com/elijahjcobb/next-api) - 
-- [pdovhomilja/nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM is a CRM build on top of the latest Next.JS 14. using TypeScript,  great UI library shadcn, Prisma and MongoDB as a database.  Uploadthings as a S3 blob for document storage.
+- [pdovhomilja/nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM is a CRM build on top of the latest Next.JS 15. using TypeScript,  great UI library shadcn, Prisma and MongoDB as a database.  Uploadthings as a S3 blob for document storage.
 - [blefnk/estylistic](https://github.com/blefnk/estylistic) - Monorepo for ESLint Stylistic plugins and configs
 - [blefnk/esconfig](https://github.com/blefnk/esconfig) - ESLint config preset (created by antfu, modified by blefnk)
 - [antfu/eslint-plugin-format](https://github.com/antfu/eslint-plugin-format) - Format various languages with formatters in ESLint
