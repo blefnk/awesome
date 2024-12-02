@@ -14,6 +14,7 @@
 - [CSS](#css)
 - [Cuda](#cuda)
 - [Dart](#dart)
+- [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Git Attributes](#git-attributes)
 - [Go](#go)
@@ -162,6 +163,10 @@
 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 
+## Dockerfile 
+
+- [streetsidesoftware/cspell-cli](https://github.com/streetsidesoftware/cspell-cli) - CSpell command line spell checker.
+
 ## Elixir 
 
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -238,6 +243,7 @@
 
 ## JavaScript 
 
+- [microsoft/vscode-ripgrep](https://github.com/microsoft/vscode-ripgrep) - For consuming the ripgrep binary from microsoft/ripgrep-prebuilt in a Node project
 - [nextauthjs/cli](https://github.com/nextauthjs/cli) - The CLI tool by Auth.js to supercharge your authentication workflows
 - [moxystudio/node-cross-spawn](https://github.com/moxystudio/node-cross-spawn) - A cross platform solution to node's spawn and spawnSync
 - [sindresorhus/terminal-size-cli](https://github.com/sindresorhus/terminal-size-cli) - Reliably get the terminal window size - cross-platform
@@ -451,7 +457,6 @@
 - [jsx-eslint/eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements.
 - [gajus/eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules for ESLint.
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
-- [nickdeis/eslint-plugin-no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin to find strings that might be secrets/credentials
 - [eslint-community/eslint-plugin-promise](https://github.com/eslint-community/eslint-plugin-promise) - Enforce best practices for JavaScript promises
 - [kantord/eslint-plugin-write-good-comments](https://github.com/kantord/eslint-plugin-write-good-comments) - ESLint rule that forces you to write good comments
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
@@ -1250,6 +1255,7 @@
 - [gund/eslint-plugin-deprecation](https://github.com/gund/eslint-plugin-deprecation) - ESLint rule that reports usage of deprecated code
 - [ota-meshi/eslint-plugin-jsonc](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON(C|5)? files
 - [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
+- [nickdeis/eslint-plugin-no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin to find strings that might be secrets/credentials
 - [blefnk/perfectionist](https://github.com/blefnk/perfectionist) - 🦄 ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.
 - [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode
 - [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist) - ☂️ ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.
