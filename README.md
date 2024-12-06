@@ -237,7 +237,7 @@
 
 ## Java 
 
-- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 1.21 Lightweight Minecraft server
+- [Minestom/Minestom](https://github.com/Minestom/Minestom) - 1.21.3 Lightweight Minecraft server
 - [Audiveris/audiveris](https://github.com/Audiveris/audiveris) - Latest generation of Audiveris OMR engine
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 
@@ -581,6 +581,7 @@
 
 ## Others 
 
+- [blefnk/og](https://github.com/blefnk/og) - OG
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [RayFernando1337/llm-cursor-rules](https://github.com/RayFernando1337/llm-cursor-rules) - My go-to rules for using Cursor and LLMs in software development.
 - [sindresorhus/tsconfig](https://github.com/sindresorhus/tsconfig) - Shared TypeScript config for my projects
@@ -902,6 +903,7 @@
 
 ## Shell 
 
+- [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [dv-anomaly/ttf-wps-fonts](https://github.com/dv-anomaly/ttf-wps-fonts) - Symbol fonts required by wps-office.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
@@ -929,6 +931,12 @@
 
 ## TypeScript 
 
+- [blefnk/versator](https://github.com/blefnk/versator) - Versator is an open-source e-commerce template built with the latest features in Next.js 15, React 18/19, TypeScript 5.6, ESLint 9, Biome, and more. ⭐️ It’s used by major projects such as 👉 https://gi
+- [un-ts/synckit](https://github.com/un-ts/synckit) - Perform async work synchronously in Node.js using `worker_threads` with first-class TypeScript and Yarn P'n'P support.
+- [gabrielpetersson/fast-grid](https://github.com/gabrielpetersson/fast-grid) - World's most performant DOM-based web table. Try it! fast-grid.vercel.app/
+- [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
+- [uhyo/better-typescript-lib](https://github.com/uhyo/better-typescript-lib) - Better TypeScript standard library
+- [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [unkeyed/examples](https://github.com/unkeyed/examples) - Templates for building applications with Unkey.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [unjs/confbox](https://github.com/unjs/confbox) - Compact and high quality YAML, TOML, JSONC and JSON5 parsers
@@ -974,7 +982,6 @@
 - [unjs/unrouting](https://github.com/unjs/unrouting) - Making filesystem routing universal
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄
-- [blefnk/versator-nextjs-template](https://github.com/blefnk/versator-nextjs-template) - Versator is an open-source e-commerce template built with the latest features in Next.js 15, React 18/19, TypeScript 5.6, ESLint 9, Biome, and more. ⭐ It’s used by major projects such as 👉 https://git
 - [reliverse/astro-docs-json-to-mdx](https://github.com/reliverse/astro-docs-json-to-mdx) - The project demonstrates an example of a json to mdx generator to simplify the work with i18n in Astro Starlight.
 - [vercel-community/deno](https://github.com/vercel-community/deno) - 🦕 Deno runtime for ▲ Vercel Serverless Functions
 - [rcoopr/inline-math](https://github.com/rcoopr/inline-math) - 
@@ -1223,7 +1230,7 @@
 - [justinribeiro/lite-youtube](https://github.com/justinribeiro/lite-youtube) - The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [blefnk/lobechat](https://github.com/blefnk/lobechat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [bufbuild/jest-environment-jsdom](https://github.com/bufbuild/jest-environment-jsdom) - A modern jsdom test environment for Jest
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
